@@ -1,0 +1,6 @@
+---
+title: 'Voice and Tone'
+type: 'Style and Standards'
+---
+
+<%- @partial('dg_StyleandStandards_VoiceandTone') %>
