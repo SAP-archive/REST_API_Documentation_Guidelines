@@ -39,6 +39,25 @@ Do not use the first and second heading levels because they are reserved in the 
 This means that if you use H1 or H2 inside your documents, the heading is too large in comparison to the overall navigation and separation of sections within the documentation. Start your headings with H3, and increase the numbering from there to decrease the heading size.
 </div>
 
+#### Links
+
+Linking is a great tool to use to incorporate a lot of content into your document with fewer words. That being said, overuse of linking can create "link rot" when links break, and if a page has more links than content, it is not very pleasing to read. Choose carefully when and how to link by using these best practices.
+
+- Every link has the potential to go bad over time, and the more links you include, the higher the chance that one will break. If something is not central to the subject at hand, is well-known by your audience, or can be found with a simple search, there is no point in linking.
+- For external links, link to the main page of the external website and then describe how to access the destination link. For example, `Go to the <a href="www.raml.org">RAML</a> website and click on the download link.` Main page URLs are less likely to change.
+- Choose the link text carefully. Do not link entire phrases which become overemphatic. Instead, choose the noun, such as an article or specification within the phrase that helps the reader understand where the navigation leads them. Or use the title of the article or book as the link, but do not include the author and publisher.
+- Link to web pages instead of PDFs whenever possible.
+- Do not include spaces or other characters in the link that require escape characters for translation.
+- Check your links often to make sure they are still operational. There are free online tools to make it easier.
+
+##### Good examples
+
+- For more information about mixins, see the <a href="https://devportal.yaas.io/services/document/latest/index.html#OperateonMixins">Operate on Mixins</a> topic in the Document service documentation.
+- See the <a href="https://devportal.yaas.io/overview/yaasinanutshell/index.html">YaaS in a Nutshell</a> page for more information.
+- The recommended reading is a book entitled <a href="http://shop.oreilly.com/product/0636920033158.do">Building Microservices</a> by Sam Newman, O'Reilly Media.
+
+For information on using the HTML or MD linking syntax itself, see the <a href="https://devportal.yaas.io/tools/documentationsdk/index.html#About">Syntax</a> section of the Documentation SDK.
+
 #### Images and screenshots
 As someone once said, a picture is worth a thousand words. Therefore, whenever possible, use a diagram, image, or screenshot to convey a lot of information visually. Follow these guidelines when placing a diagram, screenshot, or other image in your content. For information on using the HTML or MD syntax itself, see the <a href="https://devportal.yaas.io/tools/documentationsdk/index.html#About">Syntax</a> section of the Documentation SDK.
 
