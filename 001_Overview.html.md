@@ -758,7 +758,7 @@ Fill in the remaining fields and click <b>Save</b>.
   	<td>
   	    <ul>
     	<li>
-  	For more information about creating email templates, see the <a href="/services/email/latest/">Email</a> section.
+  	For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> section.
     	</li>
     </ul>
 	</td>
