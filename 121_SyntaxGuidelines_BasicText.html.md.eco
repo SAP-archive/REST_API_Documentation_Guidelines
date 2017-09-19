@@ -1,6 +1,0 @@
----
-title: 'Basic Text Formatting'
-type: 'Syntax Guidelines'
----
-
-<%- @partial('dg_Syntax_BasicTextFormatting') %>
