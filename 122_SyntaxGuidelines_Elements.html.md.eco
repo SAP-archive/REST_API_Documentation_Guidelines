@@ -1,6 +1,0 @@
----
-title: 'Dev Portal Elements'
-type: 'Syntax Guidelines'
----
-
-<%- @partial('dg_Syntax_DevPortalElements') %>
