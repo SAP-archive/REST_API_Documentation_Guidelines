@@ -1,6 +1,0 @@
----
-title: 'Images and Diagrams'
-type: 'Syntax Guidelines'
----
-
-<%- @partial('dg_Syntax_ImagesandDiagrams') %>
