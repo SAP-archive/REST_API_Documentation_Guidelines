@@ -1,6 +1,0 @@
----
-title: 'Linking'
-type: 'Syntax Guidelines'
----
-
-<%- @partial('dg_Syntax_Linking') %>
