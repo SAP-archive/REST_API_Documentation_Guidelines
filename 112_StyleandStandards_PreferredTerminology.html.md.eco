@@ -1,6 +1,0 @@
----
-title: 'Preferred Terminology'
-type: 'Style and Standards'
----
-
-<%- @partial('dg_StyleandStandards_PreferredTerminology') %>
