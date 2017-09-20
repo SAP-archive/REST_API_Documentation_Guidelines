@@ -14,7 +14,7 @@ Information in release notes must provide readers with everything they need to k
 * Was the enhancement based upon customer feedback?
 
 #### Prerequisites and requirements
-Because the release notes contain critical information and act as an important communication tool, follow these guidelines so that the documentation is informative and consistent. When authoring release notes, follow the <a href="#AbouttheStyleandStandards">Styles and Standards</a> for many agreed-upon standards, including word choices, use of acronyms, and product names.
+Because the release notes contain critical information and act as an important communication tool, follow these guidelines so that the documentation is informative and consistent. When authoring release notes, follow the [Styles and Standards](001_Overview.html.md) for many agreed-upon standards, including word choices, use of acronyms, and product names.
 
 #### Headlines
 A headline is short, but interesting, and summarizes your release notes. Write headlines in sentence case.
