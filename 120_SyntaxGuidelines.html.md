@@ -75,7 +75,7 @@ Images and screenshots can quickly convey a lot of important information in your
     <div class="col-sm-4">
     <img src="img/snagit_win.png" width="375" height="375" alt alt="Snagit Editor"></div>
     <div class="col-sm-3">
-    <img src="img/snagit_mac.png" class="img-click-modal" alt="Snagit Editor Styles Menu"></div>
+    <img src="img/snagit_mac.png" width="375" height="375" alt="Snagit Editor Styles Menu"></div>
   </div>
    </li>
    <li>Introduce the image with a sentence, similar to this example:<br/><br/>
