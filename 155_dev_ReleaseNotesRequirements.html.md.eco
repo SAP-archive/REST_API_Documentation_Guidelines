@@ -1,6 +1,0 @@
----
-title: 'Release Notes'
-type: 'Dev Portal Document Requirements'
----
-
-<%- @partial('dg_dev_ReleaseNotesRequirements') %>
