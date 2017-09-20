@@ -15,8 +15,8 @@ The product is not done until the documentation is done. For instance, if you ha
 
 Review documentatoin before publishing to ensure the content meets the requirements and guidelines.
 
-### Style and standards
 <a id="StyleAndStandards"></a>
+### Style and standards
 
 The Style and Standards topic describes the grammar and preferred word choices, and ensures that your content meets the requirements for publication. Because this guide relies on <a href="http://www.amazon.com/Microsoft-Manual-Style-4th-Edition/dp/0735648719">Microsoft Manual of Style - 4th Edition</a> (MMoS), this page documents only those standards that are applied differently, or that the MMoS does not address. Search this page for any term to read about the standard.
 
