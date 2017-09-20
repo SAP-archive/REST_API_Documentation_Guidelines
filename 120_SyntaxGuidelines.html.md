@@ -73,7 +73,7 @@ Images and screenshots can quickly convey a lot of important information in your
    <li>Describe multiple areas using <strong><font color="#8A5FF6">purple</font></strong> round stamps with white numbers. In Snagit, you can create a number in this style and add it to the quick styles menu:<br>
 <div class="row">
     <div class="col-sm-4">
-    <img src="img/snagit_win.png" width="400" height="400" alt alt="Snagit Editor"></div>
+    <img src="img/snagit_win.png" width="375" height="375" alt alt="Snagit Editor"></div>
     <div class="col-sm-3">
     <img src="img/snagit_mac.png" class="img-click-modal" alt="Snagit Editor Styles Menu"></div>
   </div>
