@@ -58,7 +58,7 @@ For example: </br>"Use the <code>/all</code> endpoint to return a list of all te
 
 #### Overview document
 
-The Overview document is concise and briefly describes the purpose and intended use of the service. Use the proper metadata as described in the <a href="/tools/documentationsdk/#Metadata"> Metadata</a> section of the Documentation SDK. Make sure to include the following:
+The Overview document is concise and briefly describes the purpose and intended use of the service. Use the proper metadata as described in the <a href="https://devportal.yaas.io/tools/documentationsdk/#Metadata">Metadata</a> section of the Documentation SDK. Make sure to include the following:
 
   <ul>
     <li>Describe who might use the service and why.</li>
@@ -68,75 +68,15 @@ The Overview document is concise and briefly describes the purpose and intended 
     <li>Optionally, list any prerequisites with a short description and relevant links to tutorials or documentation.</li>
   </ul>
 
-#### API Console and API Reference documents
+#### Events document
 
-If you follow the instructions to register your service in the <a href="/tools/documentationsdk/">Documentation SDK</a>, the following occurs:
-  <ul>
-    <li>The API Console link displays automatically in a yellow button at the top of the API documentation.</li>
-    <li>The API Reference content and navigation node automatically generates. Even though this is automatically generated, check the RAML file to ensure it is up to date with samples and clear descriptions.</li>
-    <li>A link to the API Reference appears at the bottom of each tutorial for more information about error messages, so make sure the RAML file also describes error messages.
-    <li>The RAML file is available at the top of the API documentation for users to copy or download. Make sure to put the <code>displayName:Managing Data</code> description under the root <strong>/resource</strong> in the RAML file. This display name is then visible instead of the root resource name.</li>
-  </ul>
-
-<div class="panel note">If your service does not expose its API, set the <strong>raml</strong> attribute to <code>false</code> in the registry JSON file, and neither the API Console or API Reference displays in the documentation. Also, set the <strong>baseUri</strong> attribute to <code>Not applicable</code> to display this text instead of the link to the RAML file. See the JSON templates for more details. For an example, see the <a href="/services/profileenricher/latest/index.html">Profile Enricher</a> documentation.</div>
-
-If the API Console or API Reference is <i>not</i> available after following the registration instructions, check the following:
-  <ul>
-    <li>The <strong>baseURI</strong> link to the service provided in the Dev Portal registry</a> exists and is up to date with your service version.</li>
-    <li>By default, the Dev Portal collects the first RAML file found in your project and uses it for generation. If you are using more then one RAML file in your project, specify which file to use in the registry.</li>
-    <li>When including hybris traits in your RAML file, use the full URL including the HTTP or HTTPS protocol.</li>
-  </ul>
-
-### Events document
-
-The Events document is required for services that use the PubSub service to broadcast events that other services can consume.
+Write Events documents for services that send events consumed by other services.
 
 First, list the <strong>topic owner client</strong> above the table. This is one per service, such as <strong>hybris.authorization</strong> for the OAuth2 service. Then, in the table, list the event type, a description, the link to the schema, and a payload example. You do not need to explain how to consume the event.
 
-<div class="expand-collapse" data-caption="See the Events template">
+##### Sample Events document
 
-<p>The Events template is printed below, or you can download the template:</p><br>
-  <p>- - - - - - - - - - - - - - - - - copy these lines below - - - - - - - - - - - - - - - - -</p><br>
----<br>
-title: 'Events'<br>
----<br>
-  <p>
-    `<%- @partial('template_events') %>`
-  </p><br>
-<p>The topic owner client is:</p>
-Event | Description | Schema | Payload Example<br>
-------------|----------|----------|----------|----------<br>
-Event | Description | Schema | Payload Example<br>
-<br><br/>
-<p>
-  `<%- @partial('template_events_2') %>`
-</p>
-<p>- - - - - - - - - - - - - - - - - - - comments below - - - - - - - - - - - - - - - - - - -</p><br>
-<p>To fill out the metadata above:<br>
-title: It must say 'Events'.<br>
-</p>
-<p>Leave the partials shown in the preceding table as they are. They contain a link to the PubSub documentation and information about the schema key of the event.</p>
-<p>List the topic owner client, such as <strong>hybris.authorization</strong>.</p>
-<p>The top line in the table shows the column headings. Leave them as is.</p>
-<p>Replace the bottom line in the table with the event type, description, link to the schema, and a payload example:</p>
-  <ul>
-    <li>Event type – This is always listed in past tense, such as <strong>subscription-created</strong>.</li>
-    <li>Description – A short description of your event, such as <strong>The OAuth2 authorization provider created and processed the subscription.</strong></li>
-    <li>Schema – A link to the schema, such as <a href="https://api.yaas.io/hybris/schema/v1/hybris/subscriptionCreated_v1">subscriptionCreated_v1</a>.</li>
-    <li>Payload Example – Provide an example of the event payload, as shown in the following sample.</li>
-<br>
-
-   <center><button class="btn btn-primary" onClick="location.href='templates/Events.zip'">Download This Template</button><br></center>
-</div>
-
-<div class="expand-collapse" data-caption="See a Sample">
-<section id="Events" class="group">
-
-<h1>Events</h1>
-
-<div class="panel tip events">
-For more information about consuming these events, see the <a href="/services/pubsub/latest/index.html">PubSub</a> documentation.
-</div>
+<h5>Events</h5>
 
 <p>The topic owner client is: <strong>hybris.authorization</strong>
 
@@ -159,63 +99,7 @@ For more information about consuming these events, see the <a href="/services/pu
 </tbody>
 </table>
 
-<div class="panel tip events">
 Each event includes the <strong>schema</strong> key in its metadata section. This allows you to identify the version of the payload that the event contains.
-</div>
-
-</div>
-
-<div class="panel tip events">
-If your payload is really long, use the following template.
-<div class="expand-collapse" data-caption="See a Sample">
-  ```
-  ---
-  title: 'Events'
-  ---
-
-   `<%- @partial('template_events') %>`
-  <p>The topic owner client is:</p>
-
-     <table>
-     <!-- Header -->
-       <tr>
-       <th>Event</th>
-       <th>Description</th>
-       <th>Schema</th>
-       <th>Payload Example</th>
-      </tr>
-     <!-- End of a header -->
-
-     <!-- First row -->
-     <tr>
-       <td>Your Event Type</td>
-       <td>Your Description</td>
-       <td>Your Schema 1 Name</td>
-       <td>
-       <div class="expand-collapse" data-caption="Your Payload Example"> Copy Payload example here </div>
-      </td>
-    </tr>
-   <!-- End of a first row -->
-
-   <!-- Second row -->
-      <tr>
-        <td>Your Event Type 2</td>
-        <td>Your Description 2</td>
-        <td>Your Schema 2 Name</td>
-        <td>
-        <div class="expand-collapse" data-caption="Your Payload Example 2"> Copy Payload example 2 here </div>
-        </td>
-      </tr>
-     <!-- End of a second row -->
-
-     </table>
-
-  `<%- @partial('template_events_2') %>`
-
-  ```
-
-</div>
-</div>
 
 ### Details document
 
