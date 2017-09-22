@@ -78,26 +78,11 @@ First, list the <strong>topic owner client</strong> above the table. This is one
 
 <h5>Events</h5>
 
-<p>The topic owner client is: <strong>hybris.authorization</strong>
+<p>The topic owner client is: <strong>hybris.authorization</strong><br><br>
 
-<table>
-<thead>
-<tr>
-<th>Type</th>
-<th>Description</th>
-<th>Schema</th>
-<th>Payload Example</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>subscriptionCreated</td>
-<td>The OAuth2 authorization provider created and processed the subscription.</td>
-<td><a href="https://api.yaas.io/hybris/schema/v1/hybris/subscriptionCreated_v1">subscriptionCreated_v1</a></td>
-<td><pre><code>{"id":"MDF23X45","subscriber":{"id":"testproject","org":"532506aegf6ed545y397589u"},"package":{"id":"3kztl5ruyevu","version":"450a4fb2a16ef916704f8925","provider":{"id":"toad","org":"44d72ad9cb5e48d2d82d04a2"},"includedServices":[{"id":"moqsowxp1v78","name":"product"},{"id":"bgpbokbmzga6","name":"somename"}]},"validFrom":"2015-11-03T12:22:59.569+0000"}</code></pre></td>
-</tr>
-</tbody>
-</table>
+| Type |Description |Schema |Payload example |
+| ---- |---------- | ------ | --------------|
+| subscriptionCreated | The OAuth2 authorization provider created and processed the subscription.| <a href="https://api.yaas.io/hybris/schema/v1/hybris/subscriptionCreated_v1">subscriptionCreated_v1</a> | `{"id":"MDF23X45", "subscriber":{"id":"testproject", "org":"532506aegf6ed545y397589u"}, "package":{"id":"3kztl5ruyevu", "version":"450a4fb2a16ef916704f8925", "provider":{"id":"toad", "org":"44d72ad9cb5e48d2d82d04a2"}, "includedServices":[{"id":"moqsowxp1v78", "name":"product"}, {"id":"bgpbokbmzga6","name":"somename"}]}, "validFrom":"2015-11-03T12:22:59.569+0000"}` |
 
 Each event includes the <strong>schema</strong> key in its metadata section. This allows you to identify the version of the payload that the event contains.
 
