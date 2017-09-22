@@ -88,7 +88,7 @@ Each event includes the <strong>schema</strong> key in its metadata section. Thi
 
 ### Details document
 
-The Details documentation contains more in-depth details about the service. Use the proper metadata as described in the <a href="/tools/documentationsdk/#Metadata"> Metadata</a> section of the Documentation SDK. The details are listed in a logical order, starting with the architecture, scopes, and limitations of the service.
+The Details documentation contains more in-depth details about the service. Use the proper metadata as described in the <a href="https://devportal.yaas.io/tools/documentationsdk/#Metadata"> Metadata</a> section of the Documentation SDK. The details are listed in a logical order, starting with the architecture, scopes, and limitations of the service.
 
   <ul>
     <li>Include a diagram of the service to illustrate the service execution flow, especially for complex services or a mashup.</li>
@@ -100,21 +100,21 @@ Give more details about the main features listed in the Overview, and any other 
   <ul>
     <li>Describe the service in detail, including who would use it, when, and why.</li>
     <li>Include relevant use cases, describing any real world problems the service can solve.</li>
-    <li>Explain any YaaS terms using the glossary feature, and add any relevant links to the tutorials or FAQs.</li>
+    <li>Add any relevant links to the tutorials or FAQs.</li>
     <li>List any considerations, tricks, or workarounds that help users make the most of using the service.</li>
   </ul>
 
 ### Tutorials
-Tutorials in your documentation explain and demonstrate in step-by-step fashion how to use the service. Because the website navigation indicates that these documents are tutorials, the titles should be succinct. Do NOT include "How To" in the title.
+Tutorials in your documentation explain and demonstrate in step-by-step fashion how to use the service. The titles of your tutorials should be succinct. Do NOT include "How To" in the title.
 
-<p>The tutorials are targeted at developers with different amounts of experience with YaaS. For that reason, structure the tutorials so that a beginner can follow the most basic steps, and more experienced developers can learn more fine-grained details, such as troubleshooting or more use cases. Be sure to include the following:</p>
+<p>The tutorials are targeted at developers with different amounts of experience with a product you are documenting. For that reason, structure the tutorials so that a beginner can follow the most basic steps, and more experienced developers can learn more fine-grained details, such as troubleshooting or more use cases. Be sure to include the following:</p>
 
 <ul>
   <li>Title – Give the tutorial a descriptive title, without the words "How To".</li>
   <li>Introduction – Introduce each tutorial separately, or as a whole. Be sure to explain any common use-case theme, such as a certain store name with certain products for sale. Also, state the objective of the tutorials and any prerequisites.</li>
   <li>Step-by-step – Include detailed steps in a quick start guide, or create detailed, interactive steps.</li>
   <li>Request and response examples - If you include a sample request, list optional and required attributes separately in the request body.</li>
-  <li>Errors – At the end of the tutorial, use the <strong>errors_global.html.md</strong> partial which inserts the wording, "For more information about error codes, see the API Reference."</li>
+  <li>Errors – Include the description of the error codes.</li>
   <li>Optional troubleshooting - Besides providing the error codes, give tips on how to troubleshoot a problem after receiving an error.
   <li>Optional use cases – Show more than one use case to highlight different features.</li>
 </ul>
