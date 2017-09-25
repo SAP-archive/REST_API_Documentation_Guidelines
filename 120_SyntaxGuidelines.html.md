@@ -70,7 +70,7 @@ Images and screenshots can quickly convey a lot of important information in your
    <li>Do not include the mouse pointer in your screenshots, unless it shows a function related to the content.</li>
    <li>To highlight certain areas of an image, crop the image, or use <strong><font color="#F0AB00">yellow</font></strong> (RGB: 240,171,0 or HEX: #F0AB00) for arrows or boxes around elements with a three point line width.</li>
    <li>For multiple screenshots, use your best judgment as to whether you include one introduction, or whether you introduce each screenshot separately.</li>
-   <li>Describe multiple areas using <strong><font color="#8A5FF6">purple</font></strong> round stamps with white numbers. In Snagit, you can create a number in this style and add it to the quick styles menu:<br>
+   <li>Describe multiple areas using <strong><font color="#8A5FF6">purple</font></strong> round stamps with white numbers. In Snagit, you can create a number in this style and add it to the quick styles menu:<br><br>
 <div class="row">
     <div class="col-sm-4">
     <img src="img/snagit_win.png" width="375" height="375" alt alt="Snagit Editor"></div>
@@ -80,7 +80,7 @@ Images and screenshots can quickly convey a lot of important information in your
    </li>
    <li>Introduce the image with a sentence, similar to this example:<br/><br/>
    See this example for the screenshot highlight, border, and color guidelines:
-   <br>
+   <br><br>
      <img src="img/images_example.png" alt="Example"></li>
  </ul>
 
