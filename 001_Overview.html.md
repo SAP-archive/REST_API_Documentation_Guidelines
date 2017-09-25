@@ -30,7 +30,7 @@ The Style and Standards topic describes the grammar and preferred word choices, 
    Item
    </th>
    <th>
-  YaaS Standard
+  Standard
    </th>
    <th>
    Example
@@ -173,7 +173,7 @@ The Style and Standards topic describes the grammar and preferred word choices, 
    Item
    </th>
    <th>
-   YaaS Standard
+   Standard
    </th>
       <th>
    Example
