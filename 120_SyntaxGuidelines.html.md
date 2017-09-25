@@ -79,9 +79,9 @@ Images and screenshots can quickly convey a lot of important information in your
   </div>
    </li>
    <li>Introduce the image with a sentence, similar to this example:<br/><br/>
-   See this example for the screenshot highlight, border, color, and clickable image guidelines:
+   See this example for the screenshot highlight, border, and color guidelines:
    <br>
-     <img style="width:50%" src="img/images_example.png" class="img-click-modal" alt="YaaS Market Persistence package"></li>
+     <img style="width:50%" src="img/images_example.png" alt="Example"></li>
  </ul>
 
 ### Code formatting
