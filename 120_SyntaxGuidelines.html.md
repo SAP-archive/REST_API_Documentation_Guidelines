@@ -81,7 +81,7 @@ Images and screenshots can quickly convey a lot of important information in your
    <li>Introduce the image with a sentence, similar to this example:<br/><br/>
    See this example for the screenshot highlight, border, and color guidelines:
    <br>
-     <img style="width:50%" src="img/images_example.png" alt="Example"></li>
+     <img src="img/images_example.png" alt="Example"></li>
  </ul>
 
 ### Code formatting
