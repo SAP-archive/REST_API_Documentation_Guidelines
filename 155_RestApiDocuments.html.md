@@ -1,9 +1,99 @@
----
-title: 'REST API documents'
----
+## REST API Documentation Guidelines
+There are certain documents required when you create a service with REST API so that the purpose and use of the service is clearly stated and easy to understand. With every new release, provide engaging release notes as well, as described in these guidelines.
+
+### Required documents for services
+It is a good idea to familiarize yourself with the Service documentation before creating it. Provide each of these documents so that each service is documented consistently, and is easy to find.
+
+##### RAML file
+Services use the RESTful API Modeling Language (RAML) to describe the API in a natural and intuitive way. Create consistent and straightforward RAML API definitions for a coherent user experience. Also, include up-to-date examples and clear descriptions. Make the explanations concise and move the more extensive content to the **Details** or **Tutorials** section. The [Styles and Standards](001_Overview.html.md) guidelines apply when you document your endpoints and methods in the RAML file:
+<ul>
+    <li>Focus on the user's task and avoid unnecessary words.</li>
+    <li>Use second person, active voice, and present tense.</li>
+    <li>Stick to the terminology and format standards.</li>
+    <li>Use appropriate articles and punctuation.</li>
+</ul>
+For example: </br>"Use the <code>/all</code> endpoint to return a list of all tenants for a given client."
+
+#### Overview document
+The Overview document is concise and briefly describes the purpose and intended use of the service. Make sure to include the following:
+
+  <ul>
+    <li>Describe who might use the service and why.</li>
+    <li>List the key features of the service in bullet points. Provide more in-depth information in the <strong>Details</strong> section. Do <i>not</i> explain RESTful API basic functions as a feature of the service.</li>
+    <li>Describe how this service relates to other services, and describe any dependencies, including appropriate links to those dependencies.</li>
+    <li>Optionally, list business examples.</li>
+    <li>Optionally, list any prerequisites with a short description and relevant links to tutorials or documentation.</li>
+  </ul>
+
+#### Events document
+Write an Events documents for services that send events consumed by other services.
+
+First, list the <strong>topic owner client</strong> above the table. This is one per service, such as <strong>hybris.authorization</strong> for the OAuth2 service. Then, in the table, list the event type, a description, the link to the schema, and a payload example. You do not need to explain how to consume the event.
+
+##### Sample Events document
+
+<h5>Events</h5>
+
+<p>The topic owner client is: <strong>hybris.authorization</strong><br><br>
+
+| Type |Description |Schema |Payload example |
+| ---- |---------- | ------ | --------------|
+| subscriptionCreated | The OAuth2 authorization provider created and processed the subscription.| <a href="https://api.yaas.io/hybris/schema/v1/hybris/subscriptionCreated_v1">subscriptionCreated_v1</a> | `{"id":"MDF23X45", "subscriber":{"id":"testproject", "org":"532506aegf6ed545y397589u"}, "package":{"id":"3kztl5ruyevu", "version":"450a4fb2a16ef916704f8925", "provider":{"id":"toad", "org":"44d72ad9cb5e48d2d82d04a2"}, "includedServices":[{"id":"moqsowxp1v78", "name":"product"}, {"id":"bgpbokbmzga6","name":"somename"}]}, "validFrom":"2015-11-03T12:22:59.569+0000"}` |
+
+Each event includes the <strong>schema</strong> key in its metadata section. This allows you to identify the version of the payload that the event contains.
+
+#### Details document
+The Details documentat contains more in-depth details about the service. The details are listed in a logical order, starting with the architecture, scopes, and limitations of the service.
+
+  <ul>
+    <li>Include a diagram of the service to illustrate the service execution flow, especially for complex services or a mashup.</li>
+    <li>Define scopes for all services. List the information in a table, including the name of the scope and a short description of what the scope does.</li>
+    <li>List any limitations of the service.</li>
+  </ul>
+
+Give more details about the main features listed in the Overview, and any other features not listed. Each feature is described in a separate heading, and more complex details in sub-headings within the feature. Make sure to include the following:
+  <ul>
+    <li>Describe the service in detail, including who would use it, when, and why.</li>
+    <li>Include relevant use cases, describing any real world problems the service can solve.</li>
+    <li>Add any relevant links to the tutorials or FAQs.</li>
+    <li>List any considerations, tricks, or workarounds that help users make the most of using the service.</li>
+  </ul>
+
+#### Tutorials
+Tutorials in your documentation explain and demonstrate in step-by-step fashion how to use the service. The titles of your tutorials should be succinct. Do NOT include "How To" in the title, because it is redundant. Use titles that start with action verbs in the Tutorials section to clearly indicate what action is performed
+
+<p>The tutorials are targeted at developers with different amounts of experience. For that reason, structure the tutorials so that a beginner can follow the most basic steps, and more experienced developers can learn more fine-grained details, such as troubleshooting or more use cases. Be sure to include the following:</p>
+
+<ul>
+  <li>Title – Give the tutorial a descriptive title, without the words "How To".</li>
+  <li>Introduction – Introduce each tutorial separately, or as a whole. Be sure to explain any common use-case theme, such as a certain store name with certain products for sale. Also, state the objective of the tutorials and any prerequisites.</li>
+  <li>Step-by-step – Include detailed steps in a quick start guide, or create detailed, interactive steps.</li>
+  <li>Request and response examples - If you include a sample request, list optional and required attributes separately in the request body.</li>
+  <li>Errors – Include the description of the error codes.</li>
+  <li>Optional troubleshooting - Besides providing the error codes, give tips on how to troubleshoot a problem after receiving an error.
+  <li>Optional use cases – Show more than one use case to highlight different features.</li>
+</ul>
+
+#### Security document
+The Security document is required only for services with data protection requirements that are not supported locally. This document contains all of the details needed to ensure data privacy, which varies from service to service.
+
+Refer to the documentation for the <a href="https://devportal.yaas.io/services/us/document/latest/">Document service</a> and the <a href="https://devportal.yaas.io/services/us/documentbackup/latest/">Document Backup service</a> for examples.
+
+### Solutions
+Apart from APIs and tools, you can document solutions. The Solutions documentation includes details about extensibility, customization, and what functionality the user can unplug and replace with the user's own solutions.
+
+Follow the [Styles and Standards](001_Overview.html.md) for many agreed-upon standards, including word choices, use of acronyms, and product names.
+
+#### Overview
+In the first document, add a short introduction that explains the nature of your solution and what business value it brings to the reader. Add a list of features that the solution implements.
+
+#### Details
+This section describes the details of your solution in a logical order. For example, provide a Getting Started Guide, any integration instructions, and add a Troubleshooting section.
+
+#### Example
+For an example of unique solution documentation, see the <a href="https://devportal.yaas.io/solutions/saphybrisprofile/index.html">SAP Hybris Profile</a> documentation.
 
 ### Release notes 
-
 Information in release notes must provide readers with everything they need to know to understand the change in the software. A lot of business decisions are made based on the information in release notes. Therefore, always write from the user's perspective, not the developer's perspective. The content of release notes answers the following questions:
 
 * What changed because of this feature or resolved issue?
@@ -39,101 +129,3 @@ For a new version of an existing service, such as a v2 or v3 release, make sure 
 * When the old service version becomes deprecated, and how long users have to migrate
 * How to migrate to the new service version
 * Where to find more information on the new service version, typically a link to the the new version documentation
-
-### Services
-
-This page lists documents for services. Provide each of these documents so the purpose and use of each service is easy to understand. It is a good idea to familiarize yourself with the Service documentation before creating it. When writing any documentation, including API Documentation, follow the [Styles and Standards](001_Overview.html.md).
-
-##### RAML file
-Services can use the RESTful API Modeling Language (RAML) to describe their own APIs in a natural and intuitive way. Follow the <a href="https://devportal.yaas.io/tools/apiguidelines">API Guidelines</a> and create consistent and straightforward RAML API definitions.<br/>
-
-For a coherent user experience, include up-to-date examples and clear descriptions. Make the explanations concise and move the more extensive content to the **Details** or **Tutorial** section. The [Styles and Standards](001_Overview.html.md) guidelines apply when you document your endpoints and methods in the RAML file:
-<ul>
-    <li>Focus on the user's task and avoid unnecessary words.</li>
-    <li>Use second person, active voice, and present tense.</li>
-    <li>Stick to the preferred terminology and format standards.</li>
-    <li>Use appropriate articles and punctuation.</li>
-</ul>
-For example: </br>"Use the <code>/all</code> endpoint to return a list of all tenants for a given client."
-
-#### Overview document
-
-The Overview document is concise and briefly describes the purpose and intended use of the service. Use the proper metadata as described in the <a href="https://devportal.yaas.io/tools/documentationsdk/#Metadata">Metadata</a> section of the Documentation SDK. Make sure to include the following:
-
-  <ul>
-    <li>Describe who might use the service and why.</li>
-    <li>List the key features of the service in bullet points. Provide more in-depth information in the <strong>Details</strong> section. Do <i>not</i> explain RESTful API basic functions as a feature of the service.</li>
-    <li>Describe how this service relates to other services, and describe any dependencies, including appropriate links to those dependencies.</li>
-    <li>Optionally, list business examples.</li>
-    <li>Optionally, list any prerequisites with a short description and relevant links to tutorials or documentation.</li>
-  </ul>
-
-#### Events document
-
-Write Events documents for services that send events consumed by other services.
-
-First, list the <strong>topic owner client</strong> above the table. This is one per service, such as <strong>hybris.authorization</strong> for the OAuth2 service. Then, in the table, list the event type, a description, the link to the schema, and a payload example. You do not need to explain how to consume the event.
-
-##### Sample Events document
-
-<h5>Events</h5>
-
-<p>The topic owner client is: <strong>hybris.authorization</strong><br><br>
-
-| Type |Description |Schema |Payload example |
-| ---- |---------- | ------ | --------------|
-| subscriptionCreated | The OAuth2 authorization provider created and processed the subscription.| <a href="https://api.yaas.io/hybris/schema/v1/hybris/subscriptionCreated_v1">subscriptionCreated_v1</a> | `{"id":"MDF23X45", "subscriber":{"id":"testproject", "org":"532506aegf6ed545y397589u"}, "package":{"id":"3kztl5ruyevu", "version":"450a4fb2a16ef916704f8925", "provider":{"id":"toad", "org":"44d72ad9cb5e48d2d82d04a2"}, "includedServices":[{"id":"moqsowxp1v78", "name":"product"}, {"id":"bgpbokbmzga6","name":"somename"}]}, "validFrom":"2015-11-03T12:22:59.569+0000"}` |
-
-Each event includes the <strong>schema</strong> key in its metadata section. This allows you to identify the version of the payload that the event contains.
-
-### Details document
-
-The Details documentation contains more in-depth details about the service. Use the proper metadata as described in the <a href="https://devportal.yaas.io/tools/documentationsdk/#Metadata"> Metadata</a> section of the Documentation SDK. The details are listed in a logical order, starting with the architecture, scopes, and limitations of the service.
-
-  <ul>
-    <li>Include a diagram of the service to illustrate the service execution flow, especially for complex services or a mashup.</li>
-    <li>Define scopes for all services. List the information in a table, including the name of the scope and a short description of what the scope does.</li>
-    <li>List any limitations of the service.</li>
-  </ul>
-
-Give more details about the main features listed in the Overview, and any other features not listed. Each feature is described in a separate heading, and more complex details in sub-headings within the feature. Make sure to include the following:
-  <ul>
-    <li>Describe the service in detail, including who would use it, when, and why.</li>
-    <li>Include relevant use cases, describing any real world problems the service can solve.</li>
-    <li>Add any relevant links to the tutorials or FAQs.</li>
-    <li>List any considerations, tricks, or workarounds that help users make the most of using the service.</li>
-  </ul>
-
-### Tutorials
-Tutorials in your documentation explain and demonstrate in step-by-step fashion how to use the service. The titles of your tutorials should be succinct. Do NOT include "How To" in the title.
-
-<p>The tutorials are targeted at developers with different amounts of experience with a product you are documenting. For that reason, structure the tutorials so that a beginner can follow the most basic steps, and more experienced developers can learn more fine-grained details, such as troubleshooting or more use cases. Be sure to include the following:</p>
-
-<ul>
-  <li>Title – Give the tutorial a descriptive title, without the words "How To".</li>
-  <li>Introduction – Introduce each tutorial separately, or as a whole. Be sure to explain any common use-case theme, such as a certain store name with certain products for sale. Also, state the objective of the tutorials and any prerequisites.</li>
-  <li>Step-by-step – Include detailed steps in a quick start guide, or create detailed, interactive steps.</li>
-  <li>Request and response examples - If you include a sample request, list optional and required attributes separately in the request body.</li>
-  <li>Errors – Include the description of the error codes.</li>
-  <li>Optional troubleshooting - Besides providing the error codes, give tips on how to troubleshoot a problem after receiving an error.
-  <li>Optional use cases – Show more than one use case to highlight different features.</li>
-</ul>
-
-### Security document
-The Security document is required only for services with data protection requirements that are not supported locally. This document contains all of the details needed to ensure data privacy, which varies from service to service.
-
-Refer to the documentation for the <a href="https://devportal.yaas.io/services/us/document/latest/">Document service</a> and the <a href="https://devportal.yaas.io/services/us/documentbackup/latest/">Document Backup service</a> for examples.
-
-### Solutions
-Apart from APIs and tools, you can document solutions. The Solutions documentation includes details about extensibility, customization, and what functionality the user can unplug and replace with the user's own solutions.
-
-Follow the [Styles and Standards](001_Overview.html.md) for many agreed-upon standards, including word choices, use of acronyms, and the SAP Hybris product names.
-
-#### Overview
-In the first document, add a short introduction that explains the nature of your solution and what business value it brings to the reader. Add a list of features that the solution implements.
-
-#### Details
-This section describes the details of your solution in a logical order. For example, provide a Getting Started Guide, any integration instructions, and add a Troubleshooting section.
-
-#### Example
-For an example of unique solution documentation, see the <a href="https://devportal.yaas.io/solutions/saphybrisprofile/index.html">SAP Hybris Profile</a> documentation.
