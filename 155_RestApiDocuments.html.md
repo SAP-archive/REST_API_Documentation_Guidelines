@@ -123,3 +123,17 @@ Tutorials in your documentation explain and demonstrate in step-by-step fashion 
 The Security document is required only for services with data protection requirements that are not supported locally. This document contains all of the details needed to ensure data privacy, which varies from service to service.
 
 Refer to the documentation for the <a href="https://devportal.yaas.io/services/us/document/latest/">Document service</a> and the <a href="https://devportal.yaas.io/services/us/documentbackup/latest/">Document Backup service</a> for examples.
+
+### Solutions
+Apart from APIs and tools, you can document solutions. The Solutions documentation includes details about extensibility, customization, and what functionality the user can unplug and replace with the user's own solutions.
+
+Follow the [Styles and Standards](001_Overview.html.md) for many agreed-upon standards, including word choices, use of acronyms, and the SAP Hybris product names.
+
+#### Overview
+In the first document, add a short introduction that explains the nature of your solution and what business value it brings to the reader. Add a list of features that the solution implements.
+
+#### Details
+This section describes the details of your solution in a logical order. For example, provide a Getting Started Guide, any integration instructions, and add a Troubleshooting section.
+
+#### Example
+For an example of unique solution documentation, see the <a href="https://devportal.yaas.io/solutions/saphybrisprofile/index.html">SAP Hybris Profile</a> documentation.
