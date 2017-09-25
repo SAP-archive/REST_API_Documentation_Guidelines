@@ -123,6 +123,3 @@ Tutorials in your documentation explain and demonstrate in step-by-step fashion 
 The Security document is required only for services with data protection requirements that are not supported locally. This document contains all of the details needed to ensure data privacy, which varies from service to service.
 
 Refer to the documentation for the <a href="https://devportal.yaas.io/services/us/document/latest/">Document service</a> and the <a href="https://devportal.yaas.io/services/us/documentbackup/latest/">Document Backup service</a> for examples.
-
-### Glossary document
-Use the Glossary document to define terms that are specific to each service. A glossary term should be succinct, and no more than a sentence long so that it displays nicely as a tooltip.
