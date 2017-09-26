@@ -1,6 +1,4 @@
----
-title: 'Overview'
----
+## Style and Standards
 
 This guide explains the documentation requirements and provides guidelines to ensure your documentation follows the <a href="#StyleAndStandards">Style and Standards</a>.
 
