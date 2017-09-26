@@ -1,6 +1,4 @@
----
-title: 'Syntax Guidelines'
----
+## Syntax Guidelines
 
 These are the guidelines for formatting text and using specific elements such as lists, tables, headings, links, and images in the documentation. For information on using the HTML or MD syntax itself, see the <a href="https://devportal.yaas.io/tools/documentationsdk/index.html#About">Syntax</a> section of the Documentation SDK.
 
