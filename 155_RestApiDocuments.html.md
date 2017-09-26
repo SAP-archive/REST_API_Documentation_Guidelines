@@ -26,7 +26,7 @@ The Overview document is concise and briefly describes the purpose and intended 
   </ul>
 
 #### Events document
-Write an Events documents for services that send events consumed by other services.
+Write an Events document for services that send events consumed by other services.
 
 First, list the <strong>topic owner client</strong> above the table. This is one per service, such as <strong>hybris.authorization</strong> for the OAuth2 service. Then, in the table, list the event type, a description, the link to the schema, and a payload example. You do not need to explain how to consume the event.
 
