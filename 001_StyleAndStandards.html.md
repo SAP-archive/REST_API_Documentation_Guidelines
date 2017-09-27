@@ -241,7 +241,7 @@ The Style and Standards topic describes the grammar and preferred word choices, 
   	<td>
     <ul>
     	<li>
-	You can create a new application with the Console.
+	You can create a new application with the name of your choice.
     	</li>
     </ul>
 	</td>
