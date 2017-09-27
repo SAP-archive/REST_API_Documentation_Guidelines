@@ -4,8 +4,8 @@ There are certain documents required when you create a service with REST API so 
 ### Required documents for services
 It is a good idea to familiarize yourself with the Service documentation before creating it. Provide each of these documents so that each service is documented consistently, and is easy to find.
 
-##### RAML file
-Services use the RESTful API Modeling Language (RAML) to describe the API in a natural and intuitive way. Create consistent and straightforward RAML API definitions for a coherent user experience. Also, include up-to-date examples and clear descriptions. Make the explanations concise and move the more extensive content to the **Details** or **Tutorials** section. The [Style and Standards](001_StyleAndStandards.html.md) guidelines apply when you document your endpoints and methods in the RAML file:
+##### Descriptor files
+Services use the descriptor files such as a RAML file to describe the API in a natural and intuitive way. Create consistent and straightforward definitions in these files for a coherent user experience. Also, include up-to-date examples and clear descriptions. Make the explanations concise and move the more extensive content to the **Details** or **Tutorials** section. The [Style and Standards](001_StyleAndStandards.html.md) guidelines apply when you document your endpoints and methods in the descriptor files:
 <ul>
     <li>Focus on the user's task and avoid unnecessary words.</li>
     <li>Use second person, active voice, and present tense.</li>
