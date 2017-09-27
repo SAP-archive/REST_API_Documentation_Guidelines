@@ -62,7 +62,7 @@ The Style and Standards topic describes the grammar and preferred word choices, 
 	<td>
 	    <ul>
     	<li>
-    	 a service, an API, the Console
+    	 a service, an API, the Email service
     	</li>
     </ul>
    </td>
