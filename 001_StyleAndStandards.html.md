@@ -566,8 +566,8 @@ Fill in the remaining fields and click <b>Save</b>.
   </td>
   	<td>
   	<ul>
-  		<li>Sign in to the Console.</li>
-  		<li>Sign out of the Console.</li>
+  		<li>Sign in to your account.</li>
+  		<li>Sign out of your account.</li>
   		<li>Register for an account.</li>
   	</ul>
 	</td>
