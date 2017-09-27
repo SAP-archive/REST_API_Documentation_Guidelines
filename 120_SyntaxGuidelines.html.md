@@ -82,5 +82,6 @@ Images and screenshots can quickly convey a lot of important information in your
 |Items|Examples|
 |-----|--------|
 |Code examples<br>Values<br>Endpoints<br>Status and error codes<br>Parameter and value pairs|Verify the installation with the `mvn help:system` command.<br>Set the **partial** attribute to `true` to perform a partial replacement.<br>Send a POST request to the `/{tenant}/categories/{categoryId}/media/{mediaId}/commit` endpoint.<br>A successful response includes a status code of `200 OK`.<br>To perform a partial replacement, include `partial=true` in your request.|
-<br><br><br>
-[Previous: Style and Standards](001_StyleAndStandards.html.md)
+
+
+<br>[Previous: Style and Standards](001_StyleAndStandards.html.md)
