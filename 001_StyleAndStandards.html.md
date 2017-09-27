@@ -62,7 +62,7 @@ The Style and Standards topic describes the grammar and preferred word choices, 
 	<td>
 	    <ul>
     	<li>
-    	 a service, an API, the Builder
+    	 a service, an API, the Console
     	</li>
     </ul>
    </td>
@@ -241,7 +241,7 @@ The Style and Standards topic describes the grammar and preferred word choices, 
   	<td>
     <ul>
     	<li>
-	You can create a new application with the Builder.
+	You can create a new application with the Console.
     	</li>
     </ul>
 	</td>
@@ -566,8 +566,8 @@ Fill in the remaining fields and click <b>Save</b>.
   </td>
   	<td>
   	<ul>
-  		<li>Sign in to the Builder.</li>
-  		<li>Sign out of the Builder.</li>
+  		<li>Sign in to the Console.</li>
+  		<li>Sign out of the Console.</li>
   		<li>Register for an account.</li>
   	</ul>
 	</td>
