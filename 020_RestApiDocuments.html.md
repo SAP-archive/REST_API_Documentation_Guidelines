@@ -5,7 +5,7 @@ There are certain documents required when you create a service with REST API so 
 It is a good idea to familiarize yourself with the Service documentation before creating it. Provide each of these documents so that each service is documented consistently, and is easy to find.
 
 ##### Descriptor files
-Services use the descriptor files such as a RAML file to describe the API in a natural and intuitive way. Create consistent and straightforward definitions in these files for a coherent user experience. Also, include up-to-date examples and clear descriptions. Make the explanations concise and move the more extensive content to the **Details** or **Tutorials** section. The [Style and Standards](001_StyleAndStandards.html.md) guidelines apply when you document your endpoints and methods in the descriptor files:
+Services use the descriptor files such as a RAML file to describe the API in a natural and intuitive way. Create consistent and straightforward definitions in these files for a coherent user experience. Also, include up-to-date examples and clear descriptions. Make the explanations concise and move the more extensive content to the **Details** or **Tutorials** section. The [Style and Standards](001_StyleAndStandards.html.md#style-and-standards) guidelines apply when you document your endpoints and methods in the descriptor files:
 <ul>
     <li>Focus on the user's task and avoid unnecessary words.</li>
     <li>Use second person, active voice, and present tense.</li>
@@ -90,7 +90,7 @@ Information in release notes must provide readers with everything they need to k
 * Was the enhancement based upon customer feedback?
 
 #### Prerequisites and requirements
-Because the release notes contain critical information and act as an important communication tool, follow these guidelines so that the documentation is informative and consistent. When authoring release notes, follow the [Style and Standards](001_StyleAndStandards.html.md) for many agreed-upon standards, including word choices, use of acronyms, and product names.
+Because the release notes contain critical information and act as an important communication tool, follow these guidelines so that the documentation is informative and consistent. When authoring release notes, follow the [Style and Standards](001_StyleAndStandards.html.md#style-and-standards) for many agreed-upon standards, including word choices, use of acronyms, and product names.
 
 ##### Headlines
 A headline is short, but interesting, and summarizes your release notes. Write headlines in sentence case.
@@ -119,7 +119,7 @@ For a new version of an existing service, such as a v2 or v3 release, make sure 
 ### Solutions
 Apart from APIs and tools, you can document solutions. The Solutions documentation includes details about extensibility, customization, and what functionality the user can unplug and replace with the user's own solutions.
 
-Follow the [Style and Standards](001_StyleAndStandards.html.md) for many agreed-upon standards, including word choices, use of acronyms, and product names.
+Follow the [Style and Standards](001_StyleAndStandards.html.md#style-and-standards) for many agreed-upon standards, including word choices, use of acronyms, and product names.
 
 #### Overview
 In the first document, add a short introduction that explains the nature of your solution and what business value it brings to the reader. Add a list of features that the solution implements.
