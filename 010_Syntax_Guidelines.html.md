@@ -17,7 +17,7 @@ As you write about your topic, use lists to create visual clarity within your co
 See the example in the [Release Notes](020_REST_API_Documents.html.md#release-notes) section.
 
 #### Tables
-Another effective way to chunk content is to use tables. Use tables when content needs comparison, or as a way to provide information mapping. Think of a table as a list, but with optional columns to provide and organize more information than belongs in a list. Make sure tables are not too long or hard to read, causing the reader to scroll a lot. Break up a long table into multiple tables, if possible. For an example, see the [Style and Standards](001_StyleAndStandards.html.md#style-and-standards) tables.
+Another effective way to chunk content is to use tables. Use tables when content needs comparison, or as a way to provide information mapping. Think of a table as a list, but with optional columns to provide and organize more information than belongs in a list. Make sure tables are not too long or hard to read, causing the reader to scroll a lot. Break up a long table into multiple tables, if possible. For an example, see the [Style and Standards](001_Style_And_Standards.html.md#style-and-standards) tables.
 
 #### Headings
 Ideally, headings fit onto one line in the generated output, but balance brevity with a heading that adequately describes the main point of the document, section, or topic. Follow these guidelines when writing headings:
@@ -56,7 +56,7 @@ Images and screenshots can quickly convey a lot of important information in your
    <li>Do not include the mouse pointer in your screenshots, unless it shows a function related to the content.</li>
    <li>To highlight certain areas of an image, crop the image, or use <strong><font color="#F0AB00">yellow</font></strong> (RGB: 240,171,0 or HEX: #F0AB00) for arrows or boxes around elements with a three point line width.</li>
    <li>For multiple screenshots, use your best judgment as to whether you include one introduction, or whether you introduce each screenshot separately.</li>
-   <li>Describe multiple areas using <strong><font color="#8A5FF6">purple</font></strong> round stamps with white numbers. In Snagit, you can create a number in this style and add it to the quick styles menu:<br><br>
+   <li>Describe multiple areas using <strong><font color="#8A5FF6">purple</font></strong> round stamps with white numbers. In Snagit, you can create a number in this style and add it to the quick  menu:<br><br>
 <div class="row">
     <div class="col-sm-4">
     <img src="img/snagit_win.png" width="375" height="375" alt alt="Snagit Editor"></div>
@@ -83,6 +83,6 @@ Images and screenshots can quickly convey a lot of important information in your
 |-----|--------|
 |Code examples<br>Values<br>Endpoints<br>Status and error codes<br>Parameter and value pairs|Verify the installation with the `mvn help:system` command.<br>Set the **partial** attribute to `true` to perform a partial replacement.<br>Send a POST request to the `/{tenant}/categories/{categoryId}/media/{mediaId}/commit` endpoint.<br>A successful response includes a status code of `200 OK`.<br>To perform a partial replacement, include `partial=true` in your request.|
 
-<br>[< PREV](001_StyleAndStandards.html.md) | [NEXT >](020_RestApiDocuments.html.md)
+<br>[< PREV](001_Style_And_Standards.html.md) | [NEXT >](020_REST_API_Documents.html.md)
 
 
