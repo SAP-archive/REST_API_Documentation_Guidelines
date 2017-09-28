@@ -130,4 +130,4 @@ This section describes the details of your solution in a logical order. For exam
 #### Example
 For an example of unique solution documentation, see the <a href="https://devportal.yaas.io/solutions/saphybrisprofile/index.html">SAP Hybris Profile</a> documentation.
 <br><br>
-[< PREV](120_SyntaxGuidelines.html.md)
+[< PREV](010_SyntaxGuidelines.html.md)
