@@ -1,4 +1,4 @@
-## REST API Documentation Guidelines
+## REST API Documents
 There are certain documents required when you create a service with REST API so that the purpose and use of the service is clearly stated and easy to understand. With every new release, provide engaging release notes as well, as described in these guidelines.
 
 ### Required documents for services
