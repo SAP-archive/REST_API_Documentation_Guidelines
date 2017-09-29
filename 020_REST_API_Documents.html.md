@@ -115,5 +115,6 @@ For a new version of an existing service, such as a v2 or v3 release, make sure 
 * When the old service version becomes deprecated, and how long users have to migrate
 * How to migrate to the new service version
 * Where to find more information on the new service version, typically a link to the the new version documentation
-<br><br>
+
+<br><
 [< PREV](010_Syntax_Guidelines.html.md) | [NEXT>](030_More_Documentation.html.md)
