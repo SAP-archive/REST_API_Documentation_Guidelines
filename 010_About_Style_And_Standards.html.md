@@ -928,4 +928,4 @@ The difference between voice and tone can be a bit hard to differentiate at firs
 <h5>Tones in technical documentation</h5>
 
 There are different tones for the different types of technical documentation. The documentation can range from instructional to somewhat conversational, but always with the goal of helping users understand how to use the product for practical purposes and, in blogs and release notes, also helping business users understand changes so they can plan according to their business needs.<br><br>
-[NEXT >](010_Syntax_Guidelines.html.md)
+[NEXT >](020_Syntax_Guidelines.html.md)
