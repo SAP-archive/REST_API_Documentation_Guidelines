@@ -14,7 +14,7 @@ As you write about your topic, use lists to create visual clarity within your co
 * Emphasize the beginning of the bullet point to capture the main idea.
 * If readers must perform list items in order, as in a step-by-step procedure, use an ordered list, and maintain the consistency in structure.
 ##### Example
-See the example in the [Release Notes](020_REST_API_Documents.html.md#release-notes) section.
+See the example in the [Release Notes](030_REST_API_Documents.html.md#release-notes) section.
 
 #### Tables
 Another effective way to chunk content is to use tables. Use tables when content needs comparison, or as a way to provide information mapping. Think of a table as a list, but with optional columns to provide and organize more information than belongs in a list. Make sure tables are not too long or hard to read, causing the reader to scroll a lot. Break up a long table into multiple tables, if possible. For an example, see the [Style and Standards](010_About_Style_And_Standards.html.md#style-and-standards) tables.
