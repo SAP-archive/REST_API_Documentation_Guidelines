@@ -21,8 +21,8 @@ The Style and Standards topic describes the grammar and preferred word choices, 
 #### Use active voice and present tense
 Active voice is clear and concise, and avoids misinterpretation. It's also easier for non-native speakers to understand. Passive voice is weak and indirect, uses more words, and can lead to misinterpretation because it reverses the logical order of events. The proper order for sentence structure is subject, verb, and sometimes mentions an object. Passive voice uses object, passive verb, and sometimes the subject. Also, active voice uses the present tense of verbs which is more desirable than using past tense.
 
-<img src="img/smiley.png" style="float:left;width:2px;height:2px;"> The endpoint path includes your service name.<br>
-<img src="img/frowny.png" style="float:left;width:2px;height:2px;"> Your service name is to be included in the endpoint path.
+<img src="img/smiley.png" style="float:left;width:20px;height:20px;"> The endpoint path includes your service name.<br>
+<img src="img/frowny.png" style="float:left;width:20px;height:20px;"> Your service name is to be included in the endpoint path.
 
 #### Grammar
 
