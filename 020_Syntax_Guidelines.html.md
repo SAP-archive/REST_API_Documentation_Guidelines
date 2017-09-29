@@ -76,7 +76,7 @@ Images and screenshots can quickly convey a lot of important information in your
 ##### Use bold font for these items:
 |Items|Examples|
 |-----|--------|
-|Parameters<br>Events<br>File names<br>Path names<br>Scopes|The **partial** attribute is optional.<br>The service publishes a **password-reset-requested** event.<br>Open the **pom.xml** file.<br>Save the file in the <b>\services\repository</b> folder.<br>Use the **hybris.profile_graph_view** scope to view data in the graph.|
+|Parameters<br>Events<br>File names<br>Path names<br>Scopes<br>UI Elements|The **partial** attribute is optional.<br>The service publishes a **password-reset-requested** event.<br>Open the **pom.xml** file.<br>Save the file in the <b>\services\repository</b> folder.<br>Use the **hybris.profile_graph_view** scope to view data in the graph.<br>Click on **subscribe**.|
 
 ##### Use code font for these items:
 |Items|Examples|
