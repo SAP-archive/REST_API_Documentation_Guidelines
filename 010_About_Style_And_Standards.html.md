@@ -24,8 +24,11 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
 <img src="img/smiley_new.png" style="float:left;width:20px;height:20px;"> The endpoint path includes your service name.<br>
 <img src="img/frowny_new.png" style="float:left;width:20px;height:20px;"> Your service name is to be included in the endpoint path.
 
+:smiley: The endpoint path includes your service name.<br>
+:rage: Your service name is to be included in the endpoint path.
+
 :white_check_mark: The endpoint path includes your service name.<br>
-:x: Your service name is to be included in the endpoint path.
+:no_entry: Your service name is to be included in the endpoint path.
 
 #### Grammar
 
