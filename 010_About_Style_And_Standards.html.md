@@ -30,6 +30,9 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
 :white_check_mark: The endpoint path includes your service name.<br>
 :no_entry: Your service name is to be included in the endpoint path.
 
+:white_check_mark: The endpoint path includes your service name.<br>
+:x: Your service name is to be included in the endpoint path.
+
 #### Grammar
 
 <table class="table table-striped table-glossary techne-table">
