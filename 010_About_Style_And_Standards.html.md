@@ -30,13 +30,6 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
 :100: The endpoint path includes your service name.<br>
 :heavy_minus_sign: Your service name is to be included in the endpoint path.
 
-:grin: The endpoint path includes your service name.<br>
-:skull: Your service name is to be included in the endpoint path.
-
-<p style="background-color:LightGreen;color:Black;">+ &emsp; The endpoint path includes your service name.</p>
-<p style="background-color:Pink;color:Black;">- &emsp; Your service name is to be included in the endpoint path.</p>
-
-
 #### Grammar
 
 <table class="table table-striped table-glossary techne-table">
