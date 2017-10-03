@@ -25,10 +25,8 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
 :no_entry: Your service name is to be included in the endpoint path.
 
 :star: The endpoint path includes your service name.<br>
-:no_entry: <strike>Your service name is to be included in the endpoint path.</strike>
+&emsp;<strike>Your service name is to be included in the endpoint path.</strike>
 
-:star: The endpoint path includes your service name.<br>
-:x: <strike>Your service name is to be included in the endpoint path.</strike>
 
 #### Grammar
 
