@@ -33,6 +33,9 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
 :grin: The endpoint path includes your service name.<br>
 :skull: Your service name is to be included in the endpoint path.
 
+<p style="background-color:LightGreen;color:Black;">+ &emsp; The endpoint path includes your service name.</p>
+<p style="background-color:Pink;color:Black;">- &emsp; Your service name is to be included in the endpoint path.</p>
+
 
 #### Grammar
 
