@@ -1,5 +1,0 @@
----
-title: 'Definition of Done'
----
-
-<%- @partial('dg_DefinitionofDone') %>

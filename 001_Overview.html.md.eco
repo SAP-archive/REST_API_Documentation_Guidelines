@@ -1,5 +1,0 @@
----
-title: 'Overview'
----
-
-<%- @partial('dg_Overview') %>

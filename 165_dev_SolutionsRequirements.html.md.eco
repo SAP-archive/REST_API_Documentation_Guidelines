@@ -1,6 +1,0 @@
----
-title: 'Solutions'
-type: 'Dev Portal Document Requirements'
----
-
-<%- @partial('dg_dev_SolutionsRequirements') %>

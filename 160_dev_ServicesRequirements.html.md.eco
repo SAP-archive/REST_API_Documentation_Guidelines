@@ -1,6 +1,0 @@
----
-title: 'Services'
-type: 'Dev Portal Document Requirements'
----
-
-<%- @partial('dg_dev_ServicesRequirements') %>
