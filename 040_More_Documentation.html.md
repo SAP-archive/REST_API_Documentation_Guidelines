@@ -3,7 +3,7 @@
 ### Solutions
 Apart from APIs and tools, you can document solutions. The Solutions documentation includes details about extensibility, customization, and what functionality the user can unplug and replace with the user's own solutions.
 
-Follow the [Style and Standards](010_About_Style_And_Standards.html.md#style-and-standards) for many agreed-upon standards, including word choices, use of acronyms, and product names.
+Follow the [Style and Standards](010_About_Style_And_Standards.html.md#style-and-standards) for many agreed-upon standards.
 
 #### Overview
 In the first document, add a short introduction that explains the nature of your solution and what business value it brings to the reader. Add a list of features that the solution implements.
