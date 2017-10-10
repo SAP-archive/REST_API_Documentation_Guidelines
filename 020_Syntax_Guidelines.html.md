@@ -1,6 +1,6 @@
 ## Syntax Guidelines
 
-These are the guidelines for formatting text and using specific elements such as lists, tables, headings, links, and images in the documentation. For information on using the HTML or MD syntax itself, see the <a href="https://devportal.yaas.io/tools/documentationsdk/index.html#About">Syntax</a> section of the Documentation SDK.
+These are the guidelines for formatting text and using specific elements such as lists, tables, headings, links, and images in the documentation.
 
 ### Content formatting
 Format the content in an attention-grabbing way. In general, content is easier to read when it is in chunks. Consider breaking up endless paragraphs by using a list or table. Use action verbs and present tense for headings to engage the reader, and also follow the guidelines for the best way to include links and images.
@@ -17,7 +17,7 @@ As you write about your topic, use lists to create visual clarity within your co
 See the example in the [Release Notes](030_REST_API_Documents.html.md#release-notes) section.
 
 #### Tables
-Another effective way to chunk content is to use tables. Use tables when content needs comparison, or as a way to provide information mapping. Think of a table as a list, but with optional columns to provide and organize more information than belongs in a list. Make sure tables are not too long or hard to read, causing the reader to scroll a lot. Break up a long table into multiple tables, if possible. For an example, see the [Style and Standards](010_About_Style_And_Standards.html.md#style-and-standards) tables.
+Another effective way to chunk content is to use tables. Use tables when content needs comparison, or as a way to provide information mapping. Think of a table as a list, but with optional columns to provide and organize more information than belongs in a list. Make sure tables are not too long or hard to read, causing the reader to scroll a lot. Break up a long table into multiple tables, if possible. For an example, see the [Style and Standards](010_About_Style_And_Standards.html.md#style-and-standards) table.
 
 #### Headings
 Ideally, headings fit onto one line in the generated output, but balance brevity with a heading that adequately describes the main point of the document, section, or topic. Follow these guidelines when writing headings:
@@ -42,10 +42,8 @@ Linking is a great tool to use to incorporate a lot of content into your documen
 - See the <a href="https://devportal.yaas.io/overview/yaasinanutshell/index.html">YaaS in a Nutshell</a> page for more information.
 - The recommended reading is a book entitled <a href="http://shop.oreilly.com/product/0636920033158.do">Building Microservices</a> by Sam Newman, O'Reilly Media.
 
-For information on using the HTML or MD linking syntax itself, see the <a href="">Syntax</a> section of the Documentation SDK.
-
 #### Images and screenshots
-As someone once said, a picture is worth a thousand words. Therefore, whenever possible, use a diagram, image, or screenshot to convey a lot of information visually. Follow these guidelines when placing a diagram, screenshot, or other image in your content. For information on using the HTML or MD syntax itself, see the <a href="">Syntax</a> section of the Documentation SDK.
+As someone once said, a picture is worth a thousand words. Therefore, whenever possible, use a diagram, image, or screenshot to convey a lot of information visually. Follow these guidelines when placing a diagram, screenshot, or other image in your content.
 
 Images and screenshots can quickly convey a lot of important information in your documentation. Do not use directional indicators, such as "above" and "below" to refer to images. Instead, include a brief introduction before each image that describes the purpose of the image and any necessary details. Do not overuse images such as including multiple screenshots of the same screen. Either condense them into one screenshot, or crop the images to show different areas. Follow the rest of these guidelines to make or use images, or capture screenshots:
  <ul>
