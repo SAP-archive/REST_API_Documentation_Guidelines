@@ -18,154 +18,62 @@ Review documentatoin before publishing to ensure the content meets the requireme
 
 The Style and Standards topic describes the grammar and preferred word choices, and ensures that your content meets the requirements for publication. Because this guide relies on the <a href="http://www.amazon.com/Microsoft-Manual-Style-4th-Edition/dp/0735648719">Microsoft Manual of Style - 4th Edition</a> (MMoS), this page documents only those standards that are applied differently, or that the MMoS does not address. Search this page for any term to read about the standard.
 
-#### Use active voice and present tense
+#### Active voice and present tense
 Active voice is clear and concise, and avoids misinterpretation. It's also easier for non-native speakers to understand. Passive voice is weak and indirect, uses more words, and can lead to misinterpretation because it reverses the logical order of events. The proper order for sentence structure is subject, verb, and sometimes mentions an object. Passive voice uses object, passive verb, and sometimes the subject. Also, active voice uses the present tense of verbs which is more desirable than using past tense.
 
 :white_check_mark: The endpoint path includes your service name.<br>
 :no_entry: Your service name is to be included in the endpoint path.
 
-#### Grammar
+#### Tenses
 
-<table class="table table-striped table-glossary techne-table">
-<thead>
+Use present tense. In technical writing, present tense is easier to read than past or future tense. Simple verbs are easier to read and understand than complex verbs, such as verbs in the progressive or perfect tense.
 
-  <tr>
-   <th>
-   Item
-   </th>
-   <th>
-  Standard
-   </th>
-   <th>
-   Example
-   </th>
-  </tr>
-</thead>
+The more concise and straightforward you can be, the better.
 
- <tr>
-   <td>
-   <p>active voice vs. passive voice</p>
-   </td>
-   <td>
-   <p>Use active voice and present tense.</p>
-   </td>
-    <td>
-    <ul>
-    	<li>
-    	 Click <b>Save</b> to commit the changes.
-    	</li>
-    </ul>
-   </td>
-  </tr>
+:white_check_mark: If the information does not match, an error message appears.<br>
+:no_entry: If the information does not match, an error will appear.
 
-<tr>
-  <td>
-  <p>articles</p>
-  </td>
-  <td>
-  <p>Always verify the use of the articles &quot;a&quot;, &quot;an&quot;, and &quot;the&quot; where appropriate.</p>
-  </td>
-	<td>
-	    <ul>
-    	<li>
-    	 a service, an API, the Email service
-    	</li>
-    </ul>
-   </td>
- </tr>
+#### Imperative Mood
 
-  <tr>
-  <td>
-  <p>colon (:) vs. semicolon (;)</p>
-  </td>
-  <td>
-<p>Use colons and semicolons sparingly. Use the colon ( : ) to introduce a list of things. The items after a colon are not complete sentences by themselves. The semicolon ( ; ) separates two distinct clauses within one sentence. The phrase after a semicolon is a complete sentence.</p>
-			<ul>
-				<li>If the sentence needs a colon but does not need a bulleted list, consider rewriting the sentence to avoid using a colon. </li>
-				<li>If the sentence has a semicolon, try to separate it into two different sentences, or find a cleaner way to combine them into one sentence.</li>
-			</ul>
-			<p>See the examples for ways to write the same sentence with and without a colon or semicolon. The preferred method for such a sentence is without a colon or semicolon.</p>
+Use the imperative mood to write instructional documentation such as procedures and tutorials. The imperative mood tells the reader, directly, to do something. Other moods can imply optional behavior when you might not intend to present an action as optional.
 
-  </td>
-  <td>
- 	<ul>
- 		<li>I have three brothers: John is my favorite.</li>
- 		<li>There are three brothers in the family; John is my favorite.</li>
- 		<li>Of my three brothers, John is my favorite.</li>
-  	</ul>
-   </td>
- </tr>
+For example, in instructions for uploading documents, clicking Upload is not a suggested, optional action. If the document provides instructions for how to upload documents, assume the readers wants to perform that action. Do not use language such as, "If you want to upload a document, you can click Upload" or, "By clicking Upload, you can choose how many documents you want to upload." Instead write, "Click Upload and select one or more documents."
 
- <tr>
-  <td>
-  <p>imperative mood</p>
-  </td>
-  <td>
-  <p>Use the imperative mood to write instructional documentation such as procedures and tutorials. The imperative mood tells the reader, directly, to do something. Other moods can imply optional behavior when you might not intend to present an action as optional. </p>
-  <p>For example, in instructions for uploading documents, clicking <b>Upload</b> is not a suggested, optional action. If the document provides instructions for how to upload documents, assume the readers wants to perform that action. Do not use language such as, "If you want to upload a document, you can click <b>Upload</b>" or, "By clicking <b>Upload</b>, you can choose how many documents you want to upload." Instead write, "Click <b>Upload</b> and select one or more documents."</p>
-  </td>
-    <td>
-    <ul>
-    	<li>
-     Click <b>Run</b> to execute the program.
-    	</li>
-    </ul>
-   </td>
-</tr>
+:white_check_mark: Click **Run** to execute the program.<br>
+:no_entry: The user should click **Run** to execute the program.
 
- <tr>
-  <td>
-  <p>pronouns</p>
-  </td>
-  <td>
-  <p>Use the second person and the pronouns "you," "your," and "yours" to speak directly to the reader. Do not use the first person pronouns "we," "us," or "let's."</p>
-  </td>
-    <td>
-    <ul>
-    	<li>
-     You can save your files in the cloud or on your local machine.
-    	</li>
-    </ul>
-   </td>
-</tr>
+#### Pronouns
 
+Use the second person and the pronouns "you," "your," and "yours" to speak directly to the reader. Do not use the first person pronouns "we," "us," or "let's."
 
- <tr>
-  <td>
-  <p>serial commas</p>
-  </td>
-  <td>
-  <p>Use serial commas.</p>
-  </td>
-    <td>
-    <ul>
-    	<li>
-     Offices are located in Boulder, Gliwice, and Montreal.
-    	</li>
-    </ul>
-   </td>
-</tr>
+:white_check_mark: You can save your files in the cloud or on your local machine.<br>
+:no_entry: Let's save our files in the cloud or on our local machine.
 
+#### Serial commas
 
- <tr>
-  <td>
-  <p>tenses: present, future, and conditional</p>
-  </td>
-  <td>
-  <p>Use present tense. In technical writing, present tense is easier to read than past or future tense. Simple verbs are easier to read and understand than complex verbs, such as verbs in the progressive or perfect tense.</p>
-  <p>The more concise and straightforward you can be, the better.</p>
-  </td>
-	<td>
-	<ul>
-  		<li>The process runs in the background.</li>
-		<li>Enter the information and click <b>OK</b>.</li>
-		<li>If the information does not match, an error message appears.</li>
-	</ul>
-	</td>
-</tr>
+Use serial commas. A missing serial comma can create confusion about whether the statement applies to each list item individually, or whether the last two items are connected.
 
-</table>
+:white_check_mark: In your request, include the values for the request date, name, and ID.<br>
+:no_entry: In your request, include the values for the request date, name and ID.
 
+#### Colon vs. semicolon
+
+Use colons and semicolons sparingly. Use the colon ( : ) to introduce a list of things. The items after a colon are not complete sentences by themselves. The semicolon ( ; ) separates two distinct clauses within one sentence. The phrase after a semicolon is a complete sentence.
+
+If the sentence needs a colon but does not need a bulleted list, consider rewriting the sentence to avoid using a colon.
+If the sentence has a semicolon, try to separate it into two different sentences, or find a cleaner way to combine them into one sentence.
+See the examples for ways to write the same sentence with and without a colon or semicolon. The preferred method for such a sentence is without a colon or semicolon.
+
+:white_check_mark: Of my three brothers, John is my favorite.<br>
+:no_entry: I have three brothers: John is my favorite.<br>
+:no_entry: There are three brothers in the family; John is my favorite.
+
+#### Articles
+
+Always verify the use of the articles "a", "an", and "the" where appropriate. Use "the" when you are talking about a specific example. Use "a" when you are talking about something non-specific or hypothetical.
+
+:white_check_mark: Use the service to remove an item from a cart. In this tutorial, create a cart item and then delete the item from the cart.<br>
+:no_entry: Use the service to remove an item from a cart. In this tutorial, create a cart item and then delete an item from a cart.
 
 #### Terminology
 
@@ -184,23 +92,6 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
    </th>
   </tr>
 </thead>
-
- <tr>
-  <td>
-  <p>a vs. the (for example, a cart vs. the cart)</p>
-  </td>
-  <td>
-   <p>Use &quot;the cart&quot; when you are talking about an example. Use &quot;a cart&quot; when you are talking about it as a non-specific, hypothetical cart. </p>
-  </td>
-  	<td>
-    <ul>
-    	<li>
-     Use the service to remove an item from a cart. In this tutorial, create a cart item and then delete the item from the cart.
-    	</li>
-    </ul>
-
- </tr>
-
 
   <tr>
   <td>
