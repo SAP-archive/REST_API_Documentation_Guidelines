@@ -23,6 +23,8 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
 :white_check_mark: The endpoint path includes your service name.<br>
 :no_entry: Your service name is to be included in the endpoint path.
 
+For more information, see the [Write in active voice](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/003_Write-in-Active-Voice.html.md) blog post.
+
 #### Tenses
 
 Use present tense. In technical writing, present tense is easier to read than past or future tense. Simple verbs are easier to read and understand than complex verbs, such as verbs in the progressive or perfect tense.
