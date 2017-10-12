@@ -93,23 +93,6 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
   </tr>
 </thead>
 
- <tr>
-  <td>
-  <p>a vs. the (for example, a cart vs. the cart)</p>
-  </td>
-  <td>
-   <p>Use &quot;the cart&quot; when you are talking about an example. Use &quot;a cart&quot; when you are talking about it as a non-specific, hypothetical cart. </p>
-  </td>
-  	<td>
-    <ul>
-    	<li>
-     Use the service to remove an item from a cart. In this tutorial, create a cart item and then delete the item from the cart.
-    	</li>
-    </ul>
-
- </tr>
-
-
   <tr>
   <td>
   <p>allow vs. enable vs. can</p>
