@@ -1,6 +1,6 @@
 ## About Style and Standards
 
-This guide explains the documentation requirements and provides guidelines to ensure your documentation follows the <a href="#StyleAndStandards">Style and Standards</a>.
+This guide explains the documentation requirements and provides guidelines to ensure your documentation follows the <a href="#style-and-standards">Style and Standards</a>.
 
 It is important to follow these requirements and guidelines so that there is consistency throughout all of the documentation. The goal is to have all contributors write in the same way to ensure a uniform flow throughout the website. For example:<br><br>
 <img src="img/DocGuidelinesOview.png" width="1400" height="400" alt="Consistency is key.">
@@ -13,7 +13,6 @@ The product is not done until the documentation is done. For instance, if you ha
 
 Review documentatoin before publishing to ensure the content meets the requirements and guidelines.
 
-<a id="StyleAndStandards"></a>
 ### Style and standards
 
 The Style and Standards topic describes the grammar and preferred word choices, and ensures that your content meets the requirements for publication. Because this guide relies on the <a href="http://www.amazon.com/Microsoft-Manual-Style-4th-Edition/dp/0735648719">Microsoft Manual of Style - 4th Edition</a> (MMoS), this page documents only those standards that are applied differently, or that the MMoS does not address. Search this page for any term to read about the standard.
