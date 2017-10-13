@@ -57,6 +57,8 @@ Use serial commas. A missing serial comma can create confusion about whether the
 :white_check_mark: In your request, include the values for the request date, name, and ID.<br>
 :no_entry: In your request, include the values for the request date, name and ID.
 
+For more details, see the [Serial commas: The price of omission]( https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/004-Serial-Commas-The-Price-of-Omission) blog post.
+
 #### Colon vs. semicolon
 
 Use colons and semicolons sparingly. Use the colon ( : ) to introduce a list of things. The items after a colon are not complete sentences by themselves. The semicolon ( ; ) separates two distinct clauses within one sentence. The phrase after a semicolon is a complete sentence.
