@@ -25,11 +25,12 @@ As you write about your topic, use lists to create visual clarity within your co
 * Avoid ending bullet points with punctuation such as semicolons or commas.
 * Capitalize the first letter of each bullet point consistently. Capitalize the first letter unless the list items are always lowercased, as with parameters names.
 * Emphasize the beginning of the bullet point to capture the main idea.
-* If readers must perform list items in order, as in a step-by-step procedure, use an ordered list, and maintain the consistency in structure.<br>
-##### Example
-See the example in the [Release Notes](030_REST_API_Documents.html.md#release-notes) section.
+* If readers must perform list items in order, as in a step-by-step procedure, use an ordered list, and maintain the consistency in structure.
 
 For more details about lists, see the [Top Tips for Using Lists](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/003-Top-Tips-for-Using-Lists) blog post.
+
+##### Example
+See the example in the [Release Notes](030_REST_API_Documents.html.md#release-notes) section.
 
 #### Tables
 Another effective way to chunk content is to use tables. Use tables when content needs comparison, or as a way to provide information mapping. Think of a table as a list, but with optional columns to provide and organize more information than belongs in a list. Make sure tables are not too long or hard to read, causing the reader to scroll a lot. Break up a long table into multiple tables, if possible. For an example, see the [Style and Standards](010_About_Style_And_Standards.html.md#style-and-standards) section.
