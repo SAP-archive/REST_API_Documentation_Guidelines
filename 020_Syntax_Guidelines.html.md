@@ -6,9 +6,14 @@ These are the guidelines for formatting text and using specific elements such as
  It is important to consistently format items such as code or filenames to quickly distinguish them while reading technical documentation. The following table outlines when to use **bold** font and when to use `code` font:
 
 ##### Use bold font for these items:
-|Items|Examples|
-|-----|--------|
-|Parameters<br>Events<br>File names<br>Path names<br>Scopes<br>UI Elements|The **partial** attribute is optional.<br>The service publishes a **password-reset-requested** event.<br>Open the **pom.xml** file.<br>Save the file in the <b>\services\repository</b> folder.<br>Use the **hybris.profile_graph_view** scope to view data in the graph.<br>Click on **Subscribe**.|
+Items       | Examples
+----------- | ----------------------------------------------------------------------
+Parameters  | The **partial** attribute is optional.
+Events      | The service publishes a **password-reset-requested** event.
+File names  | Open the **pom.xml** file.
+Path names  | Save the file in the **\services\repository** folder.
+Scopes      | Use the **hybris.profile_graph_view** scope to view data in the graph.
+UI elements | Click on **Subscribe**.
 
 ##### Use code font for these items:
 Items                     | Examples
