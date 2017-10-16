@@ -23,7 +23,7 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
 :white_check_mark: The endpoint path includes your service name.<br>
 :no_entry: Your service name is to be included in the endpoint path.
 
-For more information, see the [Write in active voice](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/002-Write-in-Active-Voice) blog post.
+For more information, see the [Write in Active Voice](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/002-Write-in-Active-Voice) blog post.
 
 #### Tenses
 
@@ -57,7 +57,7 @@ Use serial commas. A missing serial comma can create confusion about whether the
 :white_check_mark: In your request, include the values for the request date, name, and ID.<br>
 :no_entry: In your request, include the values for the request date, name and ID.
 
-For more details, see the [Serial commas: The price of omission]( https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/004-Serial-Commas-The-Price-of-Omission) blog post.
+For more details, see the [Serial Commas: The Price of Omission]( https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/004-Serial-Commas-The-Price-of-Omission) blog post.
 
 #### Colon vs. semicolon
 
