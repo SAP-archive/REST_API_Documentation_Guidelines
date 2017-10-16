@@ -47,7 +47,7 @@ As someone once said, a picture is worth a thousand words. Therefore, whenever p
 
 Images and screenshots can quickly convey a lot of important information in your documentation. Do not use directional indicators, such as "above" and "below" to refer to images. Instead, include a brief introduction before each image that describes the purpose of the image and any necessary details. Do not overuse images such as including multiple screenshots of the same screen. Either condense them into one screenshot, or crop the images to show different areas. Follow the rest of these guidelines to make or use images, or capture screenshots:
  <ul>
-   <li>Make or capture your images using any tool that outputs high quality images, such as <b>Snagit</b>. The desired image format is SVG (vector), but PNG and JPG (raster) are acceptable.</li>
+   <li>Make or capture your images using any tool that outputs high quality images, such as <a href="https://www.techsmith.com/screen-capture.html">Snagit</a>. The desired image format is SVG (vector), but PNG and JPG (raster) are acceptable.</li>
    <li>Use an online tool such as <a href="https://tinypng.com/">TinyPNG</a> to compress images and limit the size of each image to 1MB, or smaller.
    <li>If you want to control the size of the image relative to the screen size, use one of these standard percentages: 100%, 75%, 50%, or 25%.</li>
    <li>Align images to the left, unless it is a special case, such as images in a table.</li>
