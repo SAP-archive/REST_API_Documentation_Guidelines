@@ -108,6 +108,8 @@ For ease of reading, use the same sentence structure throughout a bulleted list.
 **Don't add an entry that doesn't match, such as:**
 * Feature JKL: it's not so cool
 
+For more details about lists, see the [Top Tips for Using Lists](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/003-Top-Tips-for-Using-Lists) blog post.
+
 ##### Version changes
 For a new version of an existing service, such as a v2 or v3 release, make sure you include this information in your release note:
 
