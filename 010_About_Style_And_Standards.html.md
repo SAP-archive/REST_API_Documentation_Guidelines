@@ -23,7 +23,7 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
 :white_check_mark: The endpoint path includes your service name.<br>
 :no_entry: Your service name is to be included in the endpoint path.
 
-For more information, see the [Write in active voice](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/003_Write-in-Active-Voice.html.md) blog post.
+For more information, see the [Write in active voice](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/002_Write-in-Active-Voice.html.md) blog post.
 
 #### Tenses
 
