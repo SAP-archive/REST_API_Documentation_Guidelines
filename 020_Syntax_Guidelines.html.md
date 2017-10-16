@@ -11,8 +11,14 @@ These are the guidelines for formatting text and using specific elements such as
 |Parameters<br>Events<br>File names<br>Path names<br>Scopes<br>UI Elements|The **partial** attribute is optional.<br>The service publishes a **password-reset-requested** event.<br>Open the **pom.xml** file.<br>Save the file in the <b>\services\repository</b> folder.<br>Use the **hybris.profile_graph_view** scope to view data in the graph.<br>Click on **Subscribe**.|
 
 ##### Use code font for these items:
-|Items|Examples|
-|-----|--------|
+Items                     | Examples
+------------------------- | -----------------------------------------------------------------------------------------------
+Code examples             | Verify the installation with the `mvn help:system` command.
+Values                    | Set the partial attribute to `true` to perform a partial replacement. 
+Endpoints                 | Send a POST request to the `/{tenant}/categories/{categoryId}/media/{mediaId}/commit` endpoint.
+Status and error codes    | A successful response includes a status code of `200 OK`.
+Parameter and value pairs | To perform a partial replacement, include `partial=true` in your request.
+
 |Code examples<br>Values<br>Endpoints<br>Status and error codes<br>Parameter and value pairs|Verify the installation with the `mvn help:system` command.<br>Set the **partial** attribute to `true` to perform a partial replacement.<br>Send a POST request to the `/{tenant}/categories/{categoryId}/media/{mediaId}/commit` endpoint.<br>A successful response includes a status code of `200 OK`.<br>To perform a partial replacement, include `partial=true` in your request.|
 
 ### Content formatting
