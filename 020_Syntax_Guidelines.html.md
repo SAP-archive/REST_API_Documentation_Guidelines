@@ -2,6 +2,19 @@
 
 These are the guidelines for formatting text and using specific elements such as lists, tables, headings, links, and images in the documentation.
 
+### Code formatting
+ It is important to consistently format items such as code or filenames to quickly distinguish them while reading technical documentation. The following table outlines when to use **bold** font and when to use `code` font:
+
+##### Use bold font for these items:
+|Items|Examples|
+|-----|--------|
+|Parameters<br>Events<br>File names<br>Path names<br>Scopes<br>UI Elements|The **partial** attribute is optional.<br>The service publishes a **password-reset-requested** event.<br>Open the **pom.xml** file.<br>Save the file in the <b>\services\repository</b> folder.<br>Use the **hybris.profile_graph_view** scope to view data in the graph.<br>Click on **Subscribe**.|
+
+##### Use code font for these items:
+|Items|Examples|
+|-----|--------|
+|Code examples<br>Values<br>Endpoints<br>Status and error codes<br>Parameter and value pairs|Verify the installation with the `mvn help:system` command.<br>Set the **partial** attribute to `true` to perform a partial replacement.<br>Send a POST request to the `/{tenant}/categories/{categoryId}/media/{mediaId}/commit` endpoint.<br>A successful response includes a status code of `200 OK`.<br>To perform a partial replacement, include `partial=true` in your request.|
+
 ### Content formatting
 Format the content in an attention-grabbing way. In general, content is easier to read when it is in chunks. Consider breaking up endless paragraphs by using a list or table. Use action verbs and present tense for headings to engage the reader, and also follow the guidelines for the best way to include links and images.
 
@@ -68,18 +81,6 @@ Images and screenshots can quickly convey a lot of important information in your
      <img src="img/images_example.png" alt="Example"></li>
  </ul>
 
-### Code formatting
- It is important to consistently format items such as code or filenames to quickly distinguish them while reading technical documentation. The following table outlines when to use **bold** font and when to use `code` font:
-
-##### Use bold font for these items:
-|Items|Examples|
-|-----|--------|
-|Parameters<br>Events<br>File names<br>Path names<br>Scopes<br>UI Elements|The **partial** attribute is optional.<br>The service publishes a **password-reset-requested** event.<br>Open the **pom.xml** file.<br>Save the file in the <b>\services\repository</b> folder.<br>Use the **hybris.profile_graph_view** scope to view data in the graph.<br>Click on **Subscribe**.|
-
-##### Use code font for these items:
-|Items|Examples|
-|-----|--------|
-|Code examples<br>Values<br>Endpoints<br>Status and error codes<br>Parameter and value pairs|Verify the installation with the `mvn help:system` command.<br>Set the **partial** attribute to `true` to perform a partial replacement.<br>Send a POST request to the `/{tenant}/categories/{categoryId}/media/{mediaId}/commit` endpoint.<br>A successful response includes a status code of `200 OK`.<br>To perform a partial replacement, include `partial=true` in your request.|
 
 <br>[< PREV](010_About_Style_And_Standards.html.md) | [NEXT >](030_REST_API_Documents.html.md)
 
