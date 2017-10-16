@@ -25,10 +25,8 @@ As you write about your topic, use lists to create visual clarity within your co
 * Avoid ending bullet points with punctuation such as semicolons or commas.
 * Capitalize the first letter of each bullet point consistently. Capitalize the first letter unless the list items are always lowercased, as with parameters names.
 * Emphasize the beginning of the bullet point to capture the main idea.
-* If readers must perform list items in order, as in a step-by-step procedure, use an ordered list, and maintain the consistency in structure.
-
-For more details about lists, see the [Top Tips for Using Lists](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/003-Top-Tips-for-Using-Lists) blog post.
-
+* If readers must perform list items in order, as in a step-by-step procedure, use an ordered list, and maintain the consistency in structure.<br>
+For more details about lists, see the [Top Tips for Using Lists](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/003-Top-Tips-for-Using-Lists) blog post.<br>
 ##### Example
 See the example in the [Release Notes](030_REST_API_Documents.html.md#release-notes) section.
 
