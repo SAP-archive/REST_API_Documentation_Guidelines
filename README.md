@@ -1,6 +1,6 @@
-# rest-api-documentation-guidelines
+# REST API Documentation Guidelines
 
-## Test
-* Thing one
-* Thing two
-* [here](http://devporatl.yaas.io)
+## Introduction
+
+## Get started
+
