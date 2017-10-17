@@ -23,7 +23,7 @@ The Style and Standards topic describes the grammar and preferred word choices, 
 
 **Terminology**
 
-<a href="#">Style and Standards</a>.
+<a href="#allow">Allow vs. enable vs. can</a> | <a href="#americanEnglish">American English vs. British English</a> | <a href="#app">App vs. application</a> | <a href="#asShownBelow">As shown below</a> | <a href="#backend">Back end vs. backend vs. back-end</a> | <a href="#because">Because vs. since</a> | <a href="#using">By using vs. using</a> | <a href="#canMayMightCould">Can vs. may vs. might vs. couldn</a>
 
 
 <a href="#allow">Allow vs enable</a>
