@@ -24,8 +24,6 @@ Endpoints                 | Send a POST request to the `/{tenant}/categories/{ca
 Status and error codes    | A successful response includes a status code of `200 OK`.
 Parameter and value pairs | To perform a partial replacement, include `partial=true` in your request.
 
-|Code examples<br>Values<br>Endpoints<br>Status and error codes<br>Parameter and value pairs|Verify the installation with the `mvn help:system` command.<br>Set the **partial** attribute to `true` to perform a partial replacement.<br>Send a POST request to the `/{tenant}/categories/{categoryId}/media/{mediaId}/commit` endpoint.<br>A successful response includes a status code of `200 OK`.<br>To perform a partial replacement, include `partial=true` in your request.|
-
 ### Content formatting
 Format the content in an attention-grabbing way. In general, content is easier to read when it is in chunks. Consider breaking up endless paragraphs by using a list or table. Use action verbs and present tense for headings to engage the reader, and also follow the guidelines for the best way to include links and images.
 
