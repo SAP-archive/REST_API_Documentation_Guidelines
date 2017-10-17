@@ -21,6 +21,11 @@ The Style and Standards topic describes the grammar and preferred word choices, 
 
 [Active voice](010_About_Style_And_Standards.html.md#active-voice) | [Tenses](010_About_Style_And_Standards.html.md#tenses) | [Imperative Mood](010_About_Style_And_Standards.html.md#imperative-mood) | [Pronouns](010_About_Style_And_Standards.html.md#pronouns) | [Serial commas](010_About_Style_And_Standards.html.md#serial-commas) | [Colon vs. semicolon](010_About_Style_And_Standards.html.md#colon-vs-semicolon) | [Articles](010_About_Style_And_Standards.html.md#articles)
 
+**Terminology**
+
+<a href="#">Style and Standards</a>.
+
+
 <a href="#allow">Allow vs enable</a>
 
 #### Active voice
@@ -123,7 +128,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
  <tr>
   <td>
-  <p>American English vs. British English</p>
+  <p><a id="americanEnglish"></a>American English vs. British English</p>
   </td>
   <td>
   <p>Use American English. Do not use British spelling in the documentation.</p>
@@ -139,7 +144,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
 <tr>
   <td>
-  <p>app vs. application</p>
+  <p><a id="app"></a>app vs. application</p>
   </td>
   <td>
   <p>Use &quot;application.&quot;</p>
@@ -155,7 +160,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
   <tr>
   <td>
-  <p>as shown below</p>
+  <p><a id="asShownBelow"></a>as shown below</p>
   </td>
   <td>
   <p>Use &quot;as shown in the example&quot; instead of indicating direction, such as &quot;above&quot; or &quot;below&quot;, whenever possible. This helps to ensure that there are no issues if the text is modified, rewritten, or reorganized. You can also write &quot;the following&quot; or &quot;the preceding.&quot;</p>
@@ -171,7 +176,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
 <tr>
   <td>
-  <p>back end vs. backend vs. back-end</p>
+  <p><a id="backend"></a>back end vs. backend vs. back-end</p>
   </td>
   <td>
   <p>Per the MMoS, use a more specific term when possible, such as server, operating system, database, or network. However, if you must use this term, use back end, two words, no hyphen, as a noun. Use back-end, hyphenated, as an adjective to modify a noun. Do not use &quot;backend.&quot;</p>
@@ -187,7 +192,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
   <tr>
   <td>
-  <p>because vs. since</p>
+  <p><a id="because"></a>because vs. since</p>
   </td>
   <td>
   <p>Do not use &quot;since&quot; to mean &quot;because.&quot;</p>
@@ -208,7 +213,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
 <tr>
   <td>
-  <p>by using vs. using</p>
+  <p><a id="using"></a>by using vs. using</p>
   </td>
   <td>
   <p>To avoid ambiguity for worldwide audiences, use &quot;by using&quot; instead of &quot;using&quot; by itself, even if the preposition seems unnecessary. </p>
@@ -225,7 +230,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
  <tr>
   <td>
-  <p>can vs. may vs. might vs. could</p>
+  <p><a id="canMayMightCould"></a>can vs. may vs. might vs. could</p>
   </td>
   <td>
  	<ul>
@@ -245,7 +250,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
   <tr>
   <td>
-  <p>&quot;Click <b>Add</b>&quot; vs. &quot;Click the <b>Add</b> button.&quot;</p>
+  <p><a id="click"></a>&quot;Click <b>Add</b>&quot; vs. &quot;Click the <b>Add</b> button.&quot;</p>
   </td>
   <td>
   <p>If the button has a label with text, use the label name without the word &quot;button.&quot;</p>
@@ -262,7 +267,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
   <tr>
   <td>
-  <p>data is vs. data are</p>
+  <p><a id="data"></a>data is vs. data are</p>
   </td>
   <td>
   <p>Use &quot;data is.&quot; You can use the word &quot;data&quot; as a singular or plural term, but always use it with a singular verb. That is, always write &quot;data is&quot;, or another appropriate verb. Do not use &quot;datum&quot; or &quot;data are.&quot;</p>
@@ -278,7 +283,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
  <tr>
   <td>
-  <p>e-mail vs. email</p>
+  <p><a id="email"></a>e-mail vs. email</p>
   </td>
   <td>
   <p>Use &quot;email&quot; as a noun, not as a verb. For a verb form, use &quot;send&quot; instead. Do not write &quot;e-mail&quot; with a hyphen.</p>
@@ -293,7 +298,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
  <tr>
   <td>
-  <p>ensure vs. insure vs. assure</p>
+  <p><a id="ensure"></a>ensure vs. insure vs. assure</p>
   </td>
   <td>
   <p>In common English usage, &quot;ensure,&quot; &quot;insure,&quot; and &quot;assure&quot; are interchangeable in many situations. To provide consistency and to improve readability worldwide, use these distinctions:</p>
@@ -314,7 +319,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
  <tr>
   <td>
-  <p>etc. vs. and so forth vs. and so on vs. et al.</p>
+  <p><a id="etc"></a>etc. vs. and so forth vs. and so on vs. et al.</p>
   </td>
   <td>
 	<p>Do not use &quot;etc.&quot; or &quot;and so forth&quot; or &quot;and so on&quot; or &quot;et al.&quot; except in the specific situations listed here. Be specific about what you are describing.</p>
@@ -337,7 +342,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
 <tr>
   <td>
-  <p>fill in vs. complete</p>
+  <p><a id="fillIn"></a>fill in vs. complete</p>
   </td>
   <td>
   <p>Use &quot;fill in.&quot;</p>
@@ -353,7 +358,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
   <tr>
   <td>
-  <p>id vs. ID</p>
+  <p><a id="id"></a>id vs. ID</p>
   </td>
   <td>
   <p>Use &quot;ID,&quot; capitalized, as the abbreviation for &quot;identification.&quot; &quot;Id,&quot; or &quot;id,&quot; has a <a href="https://en.wikipedia.org/wiki/Id,_ego_and_super-ego" target="_blank">different meaning</a> in English. &quot;id&quot; is only appropriate when you are documenting code, as shown in the second example. </p>
@@ -368,7 +373,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>i.e. vs. e.g. vs. for example</p>
+  <p><a id="forExample"></a>i.e. vs. e.g. vs. for example</p>
   </td>
   <td>
   <p>Do not use i.e. or e.g. Use &quot;that is&quot; or &quot;for example&quot; instead. Depending on the context, &quot;such as&quot; may be appropriate, as well.</p>
@@ -385,7 +390,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p>if vs. when vs. whenever vs. whether</p>
+  <p><a id="if"></a>if vs. when vs. whenever vs. whether</p>
   </td>
   <td>
   <p>To avoid ambiguity:</p>
@@ -408,7 +413,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p>in vs. into</p>
+  <p><a id="into"></a>in vs. into</p>
   </td>
   <td>
    	<ul>
@@ -427,7 +432,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
   <tr>
   <td>
-  <p>key-value pairs</p>
+  <p><a id="keyValue"></a>key-value pairs</p>
   </td>
   <td>
   <p>Use &quot;key-value pairs.&quot; Do not write key/value, key value, or key:value.</p>
@@ -443,7 +448,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>kind vs. type</p>
+  <p><a id="kindType"></a>kind vs. type</p>
   </td>
   <td>
   <p>Use &quot;type.&quot;</p>
@@ -459,7 +464,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>login, log in, log on, logon, sign in, and register</p>
+  <p><a id="login"></a>login, log in, log on, logon, sign in, and register</p>
   </td>
   <td>
   <p>Use only &quot;sign in,&quot; &quot;sign out,&quot; and &quot;register.&quot;</p>
@@ -482,7 +487,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p>once vs. after vs. when</p>
+  <p><a id="once"></a>once vs. after vs. when</p>
   </td>
   <td>
   <p>To avoid ambiguity, especially for the worldwide audience, do not use &quot;once&quot; or &quot;when&quot; as synonyms for &quot;after.&quot; For example:</p>
@@ -501,7 +506,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>per vs. for each</p>
+  <p><a id="per"></a>per vs. for each</p>
   </td>
   <td>
   	<p>Use &quot;per&quot; in technical or statistical contexts, but use &quot;for each&quot; in other contexts.</p>
@@ -522,7 +527,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p>plugin vs. plug-in</p>
+  <p><a id="plugin"></a>plugin vs. plug-in</p>
   </td>
   <td>
   <p>Hyphenate &quot;plug-in.&quot;</p>
@@ -539,7 +544,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
   <tr>
   <td>
-  <p>possible vs. can or cannot</p>
+  <p><a id="possible"></a>possible vs. can or cannot</p>
   </td>
   <td>
   <p>Use &quot;can&quot; and &quot;cannot.&quot; Do not write &quot;it is possible&quot; or &quot;it is not possible.&quot;
@@ -555,7 +560,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>replace by vs. replace with</p>
+  <p><a id="replace"></a>replace by vs. replace with</p>
   </td>
   <td>
   <p>Use &quot;replaces&quot; or &quot;replace with.&quot; Do not use &quot;replace&quot; as a noun.
@@ -571,7 +576,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>should vs. must vs. have to</p>
+  <p><a id="should"></a>should vs. must vs. have to</p>
   </td>
   <td>
 <p>While the MMoS advises using &quot;should&quot; only to describe a recommended, but optional, user action, &quot;should&quot; is ambiguous. When you write &quot;should&quot;, it is not always clear whether the reader needs to perform an action. If it is recommended to back up files regularly, you can just say &quot;Back up your files regularly.&quot; Then explain the potential danger of not backing up files.</p>
@@ -591,7 +596,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>simply</p>
+  <p><a id="simply"></a>simply</p>
   </td>
   <td>
    <p>Do not use the word &quot;simply&quot; in documentation. Instead of &quot;To complete this task, simply click <b>ABC</b>,&quot; eliminate the word &quot;simply&quot; and write &quot;To complete this task, click <b>ABC</b>.&quot;</p>
@@ -607,7 +612,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>single sign-on vs. single sign on</p>
+  <p><a id="singleSignOn"></a>single sign-on vs. single sign on</p>
   </td>
   <td>
   	<p>Use single sign on (SSO) to refer to authentication that allows a user to sign into multiple applications with one set of credentials. When referring to the act of signing in, write &quot;sign in.&quot;</p>
@@ -624,7 +629,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
   <tr>
   <td>
-  <p>Third-party names and acronyms</p>
+  <p><a id="thirdParty"></a>Third-party names and acronyms</p>
   </td>
   <td>
   <p>Refer to the originator's official documentation for the correct spelling and capitalization of third-party tools such as JavaScript, Enterprise JavaBeans (EJB), and cron.
@@ -640,7 +645,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>time-out vs. timeout</p>
+  <p><a id="timeout"></a>time-out vs. timeout</p>
   </td>
   <td>
  Use &quot;time-out&quot; as an adjective or noun. Do not hyphenate when using &quot;time out&quot; as a verb.
@@ -655,7 +660,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
   <tr>
   <td>
-  <p>topic vs. section in cross-references</p>
+  <p><a id="topic"></a>topic vs. section in cross-references</p>
   </td>
   <td>
   <p>Use &quot;section.&quot;</p>
@@ -671,7 +676,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>toward vs. towards</p>
+  <p><a id="toward"></a>toward vs. towards</p>
   </td>
   <td>
   <p>Use &quot;toward.&quot;</p>
@@ -687,7 +692,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p>typically vs. usually</p>
+  <p><a id="typically"></a>typically vs. usually</p>
   </td>
   <td>
   <p>Use &quot;typically.&quot;</p>
@@ -708,8 +713,8 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>uppercase vs. upper case</p>
-  <p>lowercase vs. lower case</p>
+  <p><a id="uppercase"></a>uppercase vs. upper case</p>
+  <p><a id="lowercase"></a>lowercase vs. lower case</p>
   </td>
   <td>
   Write &quot;uppercase&quot; and &quot;lowercase&quot; as single words.
@@ -725,7 +730,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p>upper right corner vs. upper-right corner</p>
+  <p><a id="upperRightCorner"></a>upper right corner vs. upper-right corner</p>
   </td>
   <td>
   Hyphenate directional indicators such as &quot;upper-right&quot; and &quot;lower-left.&quot;
@@ -741,7 +746,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p>user vs. you</p>
+  <p><a id="user"></a>user vs. you</p>
   </td>
   <td>
   <p>Use &quot;you.&quot; Developer documentation uses &quot;you&quot; extensively. This form is called second person or direct address.</p>
@@ -758,7 +763,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p>username vs. user name</p>
+  <p><a id="username"></a>username vs. user name</p>
   </td>
   <td>
   <p>Use &quot;user name&quot; unless referring to an interface element or parameter name that uses the single word form **username**. </p>
@@ -774,7 +779,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p>utilize vs. use</p>
+  <p><a id="utilize"></a>utilize vs. use</p>
   </td>
   <td>
   <p>Write &quot;use.&quot; &quot;Utilize&quot;, &quot;utilizing&quot;, and &quot;utilization&quot; are typically unnecessary alternatives to &quot;use&quot;, &quot;using&quot;, and &quot;use&quot; or &quot;usage&quot;, respectively.</p>
@@ -790,7 +795,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p>via</p>
+  <p><a id="via"></a>via</p>
   </td>
   <td>
   <p>Do not use &quot;via.&quot; Instead, write &quot;through,&quot; &quot;in,&quot; &quot;using,&quot; &quot;with,&quot; &quot;by,&quot; or another appropriate American English term. </p>
@@ -805,7 +810,7 @@ Fill in the remaining fields and click <b>Save</b>.
 
    <tr>
    <td>
-   <p>We, us, let's, or our</p>
+   <p><a id="weUsLetsOur"></a>We, us, let's, or our</p>
    </td>
    <td>
    <p>Do not use &quot;we,&quot; &quot;us,&quot; &quot;let's,&quot; or &quot;our.&quot; Instead of &quot;We released a new feature for the Email service,&quot; write &quot;A new feature is available for the Email service.&quot;</p>
