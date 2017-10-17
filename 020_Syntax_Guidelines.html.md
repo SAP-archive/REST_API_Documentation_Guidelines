@@ -14,7 +14,7 @@ File names  | Open the **pom.xml** file.
 Path names  | Save the file in the **\services\repository** folder.
 Scopes      | Use the **hybris.profile_graph_view** scope to view data in the graph.
 UI elements | Click on **Subscribe**.
-variables   | Click **Project** > **{Your Project Name}**. Variables are also enclosed in single curly braces.
+Variables   | Click **Project** > **{Your Project Name}**. Variables are also enclosed in single curly braces.
 
 ##### Use code font for these items:
 Items                     | Examples
