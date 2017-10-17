@@ -17,6 +17,10 @@ Review documentatoin before publishing to ensure the content meets the requireme
 
 The Style and Standards topic describes the grammar and preferred word choices, and ensures that your content meets the requirements for publication. Because this guide relies on the <a href="http://www.amazon.com/Microsoft-Manual-Style-4th-Edition/dp/0735648719">Microsoft Manual of Style - 4th Edition</a> (MMoS), this page documents only those standards that are applied differently, or that the MMoS does not address. Search this page for any term to read about the standard.
 
+**Grammar**
+
+[Active voice](010_About_Style_And_Standards.html.md#active-voice) | [Tenses](010_About_Style_And_Standards.html.md#tenses) | [Imperative Mood](010_About_Style_And_Standards.html.md#imperative-mood) | [Pronouns](010_About_Style_And_Standards.html.md#pronouns) | [Serial commas](010_About_Style_And_Standards.html.md#serial-commas) | [Colon vs. semicolon](010_About_Style_And_Standards.html.md#colon-vs-semicolon) | [Articles](010_About_Style_And_Standards.html.md#articles)
+
 <a href="#allow">Allow vs enable</a>
 
 #### Active voice
