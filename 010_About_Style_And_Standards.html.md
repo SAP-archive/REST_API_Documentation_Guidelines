@@ -21,21 +21,6 @@ The Style and Standards topic describes the grammar and preferred word choices, 
 
 [Active voice](010_About_Style_And_Standards.html.md#active-voice) | [Tenses](010_About_Style_And_Standards.html.md#tenses) | [Imperative Mood](010_About_Style_And_Standards.html.md#imperative-mood) | [Pronouns](010_About_Style_And_Standards.html.md#pronouns) | [Serial commas](010_About_Style_And_Standards.html.md#serial-commas) | [Colon vs. semicolon](010_About_Style_And_Standards.html.md#colon-vs-semicolon) | [Articles](010_About_Style_And_Standards.html.md#articles)
 
-**Terminology**
-
-<a href="#allow">Allow vs. enable vs. can</a> | <a href="#americanEnglish">American English vs. British English</a> | <a href="#app">App vs. application</a> | <a href="#asShownBelow">As shown below</a> | <a href="#backend">Back end vs. backend vs. back-end</a> | <a href="#because">Because vs. since</a> | <a href="#using">By using vs. using</a> | <a href="#canMayMightCould">Can vs. may vs. might vs. couldn</a> | <a href="#click">"Click Add" vs. "Click the Add button."</a> | <a href="#data">Data is vs. data are</a> | <a href="#email">E-mail vs. email</a> | <a href="#ensure">Ensure vs. insure vs. assure</a> | <a href="#etc">etc. vs. and so forth vs. and so on vs. et al.</a> | <a href="#fillIn">Fill in vs. complete</a> | <a href="#id">id vs. ID</a> | <a href="#forExample">i.e. vs. e.g. vs. for example</a> | <a href="#if">If vs. when vs. whenever vs. whether</a> | <a href="#into">In vs. into</a> | <a href="#keyValue">Key-value pairs</a> | <a href="#kindType">Kind vs. type</a>
-
-
-Grammar                   |  Terminology                                                           | Terminology | Terminology
-------------------------- | ---------------------------------------------------------------------- | ----------- | -----------
-[Active voice](010_About_Style_And_Standards.html.md#active-voice) | <a href="#allow">Allow vs. enable vs. can</a> | <a href="#click">"Click Add" vs. "Click the Add button."</a> | <a href="#forExample">i.e. vs. e.g. vs. for example</a>
-[Tenses](010_About_Style_And_Standards.html.md#tenses) | <a href="#americanEnglish">American English vs. British English</a> | <a href="#data">Data is vs. data are</a> 
-[Imperative Mood](010_About_Style_And_Standards.html.md#imperative-mood) | <a href="#app">App vs. application</a> | <a href="#email">E-mail vs. email</a>
-[Pronouns](010_About_Style_And_Standards.html.md#pronouns) | <a href="#asShownBelow">As shown below</a> | <a href="#ensure">Ensure vs. insure vs. assure</a>
-[Serial commas](010_About_Style_And_Standards.html.md#serial-commas) | <a href="#backend">Back end vs. backend vs. back-end</a> | <a href="#etc">etc. vs. and so forth vs. and so on vs. et al.</a>
-[Colon vs. semicolon](010_About_Style_And_Standards.html.md#colon-vs-semicolon) | <a href="#because">Because vs. since</a> | <a href="#fillIn">Fill in vs. complete</a>
-[Articles](010_About_Style_And_Standards.html.md#articles) | <a href="#canMayMightCould">Can vs. may vs. might vs. couldn</a> | <a href="#id">id vs. ID</a>
-
 #### Active voice
 Active voice is clear and concise, and avoids misinterpretation. It's also easier for non-native speakers to understand. Passive voice is weak and indirect, uses more words, and can lead to misinterpretation because it reverses the logical order of events. The proper order for sentence structure is subject, verb, and sometimes mentions an object. Passive voice uses object, passive verb, and sometimes the subject. Also, active voice uses the present tense of verbs which is more desirable than using past tense.
 
