@@ -100,25 +100,6 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
   </tr>
 </thead>
 
-  <tr>
-  <td>
-  <p><a id="allow"></a>allow vs. enable vs. can</p>
-  </td>
-  <td>
-  <p>Do not use &quot;enable&quot; to refer to things that a program makes possible for the user if you can use &quot;allow&quot; or &quot;you can&quot; instead.</p>
-  <p>Use &quot;enable&quot; to refer to active functionality that is available, or being made available, to a user. </p>
-  <p>Use &quot;allow&quot; only to refer to features such as security that permit or deny some action to a user.</p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>With Microsoft Word 2010, you can save files in HTML format.</li>
-		<li>Windows 7 allows a user without an account to log on as a guest.</li>
-		<li>Enable anonymous sign-in to allow users to use the application as guests.</li>
-	</ul>
-	</td>
-
- </tr>
-
  <tr>
   <td>
   <p><a id="americanEnglish"></a>American English vs. British English</p>
@@ -128,9 +109,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
   </td>
   	<td>
   	<ul>
-  		<li>This document contains information about data modeling.</li>
   		<li>The color of the message changes from blue to red if there are errors.</li>
-  		<li>The authorization process is completed.</li>
   	</ul>
 	</td>
  </tr>
@@ -160,9 +139,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
   </td>
   	<td>
   	<ul>
-  	<li>Send a GET request to the endpoint as shown.</li>
   	<li>In your request, supply the values for the following parameters:</li>
-  	<li>In this example, modify the object you created in the preceding tutorial.</li>
 	</ul>
 	</td>
  </tr>
@@ -183,27 +160,6 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
  </tr>
 
-  <tr>
-  <td>
-  <p><a id="because"></a>because vs. since</p>
-  </td>
-  <td>
-  <p>Do not use &quot;since&quot; to mean &quot;because.&quot;</p>
-    	<ul>
-  		<li>Do not use &quot;since&quot; to mean &quot;because.&quot; This can be confusing to the worldwide audience and can cause mistranslation.</li>
-		<li>Use &quot;because&quot; to refer to a reason.</li>
-		<li>Use &quot;since&quot; to refer to a passage of time.</li>
-		<li>If it is possible to misinterpret the meaning of &quot;since&quot; as referring to a reason, rewrite the sentence.</li>
-	</ul>
-  </td>
-  	<td>
-  	<ul>
-		<li>Because I installed the fast modem, I can download messages quickly.</li>
-		<li>Ever since I installed the fast modem, I can download messages very quickly.</li>
-	</ul>
-	</td>
- </tr>
-
 <tr>
   <td>
   <p><a id="using"></a>by using vs. using</p>
@@ -219,26 +175,6 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
     	</li>
     </ul>
 
- </tr>
-
- <tr>
-  <td>
-  <p><a id="canMayMightCould"></a>can vs. may vs. might vs. could</p>
-  </td>
-  <td>
- 	<ul>
-  		<li>Use the verb &quot;can&quot; to describe actions or tasks that the user or program is able to do.</li>
-		<li>Use &quot;may&quot; to express possibility, not to imply that the user has permission to do something.</li>
-		<li>Use &quot;might&quot; to connote greater doubt than &quot;may&quot; or to eliminate ambiguity when &quot;may&quot; could be interpreted to imply permission.</li>
-		<li>Do not use &quot;could&quot; when you mean &quot;can.&quot; Like &quot;might,&quot; &quot;could&quot; conveys a tone of doubt that is best avoided in technical writing. It is all right to use &quot;could&quot; as the past tense of &quot;can&quot; when users cannot mistake its meaning.</li>
-	</ul>
-  </td>
-  	<td>
-  	<ul>
-  		<li>You can use the <b>/b</b> option to force a black-and-white screen display.</li>
-  		<li>You might receive incorrect results when you run a query in SQL.</li>
-	</ul>
-	</td>
  </tr>
 
   <tr>
@@ -258,22 +194,6 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 	</td>
  </tr>
 
-  <tr>
-  <td>
-  <p><a id="data"></a>data is vs. data are</p>
-  </td>
-  <td>
-  <p>Use &quot;data is.&quot; You can use the word &quot;data&quot; as a singular or plural term, but always use it with a singular verb. That is, always write &quot;data is&quot;, or another appropriate verb. Do not use &quot;datum&quot; or &quot;data are.&quot;</p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>That data shows that 95 percent of the users prefer a graphical interface.</li>
-  		<li>The data gathered so far is incomplete.</li>
-  		<li>These facts contradict the earlier data.</li>
-  	</ul>
-	</td>
- </tr>
-
  <tr>
   <td>
   <p><a id="email"></a>e-mail vs. email</p>
@@ -283,55 +203,10 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
   </td>
   	<td>
   	<ul>
-  		<li>Use the service to create an email template.</li>
   		<li>You can send an email using Outlook.</li>
   	</ul>
 	</td>
  </tr>
-
- <tr>
-  <td>
-  <p><a id="ensure"></a>ensure vs. insure vs. assure</p>
-  </td>
-  <td>
-  <p>In common English usage, &quot;ensure,&quot; &quot;insure,&quot; and &quot;assure&quot; are interchangeable in many situations. To provide consistency and to improve readability worldwide, use these distinctions:</p>
-  	<ul>
-  		<li>Use &quot;ensure&quot; to mean &quot;to make sure&quot; or &quot;to guarantee.&quot;</li>
-  		<li>Use &quot;insure&quot; to mean &quot;to provide insurance.&quot;</li>
-		<li>Use &quot;assure&quot; to mean &quot;to state positively&quot; or &quot;to make confident.&quot;</li>
-	</ul>
-	</td>
-	<td>
-	<ul>
-		<li>Verify your email address to ensure that you receive a confirmation email.</li>
-		<li>A homeowner's policy helps insure against loss or destruction.</li>
-		<li>I assure you a confirmation email is on its way.</li>
-	</ul>
-	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="etc"></a>etc. vs. and so forth vs. and so on vs. et al.</p>
-  </td>
-  <td>
-	<p>Do not use &quot;etc.&quot; or &quot;and so forth&quot; or &quot;and so on&quot; or &quot;et al.&quot; except in the specific situations listed here. Be specific about what you are describing.</p>
-  	<ul>
-  		<li>Do not use &quot;and so on&quot; except in situations where screen space is limited or as noted later in this topic. This phrase gives no information about the class of items that it represents, and therefore can create ambiguity.</li>
-		<li>Do not use &quot;and so on&quot; to end a phrase that begins with &quot;for example&quot; or &quot;such as.&quot; These opening phrases indicate that what follows is not an exhaustive list, so adding &quot;and so on&quot; is superfluous.</li>
-		<li>It is acceptable to use &quot;and so on&quot; to indicate a logical progression where at least two items are already named.</li>
-		<li>Do not use &quot;et al.&quot; except in a text reference citation of three or more authors. Use &quot;and others&quot; instead.</li>
-	</ul>
-  </td>
-  	<td>
-  	<ul>
-  	<li>Body text is most readable in Times New Roman, Palatino, and other serif fonts.</li>
-  	<li>Body text is most readable in serif fonts such as Times New Roman and Palatino.</li>
-  	<li>...a, b, c, and so on.</li>
-  	</ul>
-	</td>
-</tr>
-
 
 <tr>
   <td>
