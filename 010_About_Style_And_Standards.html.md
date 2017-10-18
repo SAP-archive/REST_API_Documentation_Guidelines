@@ -17,11 +17,11 @@ Review documentatoin before publishing to ensure the content meets the requireme
 
 The Style and Standards topic describes the grammar and preferred word choices, and ensures that your content meets the requirements for publication. Because this guide relies on the <a href="http://www.amazon.com/Microsoft-Manual-Style-4th-Edition/dp/0735648719">Microsoft Manual of Style - 4th Edition</a> (MMoS), this page documents only those standards that are applied differently, or that the MMoS does not address. Search this page for any term to read about the standard.
 
-**Grammar**
+#### Grammar**
 
 [Active voice](010_About_Style_And_Standards.html.md#active-voice) | [Tenses](010_About_Style_And_Standards.html.md#tenses) | [Imperative Mood](010_About_Style_And_Standards.html.md#imperative-mood) | [Pronouns](010_About_Style_And_Standards.html.md#pronouns) | [Serial commas](010_About_Style_And_Standards.html.md#serial-commas) | [Colon vs. semicolon](010_About_Style_And_Standards.html.md#colon-vs-semicolon) | [Articles](010_About_Style_And_Standards.html.md#articles)
 
-#### Active voice
+##### Active voice
 Active voice is clear and concise, and avoids misinterpretation. It's also easier for non-native speakers to understand. Passive voice is weak and indirect, uses more words, and can lead to misinterpretation because it reverses the logical order of events. The proper order for sentence structure is subject, verb, and sometimes mentions an object. Passive voice uses object, passive verb, and sometimes the subject. Also, active voice uses the present tense of verbs which is more desirable than using past tense.
 
 :white_check_mark: The endpoint path includes your service name.<br>
@@ -29,7 +29,7 @@ Active voice is clear and concise, and avoids misinterpretation. It's also easie
 
 For more information, see the [Write in Active Voice](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/002-Write-in-Active-Voice) blog post.
 
-#### Tenses
+##### Tenses
 
 Use present tense. In technical writing, present tense is easier to read than past or future tense. Simple verbs are easier to read and understand than complex verbs, such as verbs in the progressive or perfect tense.
 
@@ -38,7 +38,7 @@ The more concise and straightforward you can be, the better.
 :white_check_mark: If the information does not match, an error message appears.<br>
 :no_entry: If the information does not match, an error will appear.
 
-#### Imperative Mood
+##### Imperative Mood
 
 Use the imperative mood to write instructional documentation such as procedures and tutorials. The imperative mood tells the reader, directly, to do something. Other moods can imply optional behavior when you might not intend to present an action as optional.
 
@@ -47,14 +47,14 @@ For example, in instructions for uploading documents, clicking Upload is not a s
 :white_check_mark: Click **Run** to execute the program.<br>
 :no_entry: The user should click **Run** to execute the program.
 
-#### Pronouns
+##### Pronouns
 
 Use the second person and the pronouns "you," "your," and "yours" to speak directly to the reader. Do not use the first person pronouns "we," "us," or "let's."
 
 :white_check_mark: You can save your files in the cloud or on your local machine.<br>
 :no_entry: Let's save our files in the cloud or on our local machine.
 
-#### Serial commas
+##### Serial commas
 
 Use serial commas. A missing serial comma can create confusion about whether the statement applies to each list item individually, or whether the last two items are connected.
 
@@ -63,7 +63,7 @@ Use serial commas. A missing serial comma can create confusion about whether the
 
 For more details, see the [Serial Commas: The Price of Omission]( https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/004-Serial-Commas-The-Price-of-Omission) blog post.
 
-#### Colon vs. semicolon
+##### Colon vs. semicolon
 
 Use colons and semicolons sparingly. Use the colon ( : ) to introduce a list of things. The items after a colon are not complete sentences by themselves. The semicolon ( ; ) separates two distinct clauses within one sentence. The phrase after a semicolon is a complete sentence.
 
@@ -75,14 +75,14 @@ See the examples for ways to write the same sentence with and without a colon or
 :no_entry: I have three brothers: John is my favorite.<br>
 :no_entry: There are three brothers in the family; John is my favorite.
 
-#### Articles
+##### Articles
 
 Always verify the use of the articles "a", "an", and "the" where appropriate. Use "the" when you are talking about a specific example. Use "a" when you are talking about something non-specific or hypothetical.
 
 :white_check_mark: Use the service to remove an item from a cart. In this tutorial, create a cart item and then delete the item from the cart.<br>
 :no_entry: Use the service to remove an item from a cart. In this tutorial, create a cart item and then delete an item from a cart.
 
-#### Terminology
+##### Terminology
 
 <table class="table table-striped table-glossary techne-table">
 <thead>
