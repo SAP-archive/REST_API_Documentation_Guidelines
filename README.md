@@ -7,7 +7,7 @@ The answer is we do. We care about your documentation. We are a team of technica
 * Mentors that provide expert writing tips for non-native English writers, or anyone that needs a little help in the writing department, located on the wiki tab.
 
 ## Get started
-1. The best place to get your feet wet is to look at the (https://github.com/YaaS/REST_API_Documentation_Guidelines/blob/master/001_Table_of_Contents.html.md#table-of-contents) [Table of Contents]. It quickly outlines the different types of guidelines, and the requirements for certain documents. After a quick review of the Definition of done, jump right in and learn best writing practices. For instance, write in active voice, present tense, and second person. The Style and Standards section also guides you on topics such as how to effectively use certain terminology, and voice and tone.
+1. The best place to get your feet wet is to look at the [Table of Contents] (https://github.com/YaaS/REST_API_Documentation_Guidelines/blob/master/001_Table_of_Contents.html.md#table-of-contents). It quickly outlines the different types of guidelines, and the requirements for certain documents. After a quick review of the Definition of done, jump right in and learn best writing practices. For instance, write in active voice, present tense, and second person. The Style and Standards section also guides you on topics such as how to effectively use certain terminology, and voice and tone.
 
 2. Don’t worry about how to format your code, because the Syntax Guidelines explains when to use bold font, and when to use code font, with plenty of examples. Also learn how to use popular technical writing techniques such as lists, tables, links, and images in your documentation.
 
