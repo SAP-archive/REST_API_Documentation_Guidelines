@@ -234,7 +234,7 @@ Fill in the remaining fields and click <b>Save</b>.
   	<td>
   	<ul>
   	<li>Enter your user ID in the provided field.</li>
-  	<li>Provide a value for the **id** parameter.</li>
+  	<li>Provide a value for the <b>id</b> parameter.</li>
 	</ul>
 	</td>
  </tr>
