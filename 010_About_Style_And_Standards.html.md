@@ -258,44 +258,19 @@ Fill in the remaining fields and click <b>Save</b>.
 
 <tr>
   <td>
-  <p><a id="if"></a>if vs. when vs. whenever vs. whether</p>
+  <p><a id="whenever"></a>whenever</p>
   </td>
   <td>
   <p>To avoid ambiguity:</p>
 	<ul>
-		<li>Use &quot;if&quot; to express a condition.</li>
-		<li>Use &quot;whether&quot; to express uncertainty.</li>
-		<li>Use &quot;when&quot; for situations requiring preparation or to denote the passage of time.</li>
 		<li>Try to avoid the word &quot;whenever.&quot; You can typically use &quot;when&quot; instead of &quot;whenever.&quot;</li>
 	</ul>
   </td>
   	<td>
   	<ul>
-  		<li>He will get his driver's license if he passes the driving test. </li>
-  		<li>I don't know whether he will pass the driving test. </li>
-  		<li>He will take his driver's test when he has enough driving experience, which will take a few months.</li>
+  		<li>When you click <b>OK</b>, a new window opens.</li>
 	</ul>
 	</td>
- </tr>
-
-
-<tr>
-  <td>
-  <p><a id="into"></a>in vs. into</p>
-  </td>
-  <td>
-   	<ul>
-  		<li>&quot;In&quot; indicates within the limits, bounds, or area of.</li>
-		<li>&quot;Into&quot; generally implies moving to the inside or interior of.</li>
-	</ul>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-	A word is in a paragraph, but you move the text into the document.
-    	</li>
-    </ul>
-
  </tr>
 
   <tr>
@@ -332,83 +307,16 @@ Fill in the remaining fields and click <b>Save</b>.
 
  <tr>
   <td>
-  <p><a id="login"></a>login, log in, log on, logon, sign in, and register</p>
+  <p><a id="login"></a>sign in, sign out, and register</p>
   </td>
   <td>
   <p>Use only &quot;sign in,&quot; &quot;sign out,&quot; and &quot;register.&quot;</p>
-  <p>To refer to creating or ending a user session on a computer or network, the MMoS standard is &quot;log on&quot; or &quot;log off&quot; or &quot;log off from.&quot;</p>
-  			<ul>
-  				<li>Verb: &quot;log on&quot; or &quot;log off&quot;, two words</li>
-				<li>Noun or adjective: &quot;logon&quot; or &quot;logoff&quot;, one word, no hyphen</li>
-			</ul>
-		<p>Do not use &quot;log in,&quot; &quot;login,&quot; &quot;log onto,&quot; &quot;log off of,&quot; &quot;log out,&quot; &quot;logout,&quot; &quot;sign off,&quot; or &quot;sign on&quot; unless these terms appear in the user interface.</p>
-  </td>
   	<td>
   	<ul>
   		<li>Sign in to your account.</li>
-  		<li>Sign out of your account.</li>
-  		<li>Register for an account.</li>
   	</ul>
 	</td>
  </tr>
-
-
-<tr>
-  <td>
-  <p><a id="once"></a>once vs. after vs. when</p>
-  </td>
-  <td>
-  <p>To avoid ambiguity, especially for the worldwide audience, do not use &quot;once&quot; or &quot;when&quot; as synonyms for &quot;after.&quot; For example:</p>
-  	<ul>
-  		<li>Correct: &quot;After you save the document, you can exit the program.&quot;</li>
-		<li>Incorrect: &quot;Once you save the document, you can exit the program.&quot;</li>
-	</ul>
-  </td>
-  	<td>
-  	<ul>
-  		<li>When the document is complete, save the file.</li>
-  		<li>After you save the file, sign out of the application. </li>
-  	</ul>
-	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="per"></a>per vs. for each</p>
-  </td>
-  <td>
-  	<p>Use &quot;per&quot; in technical or statistical contexts, but use &quot;for each&quot; in other contexts.</p>
-  	<p>Do not use &quot;per&quot; to mean &quot;by&quot; or &quot;in accordance with.&quot; For example:</p>
-  		<ul>
-  			<li>Correct: &quot;Identify your computer by using the procedure in the next section.&quot;</li>
-  			<li>Incorrect: &quot;Identify your computer per the procedure in the next section.&quot;</li>
-  		</ul>
-  <p>When in doubt, don't use &quot;per.&quot;</p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>You can have only one drive letter for each network resource.</li>
-  		<li>Allocate enough time for each upgrade.</li>
-  		<li>The soil contains 10 parts per million of available potassium.</li>
-
- </tr>
-
-<tr>
-  <td>
-  <p><a id="plugin"></a>plugin vs. plug-in</p>
-  </td>
-  <td>
-  <p>Hyphenate &quot;plug-in.&quot;</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	The Maven plug-in is required.
-    	</li>
-    </ul>
-
- </tr>
-
 
   <tr>
   <td>
@@ -432,12 +340,11 @@ Fill in the remaining fields and click <b>Save</b>.
   </td>
   <td>
   <p>Use &quot;replaces&quot; or &quot;replace with.&quot; Do not use &quot;replace&quot; as a noun.
-  Instead of &quot;replaced by,&quot; use &quot;replace with&quot; or &quot;replaces&quot; in active voice. For example, instead of &quot;Version 1 is replaced by version 2,&quot; write &quot;Version 2 replaces version 1.&quot;</p>
+  Instead of &quot;replaced by,&quot; use &quot;replace with&quot; or &quot;replaces&quot; in active voice.
   </td>
   	<td>
   	<ul>
   		<li>Replace the selected text with the new text.</li>
-  		<li>The new value replaces the previous value.</li>
 	</ul>
 	</td>
  </tr>
@@ -457,25 +364,8 @@ Fill in the remaining fields and click <b>Save</b>.
   	<td>
   	<ul>
   		<li>Your computer must have at least 128 MB of RAM to run this program.</li>
-  		<li>You must have write permissions to make changes to the file.</li>
   	</ul>
 	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="simply"></a>simply</p>
-  </td>
-  <td>
-   <p>Do not use the word &quot;simply&quot; in documentation. Instead of &quot;To complete this task, simply click <b>ABC</b>,&quot; eliminate the word &quot;simply&quot; and write &quot;To complete this task, click <b>ABC</b>.&quot;</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	To exit the screen, click <b>Done</b>.
-    	</li>
-    </ul>
-
  </tr>
 
  <tr>
@@ -511,21 +401,6 @@ Fill in the remaining fields and click <b>Save</b>.
 
  </tr>
 
- <tr>
-  <td>
-  <p><a id="timeout"></a>time-out vs. timeout</p>
-  </td>
-  <td>
- Use &quot;time-out&quot; as an adjective or noun. Do not hyphenate when using &quot;time out&quot; as a verb.
-  </td>
-  	<td>
-  	<ul>
-  		<li>If the system cannot connect, a time-out event occurs.</li>
-  		<li>An error response indicates when the connection times out.</li>
-  	</ul>
-	</td>
- </tr>
-
   <tr>
   <td>
   <p><a id="topic"></a>topic vs. section in cross-references</p>
@@ -540,22 +415,6 @@ Fill in the remaining fields and click <b>Save</b>.
     	</li>
     </ul>
 	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="toward"></a>toward vs. towards</p>
-  </td>
-  <td>
-  <p>Use &quot;toward.&quot;</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	Move toward the exits in an orderly fashion.
-    	</li>
-    </ul>
-
  </tr>
 
 <tr>
@@ -573,93 +432,9 @@ Fill in the remaining fields and click <b>Save</b>.
   	<td>
   	<ul>
   		<li>Typically, the winter is very cold.</li>
-  		<li>It does not typically warm up until May.</li>
   	</ul>
 	</td>
  </tr>
-
-
- <tr>
-  <td>
-  <p><a id="uppercase"></a>uppercase vs. upper case</p>
-  <p><a id="lowercase"></a>lowercase vs. lower case</p>
-  </td>
-  <td>
-  Write &quot;uppercase&quot; and &quot;lowercase&quot; as single words.
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	You can use any combination of uppercase and lowercase letters in a password.
-    	</li>
-    </ul>
-
- </tr>
-
- <tr>
-  <td>
-  <p><a id="upperRightCorner"></a>upper right corner vs. upper-right corner</p>
-  </td>
-  <td>
-  Hyphenate directional indicators such as &quot;upper-right&quot; and &quot;lower-left.&quot;
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	Click <b>Save</b> in the upper-right corner.
-    	</li>
-    </ul>
-
-</tr>
-
-<tr>
-  <td>
-  <p><a id="user"></a>user vs. you</p>
-  </td>
-  <td>
-  <p>Use &quot;you.&quot; Developer documentation uses &quot;you&quot; extensively. This form is called second person or direct address.</p>
-  <p>According to the MMoS, second person supports a friendly tone because it connects you with the reader. It also helps avoid passive voice because it focuses the discussion on the reader.</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	After the process is complete, you can refresh the page to see your changes.
-    	</li>
-    </ul>
-
-</tr>
-
-<tr>
-  <td>
-  <p><a id="username"></a>username vs. user name</p>
-  </td>
-  <td>
-  <p>Use &quot;user name&quot; unless referring to an interface element or parameter name that uses the single word form **username**. </p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>Enter your user name and password.</li>
-  		<li>In the <b>Username</b> field, type your user name.</li>
-	</ul>
-	</td>
-</tr>
-
-
-<tr>
-  <td>
-  <p><a id="utilize"></a>utilize vs. use</p>
-  </td>
-  <td>
-  <p>Write &quot;use.&quot; &quot;Utilize&quot;, &quot;utilizing&quot;, and &quot;utilization&quot; are typically unnecessary alternatives to &quot;use&quot;, &quot;using&quot;, and &quot;use&quot; or &quot;usage&quot;, respectively.</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	Subscribe to the <b>Loyalty</b> package to use the Loyalty Member service features.
-
-
-</tr>
-
 
 <tr>
   <td>
@@ -670,7 +445,6 @@ Fill in the remaining fields and click <b>Save</b>.
   </td>
   	<td>
   	<ul>
-  		<li>Configure your profile with the <b>Settings</b> options.</li>
   		<li>You can also make the request through a command line interface.</li>
   	</ul>
 	</td>
