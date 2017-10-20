@@ -166,7 +166,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
   </td>
   <td>
   <p>To avoid ambiguity for worldwide audiences, use &quot;by using&quot; instead of &quot;using&quot; by itself, even if the preposition seems unnecessary. </p>
-  <p>However, in most cases, you can rewrite the sentence more directly, by highlighting the action verb in the sentence, as shon in the example.</p>
+  <p>However, in most cases, you can rewrite the sentence more directly, by highlighting the action verb in the sentence, as shown in the example.</p>
   </td>
   	<td>
   	    <ul>
