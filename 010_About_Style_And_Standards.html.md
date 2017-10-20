@@ -261,9 +261,7 @@ Fill in the remaining fields and click <b>Save</b>.
   <p><a id="whenever"></a>whenever</p>
   </td>
   <td>
-  <p>To avoid ambiguity:</p>
-	<ul>
-		<li>Try to avoid the word &quot;whenever.&quot; You can typically use &quot;when&quot; instead of &quot;whenever.&quot;</li>
+  <p>Try to avoid the word &quot;whenever.&quot; You can typically use &quot;when&quot; instead of &quot;whenever.&quot;</li>
 	</ul>
   </td>
   	<td>
