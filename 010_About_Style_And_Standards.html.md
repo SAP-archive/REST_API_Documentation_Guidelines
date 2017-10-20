@@ -329,7 +329,6 @@ Fill in the remaining fields and click <b>Save</b>.
   	<td>
   	<ul>
   		<li>You cannot enter more than eight characters.</li>
-  		 <li>You can add more rows to the list.</li>
   	</ul>
 	</td>
  </tr>
