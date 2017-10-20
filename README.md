@@ -18,6 +18,6 @@ The answer is we do. We care about your documentation. We are a team of technica
 ## WaaS Up!
 What is WaaS? It stands for Writing as a Service, and the <a href="https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/001-Table-of-Contents"> WaaS blogs</a> aim to mentor and provide expert advice for how to write the best tech docs out there.
 
-After you start writing documentation, you undoubtedly want to learn more writing tips because you care about the quality of it. That’s when you should hop on over to the <a href="https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki") wiki</a> tab tab. See real examples in action, such as how to turn a confusing, inactive sentence into a clear, concise sentence by using an active voice. That’s just one example, the tips goes on and on.
+After you start writing documentation, you undoubtedly want to learn more writing tips because you care about the quality of it. That’s when you should hop on over to the [wiki](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki) tab. See real examples in action, such as how to turn a confusing, inactive sentence into a clear, concise sentence by using an active voice. That’s just one example, the tips goes on and on.
 
 Every detail is explained in our blog posts and webinars. You can become your own technical writing expert, and in turn, teach your peers or others around you the tips that you learn.
