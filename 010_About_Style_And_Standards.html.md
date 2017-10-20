@@ -337,7 +337,6 @@ Fill in the remaining fields and click <b>Save</b>.
   </td>
   <td>
   <p>Use &quot;replaces&quot; or &quot;replace with.&quot; Do not use &quot;replace&quot; as a noun.
-  Instead of &quot;replaced by,&quot; use &quot;replace with&quot; or &quot;replaces&quot; in active voice.
   </td>
   	<td>
   	<ul>
