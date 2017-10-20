@@ -13,7 +13,7 @@ The answer is we do. We care about your documentation. We are a team of technica
 
 3. The [REST API Documents](030_REST_API_Documents.html.md) section provides all the fine-grained details for what type of documents are required for your API, and why. This section also breaks down how to write a proper release note to keep users updated, but also how to use it to promote your product.
 
-4. The [More Documentation](040_More_Documentation.html.md) section provides the needed guidelines for any other type of documentation you need to provide, such as a Solution.  
+4. The [More Documentation](040_More_Documentation.html.md) section provides the guidelines for any other type of documentation, such as a Solution.  
 
 ## WaaS Up!
 What is WaaS? It stands for Writing as a Service, and the <a href="https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki/001-Table-of-Contents"> WaaS blogs</a> aim to mentor and provide expert advice for how to write the best tech docs out there.
