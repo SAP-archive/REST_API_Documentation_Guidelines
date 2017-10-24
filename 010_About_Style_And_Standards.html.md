@@ -82,6 +82,8 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 :white_check_mark: Use the service to remove an item from a cart. In this tutorial, create a cart item and then delete the item from the cart.<br>
 :no_entry: Use the service to remove an item from a cart. In this tutorial, create a cart item and then delete an item from a cart.
 
+For more information, see the [Articles in English Grammar](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki//005-Articles-in-English-Grammar) blog post.
+
 ##### Terminology
 
 <table class="table table-striped table-glossary techne-table">
