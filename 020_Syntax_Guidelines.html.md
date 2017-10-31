@@ -93,6 +93,6 @@ Images and screenshots can quickly convey a lot of important information in your
      <img src="img/images_example.png" alt="Example">
  </ul>
 
-[< PREV](010_About_Style_And_Standards.html.md) | [NEXT >](030_REST_API_Documents.html.md)
+<br><br>[< PREV](010_About_Style_And_Standards.html.md) | [NEXT >](030_REST_API_Documents.html.md)
 
 
