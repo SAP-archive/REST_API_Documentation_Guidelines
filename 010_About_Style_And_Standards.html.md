@@ -176,7 +176,7 @@ For more information, see the [Articles in English Grammar](https://github.com/Y
 	Schedule regular backups with the backup utility to avoid data loss.
     	</li>
     </ul>
-
+	</td>
  </tr>
 
   <tr>
@@ -223,7 +223,7 @@ For more information, see the [Articles in English Grammar](https://github.com/Y
 Fill in the remaining fields and click <b>Save</b>.
     	</li>
     </ul>
-
+	</td>
  </tr>
 
   <tr>
@@ -255,7 +255,7 @@ Fill in the remaining fields and click <b>Save</b>.
   	There are many reasons to visit Colorado. For example, there are 300 days of sunshine per year. You can enjoy a variety of activities in Colorado, such as skiing, hiking, and visiting museums and breweries.
     	</li>
     </ul>
-
+	</td>
  </tr>
 
 <tr>
@@ -263,8 +263,7 @@ Fill in the remaining fields and click <b>Save</b>.
   <p><a id="whenever"></a>whenever</p>
   </td>
   <td>
-  <p>Try to avoid the word &quot;whenever.&quot; You can typically use &quot;when&quot; instead of &quot;whenever.&quot;</li>
-	</ul>
+  <p>Try to avoid the word &quot;whenever.&quot; You can typically use &quot;when&quot; instead of &quot;whenever.&quot;</p>
   </td>
   	<td>
   	<ul>
@@ -286,7 +285,7 @@ Fill in the remaining fields and click <b>Save</b>.
   	The Configuration service uses independent key-value pairs to store all configuration information.
     	</li>
     </ul>
-
+	</td>
  </tr>
 
  <tr>
@@ -302,7 +301,7 @@ Fill in the remaining fields and click <b>Save</b>.
   	There are three types of files in this folder.
     	</li>
     </ul>
-
+	</td>
  </tr>
 
  <tr>
@@ -311,6 +310,7 @@ Fill in the remaining fields and click <b>Save</b>.
   </td>
   <td>
   <p>Use only &quot;sign in,&quot; &quot;sign out,&quot; and &quot;register.&quot;</p>
+ </td>
   	<td>
   	<ul>
   		<li>Sign in to your account.</li>
@@ -338,7 +338,7 @@ Fill in the remaining fields and click <b>Save</b>.
   <p><a id="replace"></a>replace by vs. replace with</p>
   </td>
   <td>
-  <p>Use &quot;replaces&quot; or &quot;replace with.&quot; Do not use &quot;replace&quot; as a noun.
+  <p>Use &quot;replaces&quot; or &quot;replace with.&quot; Do not use &quot;replace&quot; as a noun.</p>
   </td>
   	<td>
   	<ul>
@@ -375,11 +375,9 @@ Fill in the remaining fields and click <b>Save</b>.
   </td>
   	<td>
   	    <ul>
-    	<li>
-  	The platform has single sign on (SSO) to make it easier to use related applications.
-    	</li>
+    	<li>The platform has single sign on (SSO) to make it easier to use related applications.</li>
     </ul>
-
+	</td>
  </tr>
 
 
@@ -388,15 +386,13 @@ Fill in the remaining fields and click <b>Save</b>.
   <p><a id="thirdParty"></a>Third-party names and acronyms</p>
   </td>
   <td>
-  <p>Refer to the originator's official documentation for the correct spelling and capitalization of third-party tools such as JavaScript, Enterprise JavaBeans (EJB), and cron.
+  <p>Refer to the originator's official documentation for the correct spelling and capitalization of third-party tools such as JavaScript, Enterprise JavaBeans (EJB), and cron.</p>
   </td>
   	<td>
   	    <ul>
-    	<li>
-  	Enterprise JavaBeans (EJB), is a managed, server-side component architecture for modular construction of enterprise applications.
-    	</li>
-    </ul>
-
+    	<li>Enterprise JavaBeans (EJB), is a managed, server-side component architecture for modular construction of enterprise applications.</li>
+    		</ul>
+	</td>
  </tr>
 
   <tr>
@@ -457,10 +453,9 @@ Fill in the remaining fields and click <b>Save</b>.
    </td>
    	<td>
    	    <ul>
-    	<li>
-   	An issue in the PubSub service is now resolved.
-
-   
+		    <li>An issue in the PubSub service is now resolved.</li>
+		</ul>
+	</td>
   </tr>
 
 </table>
