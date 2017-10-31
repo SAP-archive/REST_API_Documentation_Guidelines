@@ -117,4 +117,4 @@ For a new version of an existing service, such as a v2 or v3 release, make sure 
 * How to migrate to the new service version
 * Where to find more information on the new service version, typically a link to the the new version documentation
 
-<br>[< PREV](020_Syntax_Guidelines.html.md) | [NEXT>](040_More_Documentation.html.md)
+<br><br>[< PREV](020_Syntax_Guidelines.html.md) | [NEXT>](040_More_Documentation.html.md)
