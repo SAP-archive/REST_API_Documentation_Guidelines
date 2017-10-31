@@ -88,12 +88,10 @@ Images and screenshots can quickly convey a lot of important information in your
     <div class="col-sm-3">
     <img src="img/snagit_mac.png" width="375" height="375" alt="Snagit Editor Styles Menu"></div>
   </div>
-   <li>Introduce the image with a sentence, similar to this example:<br/><br/>
-   See this example for the screenshot highlight, border, and color guidelines:
-   <br><br>
-     <img src="img/images_example.png" alt="Example"></li>
+ <li>Introduce the image with a sentence, similar to this example:</li><br>
+   See this example for the screenshot highlight, border, and color guidelines:<br>
+     <img src="img/images_example.png" alt="Example">
  </ul>
-
 
 <br>[< PREV](010_About_Style_And_Standards.html.md) | [NEXT >](030_REST_API_Documents.html.md)
 
