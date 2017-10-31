@@ -6,6 +6,7 @@ These are the guidelines for formatting text and using specific elements such as
  It is important to consistently format items such as code or filenames to quickly distinguish them while reading technical documentation. The following table outlines when to use **bold** font and when to use `code` font:
 
 ##### Use bold font for these items:
+
 Items       | Examples
 ----------- | ----------------------------------------------------------------------
 Parameters  | The **partial** attribute is optional.
@@ -17,6 +18,7 @@ UI elements | Click on **Subscribe**.
 Variables   | Click **Project** > **{Your Project Name}**. Variables are also enclosed in single curly braces.
 
 ##### Use code font for these items:
+
 Items                     | Examples
 ------------------------- | -----------------------------------------------------------------------------------------------
 Code examples             | Verify the installation with the `mvn help:system` command.
