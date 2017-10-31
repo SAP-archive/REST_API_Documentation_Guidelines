@@ -34,7 +34,7 @@ First, list the <strong>topic owner client</strong> above the table. This is one
 
 <h5>Events</h5>
 
-<p>The topic owner client is: <strong>hybris.authorization</strong><br><br>
+The topic owner client is: <strong>hybris.authorization</strong>
 
 | Type |Description |Schema |Payload example |
 | ---- |---------- | ------ | --------------|
@@ -62,15 +62,14 @@ Give more details about the main features listed in the Overview, and any other 
 #### Tutorials
 Tutorials in your documentation explain and demonstrate in step-by-step fashion how to use the service. The titles of your tutorials should be succinct. Do NOT include "How To" in the title, because it is redundant. Use titles that start with action verbs in the Tutorials section to clearly indicate what action is performed
 
-<p>The tutorials are targeted at developers with different amounts of experience. For that reason, structure the tutorials so that a beginner can follow the most basic steps, and more experienced developers can learn more fine-grained details, such as troubleshooting or more use cases. Be sure to include the following:</p>
-
+The tutorials are targeted at developers with different amounts of experience. For that reason, structure the tutorials so that a beginner can follow the most basic steps, and more experienced developers can learn more fine-grained details, such as troubleshooting or more use cases. Be sure to include the following:
 <ul>
   <li>Title – Give the tutorial a descriptive title, without the words "How To".</li>
   <li>Introduction – Introduce each tutorial separately, or as a whole. Be sure to explain any common use-case theme, such as a certain store name with certain products for sale. Also, state the objective of the tutorials and any prerequisites.</li>
   <li>Step-by-step – Include detailed steps in a quick start guide, or create detailed, interactive steps.</li>
   <li>Request and response examples - If you include a sample request, list optional and required attributes separately in the request body.</li>
   <li>Errors – Include the description of the error codes.</li>
-  <li>Optional troubleshooting - Besides providing the error codes, give tips on how to troubleshoot a problem after receiving an error.
+  <li>Optional troubleshooting - Besides providing the error codes, give tips on how to troubleshoot a problem after receiving an error.</li>
   <li>Optional use cases – Show more than one use case to highlight different features.</li>
 </ul>
 
