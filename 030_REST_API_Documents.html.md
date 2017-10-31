@@ -12,7 +12,7 @@ Services use the descriptor files such as a RAML file to describe the API in a n
     <li>Stick to the terminology and format standards.</li>
     <li>Use appropriate articles and punctuation.</li>
 </ul>
-For example: </br>"Use the <code>/all</code> endpoint to return a list of all tenants for a given client."
+For example: <br>"Use the <code>/all</code> endpoint to return a list of all tenants for a given client."
 
 #### Overview document
 The Overview document is concise and briefly describes the purpose and intended use of the service. Make sure to include the following:
