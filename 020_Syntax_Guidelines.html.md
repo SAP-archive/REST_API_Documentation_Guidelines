@@ -89,7 +89,7 @@ Images and screenshots can quickly convey a lot of important information in your
     <img src="img/snagit_mac.png" width="375" height="375" alt="Snagit Editor Styles Menu"></div>
   </div>
  <li>Introduce the image with a sentence, similar to this example:</li><br>
-   See this example for the screenshot highlight, border, and color guidelines:<br>
+   See this example for the screenshot highlight, border, and color guidelines:<br><br>
      <img src="img/images_example.png" alt="Example">
  </ul>
 
