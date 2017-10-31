@@ -4,7 +4,7 @@
 The answer is, we do. We care about your documentation. We are a team of technical writers and editors at SAP Hybris with a lot of experience documenting REST APIs and other solutions surrounding that topic. We came up with a way to ensure your docs are tops! We provide the following:
 
 * Guidelines and requirements on how to properly document your project, located right here in the repository.
-* Mentors who provide expert writing tips for non-native English writers, and anyone who needs a little help in the writing department. Tips are located on the [wiki](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki) tab.
+* Mentors who provide expert writing tips for non-native English writers, and anyone who needs a little help in the writing department. Tips are located on the [wiki](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki) tab in GitHub.
 
 ## Get started
 Here's a suggested path, with some helpful waypoints for your journey through the guidelines. 
@@ -23,3 +23,5 @@ What is WaaS? It stands for Writing as a Service, and the <a href="https://githu
 After you start writing documentation, you undoubtedly want to learn more writing tips because you care about the quality of your docs. That’s when you should hop on over to the [wiki](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki) tab. See real examples in action, such as how to turn a confusing, passive sentence into a clear, concise sentence by using active voice. That’s just one example. The tips go on and on.
 
 Every detail is explained in our blog posts and webinars. You can become your own technical writing expert, and in turn, teach your peers and others around you the tips that you learn.
+
+[> Table of Contents](001_Table_of_Contents.html.md#table-of-contents)
