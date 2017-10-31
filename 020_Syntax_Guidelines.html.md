@@ -58,7 +58,7 @@ Ideally, headings fit onto one line in the generated output, but balance brevity
 Linking is a great tool to use to incorporate a lot of content into your document with fewer words. That being said, overuse of linking can create "link rot" when links break, and if a page has more links than content, it is not very pleasing to read. Choose carefully when and how to link by using these best practices.
 
 - Every link has the potential to go bad over time, and the more links you include, the higher the chance that one will break. If something is not central to the subject at hand, is well-known by your audience, or can be found with a simple search, there is no point in linking.
-- For external links, link to the main page of the external website and then describe how to access the destination link. For example, `Go to the <a href="www.raml.org">RAML</a> website and click on the download link.` Main page URLs are less likely to change.
+- For external links, link to the main page of the external website and then describe how to access the destination link. For example,<br> `Go to the <a href="www.raml.org">RAML</a> website and click on the download link.` <br>Main page URLs are less likely to change.
 - Choose the link text carefully. Do not link entire phrases which become overemphatic. Instead, choose the noun, such as an article or specification within the phrase that helps the reader understand where the navigation leads them. Or use the title of the article or book as the link, but do not include the author and publisher.
 - Link to web pages instead of PDFs whenever possible.
 - Do not include spaces or other characters in the link that require escape characters for translation.
@@ -81,7 +81,7 @@ Images and screenshots can quickly convey a lot of important information in your
    <li>Do not include the mouse pointer in your screenshots, unless it shows a function related to the content.</li>
    <li>To highlight certain areas of an image, crop the image, or use <strong><font color="#F0AB00">yellow</font></strong> (RGB: 240,171,0 or HEX: #F0AB00) for arrows or boxes around elements with a three point line width.</li>
    <li>For multiple screenshots, use your best judgment as to whether you include one introduction, or whether you introduce each screenshot separately.</li>
-   <li>Describe multiple areas using <strong><font color="#8A5FF6">purple</font></strong> round stamps with white numbers. In Snagit, you can create a number in this style and add it to the quick  menu:</li><br><br>
+   <li>Describe multiple areas using <strong><font color="#8A5FF6">purple</font></strong> round stamps with white numbers. In Snagit, you can create a number in this style and add it to the quick  menu:</li><br>
 <div class="row">
     <div class="col-sm-4">
     <img src="img/snagit_win.png" width="375" height="375" alt alt="Snagit Editor"></div>
@@ -93,6 +93,6 @@ Images and screenshots can quickly convey a lot of important information in your
      <img src="img/images_example.png" alt="Example">
  </ul>
 
-<br>[< PREV](010_About_Style_And_Standards.html.md) | [NEXT >](030_REST_API_Documents.html.md)
+[< PREV](010_About_Style_And_Standards.html.md) | [NEXT >](030_REST_API_Documents.html.md)
 
 
