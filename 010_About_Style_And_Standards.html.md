@@ -86,6 +86,37 @@ For more information, see the [Articles in English Grammar](https://github.com/Y
 
 ##### Terminology
 
+<details> 
+  <summary> American English vs. British English </summary>
+	<br>
+  <p>
+   Use American English. Do not use British spelling in the documentation.<br>
+	   
+   <b>Example:</b> The color of the message changes from blue to red if there are errors.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> app vs. application </summary>
+	<br>
+  <p>
+   Use "application."<br>
+	   
+   <b>Example:</b> You can create a new application with the name of your choice.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> as shown below </summary>
+	<br>
+  <p>
+  Use "as shown in the example" instead of indicating direction, such as "above" or "below", whenever possible. This helps to ensure that there are no issues if the text is modified, rewritten, or reorganized. You can also write "the following" or "the preceding."<br>
+	   
+   <b>Example:</b> In your request, supply the values for the following parameters:
+  </p>
+</details>
+
+<br>
 <table class="table table-striped table-glossary techne-table">
 <thead>
 
