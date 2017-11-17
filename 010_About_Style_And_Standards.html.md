@@ -84,16 +84,6 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 
 For more information, see the [Articles in English Grammar](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki//005-Articles-in-English-Grammar) blog post.
 
-<details> 
-  <summary> American English vs. British English </summary>
-	<br>
-  <p>
-   Use American English. Do not use British spelling in the documentation.<br>
-	   
-   <strong>Example:</strong> The color of the message changes from blue to red if there are errors.
-  </p>
-</details>
-
 ##### Terminology
 
 <table class="table table-striped table-glossary techne-table">
