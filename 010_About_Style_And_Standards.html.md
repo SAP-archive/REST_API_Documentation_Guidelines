@@ -90,7 +90,7 @@ For more information, see the [Articles in English Grammar](https://github.com/Y
   <p>
    Use American English. Do not use British spelling in the documentation.<br>
 	   
-   <b>Example:</b> The color of the message changes from blue to red if there are errors.
+   <strong>Example:</strong> The color of the message changes from blue to red if there are errors.
   </p>
 </details>
 
