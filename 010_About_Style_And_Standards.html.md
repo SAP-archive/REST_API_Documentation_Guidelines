@@ -85,6 +85,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 For more information, see the [Articles in English Grammar](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki//005-Articles-in-English-Grammar) blog post.
 
 ##### Terminology
+Search this section for any terminology problem you struggle with. Expand the terms and expressions to read about the standards and get familiar with helpful examples.<br>
 
 <details> 
   <summary> American English vs. British English </summary>
