@@ -93,7 +93,7 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <p>
    Use American English. Do not use British spelling in the documentation.<br>
 	   
-   <b>Example:</b> The color of the message changes from blue to red if there are errors.
+   <strong>Example:</strong> The color of the message changes from blue to red if there are errors.
   </p>
 </details>
 <br> 
@@ -103,7 +103,7 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <p>
    Use "application."<br>
 	   
-   <b>Example:</b> You can create a new application with the name of your choice.
+   <strong>Example:</strong> You can create a new application with the name of your choice.
   </p>
 </details>
 <br> 
@@ -113,9 +113,21 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <p>
   Use "as shown in the example" instead of indicating direction, such as "above" or "below", whenever possible. This helps to ensure that there are no issues if the text is modified, rewritten, or reorganized. You can also write "the following" or "the preceding."<br>
 	   
-   <b>Example:</b> In your request, supply the values for the following parameters:
+   <strong>Example:</strong> In your request, supply the values for the following parameters:
   </p>
 </details>
+<br>
+<details> 
+  <summary> back end vs. backend vs. back-end </summary>
+	<br>
+  <p>
+   Per the MMoS, use a more specific term when possible, such as server, operating system, database, or network. However, if you must use this term, use back end, two words, no hyphen, as a noun. Use back-end, hyphenated, as an adjective to modify a noun. Do not use "backend.".<br>
+	   
+   <strong>Example 1:</strong> <b>Example 1:</b> Set up accounts in your back-end system with command line requests.
+   <strong>Example 2:</strong> Configure the application on the back end.
+  </p>
+</details>
+<br> 
 
 <br>
 <table class="table table-striped table-glossary techne-table">
