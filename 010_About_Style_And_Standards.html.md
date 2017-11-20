@@ -123,7 +123,7 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <p>
    Per the MMoS, use a more specific term when possible, such as server, operating system, database, or network. However, if you must use this term, use back end, two words, no hyphen, as a noun. Use back-end, hyphenated, as an adjective to modify a noun. Do not use "backend.".<br>
 	   
-   <strong>Example 1:</strong> <b>Example 1:</b> Set up accounts in your back-end system with command line requests.
+   <strong>Example 1:</strong> Set up accounts in your back-end system with command line requests.<br>
    <strong>Example 2:</strong> Configure the application on the back end.
   </p>
 </details>
