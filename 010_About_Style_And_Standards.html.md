@@ -123,8 +123,237 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <p>
    Per the MMoS, use a more specific term when possible, such as server, operating system, database, or network. However, if you must use this term, use back end, two words, no hyphen, as a noun. Use back-end, hyphenated, as an adjective to modify a noun. Do not use "backend.".<br>
 	   
-   <strong>Example 1:</strong> Set up accounts in your back-end system with command line requests.<br>
-   <strong>Example 2:</strong> Configure the application on the back end.
+   <strong>Examples</strong>	   
+   <ul>
+	<li>Set up accounts in your back-end system with command line requests.</li>
+	<li>Configure the application on the back end.</li>
+   </ul>
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> by using vs. using </summary>
+	<br>
+  <p>
+  To avoid ambiguity for worldwide audiences, use "by using" instead of "using" by itself, even if the preposition seems unnecessary.
+
+However, in most cases, you can rewrite the sentence more directly, by highlighting the action verb in the sentence, as shown in the example."<br>
+	   
+   <strong>Example:</strong> Schedule regular backups with the backup utility to avoid data loss.
+  </p>
+</details>
+<br> 
+<details> 
+	<summary> "Click <strong>Add</strong>" vs. "Click the <strong>Add</strong> button." </summary>
+	<br>
+  <p>
+  If the button has a label with text, use the label name without the word "button."
+
+If the button or icon does not have a text label, use a descriptive name with the word "button." Bold the label or icon name in both cases.<br>
+	   
+   <strong>Examples</strong>	   
+   <ul>
+	<li>Click <strong>Add</strong>.</li>
+	<li>Click the <strong>Maximize</strong> icon.</li>
+   </ul>
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> e-mail vs. email </summary>
+	<br>
+  <p>
+  Use "email" as a noun, not as a verb. For a verb form, use "send" instead. Do not write "e-mail" with a hyphen.<br>
+	   
+   <strong>Example:</strong> You can send an email using Outlook.
+  </p>
+</details>
+<br>
+<details> 
+  <summary> fill in vs. complete </summary>
+	<br>
+  <p>
+   Use "fill in."<br>
+	   
+   <strong>Example:</strong> Fill in the remaining fields and click <strong>Save</strong>.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> id vs. ID </summary>
+	<br>
+  <p>
+   Use "ID," capitalized, as the abbreviation for "identification." "Id," or "id," has a different meaning in English. "id" is only appropriate when you are documenting code, as shown in the second example.<br>
+	   
+   <strong>Examples</strong>	   
+   <ul>
+	<li>Enter your user ID in the provided field.</li>
+	<li>Provide a value for the id parameter.</li>
+   </ul>
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> i.e. vs. e.g. vs. for example </summary>
+	<br>
+  <p>	
+Enter your user ID in the provided field.
+Provide a value for the id parameter.
+i.e. vs. e.g. vs. for example
+
+Do not use i.e. or e.g. Use "that is" or "for example" instead. Depending on the context, "such as" may be appropriate, as well.
+
+Do not use "for example" in the middle of a sentence. Instead of "This smartphone has many uses, for example making calls, sending text messages, and taking pictures," provide the information in two sentences: "This smartphone has many uses. For example, it can make calls, send text messages, and take pictures."<br>
+	   
+   <strong>Example:</strong> There are many reasons to visit Colorado. For example, there are 300 days of sunshine per year. You can enjoy a variety of activities in Colorado, such as skiing, hiking, and visiting museums and breweries.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> whenever </summary>
+	<br>
+  <p>
+   Try to avoid the word "whenever." You can typically use "when" instead of "whenever."<br>
+	   
+   <strong>Example:</strong> When you click <strong>OK</strong>, a new window opens.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> key-value pairs </summary>
+	<br>
+  <p>
+   Use "key-value pairs." Do not write key/value, key value, or key:value.<br>
+	   
+   <strong>Example:</strong> The Configuration service uses independent key-value pairs to store all configuration information.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> kind vs. type </summary>
+	<br>
+  <p>
+   Use "type."<br>
+	   
+   <strong>Example:</strong> There are three types of files in this folder.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> sign in, sign out, and register </summary>
+	<br>
+  <p>
+   Use only "sign in," "sign out," and "register."<br>
+	   
+   <strong>Example:</strong> Sign in to your account.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> possible vs. can or cannot </summary>
+	<br>
+  <p>
+   Use "can" and "cannot." Do not write "it is possible" or "it is not possible."<br>
+	   
+   <strong>Example:</strong> You cannot enter more than eight characters.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> replace by vs. replace with </summary>
+	<br>
+  <p>
+  Use "replaces" or "replace with." Do not use "replace" as a noun.<br>
+	   
+   <strong>Example:</strong> Replace the selected text with the new text.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> should vs. must vs. have to </summary>
+	<br>
+  <p>
+   While the MMoS advises using "should" only to describe a recommended, but optional, user action, "should" is ambiguous. When you write "should", it is not always clear whether the reader needs to perform an action. If it is recommended to back up files regularly, you can just say "Back up your files regularly." Then explain the potential danger of not backing up files.
+
+Use "must" only to describe a user action that is required.
+Do not use the phrase "have to." Use "must" instead.
+Do not use "should" to indicate probability. Wherever possible, express certainty. When that is not possible, use "may" or rephrase.<br>
+	   
+   <strong>Example:</strong> Your computer must have at least 128 MB of RAM to run this program.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> single sign-on vs. single sign on </summary>
+	<br>
+  <p>
+   Use single sign on (SSO) to refer to authentication that allows a user to sign into multiple applications with one set of credentials. When referring to the act of signing in, write "sign in."<br>
+	   
+   <strong>Example:</strong> The platform has single sign on (SSO) to make it easier to use related applications.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> app vs. application </summary>
+	<br>
+  <p>
+   Use "application."<br>
+	   
+   <strong>Example:</strong> You can create a new application with the name of your choice.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> Third-party names and acronyms </summary>
+	<br>
+  <p>
+  Refer to the originator's official documentation for the correct spelling and capitalization of third-party tools such as JavaScript, Enterprise JavaBeans (EJB), and cron.<br>
+	   
+   <strong>Example:</strong> Enterprise JavaBeans (EJB), is a managed, server-side component architecture for modular construction of enterprise applications.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> topic vs. section in cross-references </summary>
+	<br>
+  <p>
+   Use "section."<br>
+	   
+   <strong>Example:</strong> For more information about creating email templates, see the Email section.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> typically vs. usually </summary>
+	<br>
+  <p>
+   Use "typically."
+
+If you use "typically" at the beginning of a sentence, use a comma after, as shown in the example.
+Do not use a comma before or after "typically" in the middle of a sentence.
+Avoid using "typically" at the end of a sentence.<br>
+	   
+   <strong>Example:</strong> Typically, the winter is very cold.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> via </summary>
+	<br>
+  <p>
+   Do not use "via." Instead, write "through," "in," "using," "with," "by," or another appropriate American English term.<br>
+	   
+   <strong>Example:</strong> You can also make the request through a command line interface.
+  </p>
+</details>
+<br> 
+<details> 
+  <summary> we, us, let's, or our </summary>
+	<br>
+  <p>
+   Do not use "we," "us," "let's," or "our." Instead of "We released a new feature for the Email service," write "A new feature is available for the Email service."<br>
+	   
+   <strong>Example:</strong> An issue in the PubSub service is now resolved.
   </p>
 </details>
 <br> 
