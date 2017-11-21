@@ -183,7 +183,7 @@ If the button or icon does not have a text label, use a descriptive name with th
   <summary> id vs. ID </summary>
 	<br>
   <p>
-   Use "ID," capitalized, as the abbreviation for "identification." "Id," or "id," has a different meaning in English. "id" is only appropriate when you are documenting code, as shown in the second example.<br>
+   Use "ID," capitalized, as the abbreviation for "identification." "Id," or "id," has a <a href="https://en.wikipedia.org/wiki/Id,_ego_and_super-ego" target="_blank">different meaning</a> in English. "id" is only appropriate when you are documenting code, as shown in the second example.<br>
 	   
    <strong>Examples</strong>	   
    <ul>
@@ -319,7 +319,7 @@ Do not use "should" to indicate probability. Wherever possible, express certaint
   <p>
    Use "section."<br>
 	   
-   <strong>Example:</strong> For more information about creating email templates, see the Email section.
+   <strong>Example:</strong> For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> section.
   </p>
 </details>
 <br> 
