@@ -88,46 +88,42 @@ For more information, see the [Articles in English Grammar](https://github.com/Y
 Search this section for any terminology problem you struggle with. Click on a given term or expression to expand the view and read about the standards in detail.<br>
 
 <details> 
-  <summary> American English vs. British English </summary>
+  <summary> American English spelling, not British English </summary>
 	<br>
   <p>
-   Use American English. Do not use British spelling in the documentation.<br>
-	   
-   <strong>Example:</strong> The color of the message changes from blue to red if there are errors.
+	  :white_check_mark: The color of the message changes from blue to red if there are errors.<br>
+	  :no_entry: The colour of the message changes from blue to red if there are errors.
   </p>
 </details>
 <br> 
 <details> 
-  <summary> app vs. application </summary>
+  <summary> application, not app </summary>
 	<br>
   <p>
-   Use "application."<br>
-	   
-   <strong>Example:</strong> You can create a new application with the name of your choice.
+	  :white_check_mark: Create a new application with the name of your choice.<br>
+	  :no_entry: Create a new app with the name of your choice.
   </p>
 </details>
 <br> 
 <details> 
-  <summary> as shown below </summary>
+  <summary> as shown in the example, not as shown below or above </summary>
 	<br>
   <p>
-  Use "as shown in the example" instead of indicating direction, such as "above" or "below", whenever possible. This helps to ensure that there are no issues if the text is modified, rewritten, or reorganized. You can also write "the following" or "the preceding."<br>
-	   
-   <strong>Example:</strong> In your request, supply the values for the following parameters:
+	  You can also write "the following" or "the preceding."<br>
+	  :white_check_mark: In your request, supply the values for the following parameters:<br>
+	  :white_check_mark: In your request, supply the values as shown in the example:<br>
+	  :no_entry: In your request, supply the values as shown below:
   </p>
 </details>
 <br>
 <details> 
-  <summary> back end vs. backend vs. back-end </summary>
+  <summary> back end or back-end, not backend </summary>
 	<br>
   <p>
-   Per the MMoS, use a more specific term when possible, such as server, operating system, database, or network. However, if you must use this term, use back end, two words, no hyphen, as a noun. Use back-end, hyphenated, as an adjective to modify a noun. Do not use "backend.".<br>
-	   
-   <strong>Examples</strong>	   
-   <ul>
-	<li>Set up accounts in your back-end system with command line requests.</li>
-	<li>Configure the application on the back end.</li>
-   </ul>
+	  Use a more specific term when possible, such as server, operating system, database, or network. However, use "back end" as a noun, or "back-end" as an adjective.<br>
+	  :white_check_mark: Set up accounts in your back-end system with command line requests.<br>
+	  :white_check_mark: Configure the application on the back end.<br>
+	  :no_entry: Configue the application on the backend.
   </p>
 </details>
 <br> 
