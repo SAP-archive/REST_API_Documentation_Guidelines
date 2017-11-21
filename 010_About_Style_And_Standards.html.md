@@ -88,111 +88,95 @@ For more information, see the [Articles in English Grammar](https://github.com/Y
 Search this section for any terminology problem you struggle with. Click on a given term or expression to expand the view and read about the standards in detail.<br>
 
 <details> 
-  <summary> American English spelling, not British English </summary>
+  <summary> American English spelling, not British English spelling </summary>
 	<br>
-  <p>
+	<p>
 	  :white_check_mark: The color of the message changes from blue to red if there are errors.<br>
 	  :no_entry: The colour of the message changes from blue to red if there are errors.
-  </p>
+	</p>
 </details>
 <br> 
 <details> 
   <summary> application, not app </summary>
 	<br>
-  <p>
+	<p>
 	  :white_check_mark: Create a new application with the name of your choice.<br>
 	  :no_entry: Create a new app with the name of your choice.
-  </p>
+  	</p>
 </details>
 <br> 
 <details> 
-  <summary> as shown in the example, not as shown below or above </summary>
+  <summary> as shown in the example, not as shown below, or above </summary>
 	<br>
-  <p>
-	  You can also write "the following" or "the preceding."<br>
-	  :white_check_mark: In your request, supply the values for the following parameters:<br>
-	  :white_check_mark: In your request, supply the values as shown in the example:<br>
-	  :no_entry: In your request, supply the values as shown below:
-  </p>
+  	<p>
+	  Or use "the following" or "the preceding" if necessary.
+	</p>
+	<p>
+	:white_check_mark: In your request, supply the values as shown in the example:<br>
+	:white_check_mark: In your request, supply the values for the following parameters:<br>
+	:no_entry: In your request, supply the values as shown below:
+ 	 </p>
 </details>
 <br>
 <details> 
   <summary> back end or back-end, not backend </summary>
 	<br>
-  <p>
-	  Use a more specific term when possible, such as server, operating system, database, or network. However, use "back end" as a noun, or "back-end" as an adjective.<br>
+  	<p>
+	  Use a more specific term when possible, such as a server, operating system, database, or network. If not, use "back end" as a noun, or "back-end" as an adjective.
+	</p>
+	<p>
 	  :white_check_mark: Set up accounts in your back-end system with command line requests.<br>
 	  :white_check_mark: Configure the application on the back end.<br>
 	  :no_entry: Configue the application on the backend.
-  </p>
+  	</p>
+</details>
+<br>  
+<details> 
+	<summary> Click <strong>Add</strong> or Click the <strong>Add</strong> button. </summary>
+	<br>
+  	<p>
+  	If the button has a label with text, use the label name without the word "button." If the button or icon does not have a text label, use a descriptive name with the word "button" or "icon". Use bold for the label, button, or icon name.
+	</p>
+	<p>
+	:white_check_mark: Click <strong>Add</strong>.<br>
+	:white_check_mark: Click the <strong>Maximize</strong> icon.
+  	</p>
 </details>
 <br> 
 <details> 
-  <summary> by using vs. using </summary>
+  <summary> email, not e-mail </summary>
 	<br>
-  <p>
-  To avoid ambiguity for worldwide audiences, use "by using" instead of "using" by itself, even if the preposition seems unnecessary.
-
-However, in most cases, you can rewrite the sentence more directly, by highlighting the action verb in the sentence, as shown in the example."<br>
-	   
-   <strong>Example:</strong> Schedule regular backups with the backup utility to avoid data loss.
-  </p>
-</details>
-<br> 
-<details> 
-	<summary> "Click <strong>Add</strong>" vs. "Click the <strong>Add</strong> button." </summary>
-	<br>
-  <p>
-  If the button has a label with text, use the label name without the word "button."
-
-If the button or icon does not have a text label, use a descriptive name with the word "button." Bold the label or icon name in both cases.<br>
-	   
-   <strong>Examples</strong>	   
-   <ul>
-	<li>Click <strong>Add</strong>.</li>
-	<li>Click the <strong>Maximize</strong> icon.</li>
-   </ul>
-  </p>
-</details>
-<br> 
-<details> 
-  <summary> e-mail vs. email </summary>
-	<br>
-  <p>
-  Use "email" as a noun, not as a verb. For a verb form, use "send" instead. Do not write "e-mail" with a hyphen.<br>
-	   
-   <strong>Example:</strong> You can send an email using Outlook.
-  </p>
+  	<p>
+	:white_check_mark: You can send an email using the template.<br>
+	:no_entry: You can send an e-mail using the template.
+  	</p>
 </details>
 <br>
 <details> 
-  <summary> fill in vs. complete </summary>
+  <summary> fill in, not complete </summary>
 	<br>
-  <p>
-   Use "fill in."<br>
-	   
-   <strong>Example:</strong> Fill in the remaining fields and click <strong>Save</strong>.
-  </p>
+  	<p>
+   	:white_check_mark: Fill in the remaining fields and click <strong>Save</strong>.
+	:no_entry: Complete the remaining fields and click <strong>Save</strong>.
+	</p>
 </details>
 <br> 
 <details> 
   <summary> id vs. ID </summary>
 	<br>
-  <p>
-   Use "ID," capitalized, as the abbreviation for "identification." "Id," or "id," has a <a href="https://en.wikipedia.org/wiki/Id,_ego_and_super-ego" target="_blank">different meaning</a> in English. "id" is only appropriate when you are documenting code, as shown in the second example.<br>
-	   
-   <strong>Examples</strong>	   
-   <ul>
-	<li>Enter your user ID in the provided field.</li>
-	<li>Provide a value for the id parameter.</li>
-   </ul>
-  </p>
+  	<p>
+   	Use "ID" as the abbreviation for identification in paragraph text. "Id," or "id," is only appropriate when you are documenting code.
+	</p>
+	<p>
+	:white_check_mark: Enter your user ID in the provided field.<br>
+	:no_entry:Enter your user id in the provided field.
+  	</p>
 </details>
 <br> 
 <details> 
-  <summary> i.e. vs. e.g. vs. for example </summary>
+  <summary> for example, or such as, not i.e. or e.g. </summary>
 	<br>
-  <p>	
+  	<p>	
 Enter your user ID in the provided field.
 Provide a value for the id parameter.
 i.e. vs. e.g. vs. for example
