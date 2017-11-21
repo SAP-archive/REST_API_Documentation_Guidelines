@@ -91,8 +91,8 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <summary> American English spelling, not British English spelling </summary>
 	<br>
 	<p>
-	  :white_check_mark: The color of the message changes from blue to red if there are errors.<br>
-	  :no_entry: The colour of the message changes from blue to red if there are errors.
+		:white_check_mark: The color of the message changes from blue to red if there are errors.<br>
+	 	:no_entry: The colour of the message changes from blue to red if there are errors.
 	</p>
 </details>
 <br> 
@@ -100,8 +100,8 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <summary> application, not app </summary>
 	<br>
 	<p>
-	  :white_check_mark: Create a new application with the name of your choice.<br>
-	  :no_entry: Create a new app with the name of your choice.
+	  	:white_check_mark: Create a new application with the name of your choice.<br>
+	  	:no_entry: Create a new app with the name of your choice.
   	</p>
 </details>
 <br> 
@@ -109,12 +109,12 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <summary> as shown in the example, not as shown below, or above </summary>
 	<br>
   	<p>
-	  Or use "the following" or "the preceding" if necessary.
+	  	Or use "the following" or "the preceding" if necessary.
 	</p>
 	<p>
-	:white_check_mark: In your request, supply the values as shown in the example:<br>
-	:white_check_mark: In your request, supply the values for the following parameters:<br>
-	:no_entry: In your request, supply the values as shown below:
+		:white_check_mark: In your request, supply the values as shown in the example:<br>
+		:white_check_mark: In your request, supply the values for the following parameters:<br>
+		:no_entry: In your request, supply the values as shown below:
  	 </p>
 </details>
 <br>
@@ -122,12 +122,12 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <summary> back end or back-end, not backend </summary>
 	<br>
   	<p>
-	  Use a more specific term when possible, such as a server, operating system, database, or network. If not, use "back end" as a noun, or "back-end" as an adjective.
+	  	Use a more specific term when possible, such as a server, operating system, database, or network. If not, use "back end" as a noun, or "back-end" as an adjective.
 	</p>
 	<p>
-	  :white_check_mark: Set up accounts in your back-end system with command line requests.<br>
-	  :white_check_mark: Configure the application on the back end.<br>
-	  :no_entry: Configue the application on the backend.
+	  	:white_check_mark: Set up accounts in your back-end system with command line requests.<br>
+	  	:white_check_mark: Configure the application on the back end.<br>
+	 	 :no_entry: Configue the application on the backend.
   	</p>
 </details>
 <br>  
@@ -135,11 +135,11 @@ Search this section for any terminology problem you struggle with. Click on a gi
 	<summary> Click <strong>Add</strong> or Click the <strong>Add</strong> button. </summary>
 	<br>
   	<p>
-  	If the button has a label with text, use the label name without the word "button." If the button or icon does not have a text label, use a descriptive name with the word "button" or "icon". Use bold for the label, button, or icon name.
+  		If the button has a label with text, use the label name without the word "button." If the button or icon does not have a text label, use a descriptive name with the word "button" or "icon". Use bold for the label, button, or icon name.
 	</p>
 	<p>
-	:white_check_mark: Click <strong>Add</strong>.<br>
-	:white_check_mark: Click the <strong>Maximize</strong> icon.
+		:white_check_mark: Click <strong>Add</strong>.<br>
+		:white_check_mark: Click the <strong>Maximize</strong> icon.
   	</p>
 </details>
 <br> 
@@ -147,8 +147,8 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <summary> email, not e-mail </summary>
 	<br>
   	<p>
-	:white_check_mark: You can send an email using the template.<br>
-	:no_entry: You can send an e-mail using the template.
+		:white_check_mark: You can send an email using the template.<br>
+		:no_entry: You can send an e-mail using the template.
   	</p>
 </details>
 <br>
@@ -156,189 +156,106 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <summary> fill in, not complete </summary>
 	<br>
   	<p>
-   	:white_check_mark: Fill in the remaining fields and click <strong>Save</strong>.
-	:no_entry: Complete the remaining fields and click <strong>Save</strong>.
+   		:white_check_mark: Fill in the remaining fields and click <strong>Save</strong>.
+		:no_entry: Complete the remaining fields and click <strong>Save</strong>.
 	</p>
 </details>
 <br> 
 <details> 
-  <summary> id vs. ID </summary>
+  <summary> ID or id </summary>
 	<br>
   	<p>
-   	Use "ID" as the abbreviation for identification in paragraph text. "Id," or "id," is only appropriate when you are documenting code.
+   		Use "ID" as the abbreviation for identification in paragraph text. "Id" or "id," is appropriate when documenting code.
 	</p>
 	<p>
-	:white_check_mark: Enter your user ID in the provided field.<br>
-	:no_entry:Enter your user id in the provided field.
+		:white_check_mark: Enter your user ID in the provided field.<br>
+		:no_entry: Enter your user id in the provided field.
   	</p>
 </details>
 <br> 
 <details> 
   <summary> for example, or such as, not i.e. or e.g. </summary>
 	<br>
-  	<p>	
-Enter your user ID in the provided field.
-Provide a value for the id parameter.
-i.e. vs. e.g. vs. for example
-
-Do not use i.e. or e.g. Use "that is" or "for example" instead. Depending on the context, "such as" may be appropriate, as well.
-
-Do not use "for example" in the middle of a sentence. Instead of "This smartphone has many uses, for example making calls, sending text messages, and taking pictures," provide the information in two sentences: "This smartphone has many uses. For example, it can make calls, send text messages, and take pictures."<br>
-	   
-   <strong>Example:</strong> There are many reasons to visit Colorado. For example, there are 300 days of sunshine per year. You can enjoy a variety of activities in Colorado, such as skiing, hiking, and visiting museums and breweries.
-  </p>
+  	<p>
+		Don't use "i.e." or "e.g." in documentation, or at least use them correctly. Use the words "for example" or "such as" instead. Don't use "for example" in the middle of the sentence.
+	</p>
+	<p>
+		:white_check_mark: There are many variables in the file. For example, you can configure the host ID. There are some variables that are inherited from the parent process, such as user ID, date, and permissions.<br>
+		:no_entry: There are many variables in the file, for example, user ID, that can be configured.
+	</p>
 </details>
 <br> 
 <details> 
-  <summary> whenever </summary>
+  <summary> key-value, not key/value or key:value </summary>
 	<br>
-  <p>
-   Try to avoid the word "whenever." You can typically use "when" instead of "whenever."<br>
-	   
-   <strong>Example:</strong> When you click <strong>OK</strong>, a new window opens.
-  </p>
+  	<p>
+   		:white_check_mark: The Configuration service uses independent key-value pairs to store all configuration information.<br>
+		:no_entry: The Configuration service uses independent key/value pairs to store all configuration information
+  	</p>
 </details>
 <br> 
 <details> 
-  <summary> key-value pairs </summary>
+  <summary> can or cannot, not it is possible, or it is not possible </summary>
 	<br>
-  <p>
-   Use "key-value pairs." Do not write key/value, key value, or key:value.<br>
-	   
-   <strong>Example:</strong> The Configuration service uses independent key-value pairs to store all configuration information.
-  </p>
+  	<p>
+   		:white_check_mark: You cannot enter more than eight characters.<br>
+		:no_entry: It is not possible to enter more than eight characters.
+  	</p>
 </details>
 <br> 
 <details> 
-  <summary> kind vs. type </summary>
+  <summary> must, not should nor have to </summary>
 	<br>
-  <p>
-   Use "type."<br>
-	   
-   <strong>Example:</strong> There are three types of files in this folder.
-  </p>
+  	<p>
+		Don't use "should", it creates uncertainty. Don't use the phrase "have to". Use "must" only to describe something that is required, but most times it can be ommitted. Use "may" when an action is optional.
+	</p>
+	<p>
+		:white_check_mark: Your computer must have at least 128 MB of RAM to run this program.<br>
+		:white_check_mark: Verify your computer has at least 128 MB of RAM to run this program.<br>
+		:no_entry: Your computer should have at least 128 MB of RAM to run this program.<br>
+		:no_entry: You have to have at least 128 MB of RAM to run this program.<br>
+	</p>
 </details>
 <br> 
 <details> 
-  <summary> sign in, sign out, and register </summary>
+  <summary> single sign on (SSO), not single sign-on </summary>
 	<br>
-  <p>
-   Use only "sign in," "sign out," and "register."<br>
-	   
-   <strong>Example:</strong> Sign in to your account.
-  </p>
+  	<p>
+  		:white_check_mark: The platform has single sign on (SSO) to make it easier to use related applications.<br>
+		:no_entry: The platform has single sign-on to make it easier to use related applications.
+ 	</p>
 </details>
 <br> 
 <details> 
-  <summary> possible vs. can or cannot </summary>
+  <summary> section, not topic </summary>
 	<br>
-  <p>
-   Use "can" and "cannot." Do not write "it is possible" or "it is not possible."<br>
-	   
-   <strong>Example:</strong> You cannot enter more than eight characters.
-  </p>
+  	<p>
+   		:white_check_mark: For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> section.<br>
+		:no_entry: For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> topic.
+	</p>
 </details>
 <br> 
 <details> 
-  <summary> replace by vs. replace with </summary>
+  <summary> typically, not usually </summary>
 	<br>
-  <p>
-  Use "replaces" or "replace with." Do not use "replace" as a noun.<br>
-	   
-   <strong>Example:</strong> Replace the selected text with the new text.
-  </p>
+  	<p>
+   		:white_check_mark: Typically, the access is granted.<br>
+		:no_entry: Usually, the access is granted.
+  	</p>
 </details>
 <br> 
 <details> 
-  <summary> should vs. must vs. have to </summary>
+  <summary>Using, not via </summary>
 	<br>
-  <p>
-   While the MMoS advises using "should" only to describe a recommended, but optional, user action, "should" is ambiguous. When you write "should", it is not always clear whether the reader needs to perform an action. If it is recommended to back up files regularly, you can just say "Back up your files regularly." Then explain the potential danger of not backing up files.
-
-Use "must" only to describe a user action that is required.
-Do not use the phrase "have to." Use "must" instead.
-Do not use "should" to indicate probability. Wherever possible, express certainty. When that is not possible, use "may" or rephrase.<br>
-	   
-   <strong>Example:</strong> Your computer must have at least 128 MB of RAM to run this program.
-  </p>
-</details>
-<br> 
-<details> 
-  <summary> single sign-on vs. single sign on </summary>
-	<br>
-  <p>
-   Use single sign on (SSO) to refer to authentication that allows a user to sign into multiple applications with one set of credentials. When referring to the act of signing in, write "sign in."<br>
-	   
-   <strong>Example:</strong> The platform has single sign on (SSO) to make it easier to use related applications.
-  </p>
-</details>
-<br> 
-<details> 
-  <summary> app vs. application </summary>
-	<br>
-  <p>
-   Use "application."<br>
-	   
-   <strong>Example:</strong> You can create a new application with the name of your choice.
-  </p>
-</details>
-<br> 
-<details> 
-  <summary> third-party names and acronyms </summary>
-	<br>
-  <p>
-  Refer to the originator's official documentation for the correct spelling and capitalization of third-party tools such as JavaScript, Enterprise JavaBeans (EJB), and cron.<br>
-	   
-   <strong>Example:</strong> Enterprise JavaBeans (EJB), is a managed, server-side component architecture for modular construction of enterprise applications.
-  </p>
-</details>
-<br> 
-<details> 
-  <summary> topic vs. section in cross-references </summary>
-	<br>
-  <p>
-   Use "section."<br>
-	   
-   <strong>Example:</strong> For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> section.
-  </p>
-</details>
-<br> 
-<details> 
-  <summary> typically vs. usually </summary>
-	<br>
-  <p>
-   Use "typically."
-
-If you use "typically" at the beginning of a sentence, use a comma after, as shown in the example.
-Do not use a comma before or after "typically" in the middle of a sentence.
-Avoid using "typically" at the end of a sentence.<br>
-	   
-   <strong>Example:</strong> Typically, the winter is very cold.
-  </p>
-</details>
-<br> 
-<details> 
-  <summary> via </summary>
-	<br>
-  <p>
-   Do not use "via." Instead, write "through," "in," "using," "with," "by," or another appropriate American English term.<br>
-	   
-   <strong>Example:</strong> You can also make the request through a command line interface.
-  </p>
-</details>
-<br> 
-<details> 
-  <summary> we, us, let's, or our </summary>
-	<br>
-  <p>
-   Do not use "we," "us," "let's," or "our." Instead of "We released a new feature for the Email service," write "A new feature is available for the Email service."<br>
-	   
-   <strong>Example:</strong> An issue in the PubSub service is now resolved.
-  </p>
+  	<p>
+   		Do not use "via." Instead, write "through," "in," "using," "with," "by," or another appropriate American English term.		</p>
+	<p>
+		:white_check_mark: You can also make the request using a command line interface.<br>
+		:no_entry: You can also make the request via a comand line interface.
+  	</p>
 </details>
 <br> 
 
-<br>
 <table class="table table-striped table-glossary techne-table">
 <thead>
 
