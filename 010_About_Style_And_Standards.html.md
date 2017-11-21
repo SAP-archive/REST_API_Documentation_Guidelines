@@ -304,7 +304,7 @@ Do not use "should" to indicate probability. Wherever possible, express certaint
 </details>
 <br> 
 <details> 
-  <summary> Third-party names and acronyms </summary>
+  <summary> third-party names and acronyms </summary>
 	<br>
   <p>
   Refer to the originator's official documentation for the correct spelling and capitalization of third-party tools such as JavaScript, Enterprise JavaBeans (EJB), and cron.<br>
