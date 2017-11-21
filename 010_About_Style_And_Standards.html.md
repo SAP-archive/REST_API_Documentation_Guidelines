@@ -162,7 +162,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> ID or id </summary>
+  <summary> ID and id </summary>
 	<br>
   	<p>
    		Use "ID" as the abbreviation for identification in paragraph text. "Id" or "id," is appropriate when documenting code.
