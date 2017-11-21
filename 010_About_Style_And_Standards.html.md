@@ -85,7 +85,7 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 For more information, see the [Articles in English Grammar](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki//005-Articles-in-English-Grammar) blog post.
 
 ##### Terminology
-Search this section for any terminology problem you struggle with. Click on a given term or expression to expand the view and read about the standards in detail.<br>
+Here is some terminology that people often struggle with, and guidelines that surround each topic. Click on them for more details and examples.<br>
 
 <details> 
   <summary> American English spelling, not British English spelling </summary>
@@ -106,10 +106,10 @@ Search this section for any terminology problem you struggle with. Click on a gi
 </details>
 <br> 
 <details> 
-  <summary> as shown in the example, not as shown below, or above </summary>
+  <summary> as shown in the example, not as shown below </summary>
 	<br>
   	<p>
-	  	Or use "the following" or "the preceding" if necessary.
+	  	Don't use "above" or "below" to indicate a direction. Omit them, or use "the following" or "the preceding" if necessary.
 	</p>
 	<p>
 		:white_check_mark: In your request, supply the values as shown in the example:<br>
@@ -156,7 +156,7 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <summary> fill in, not complete </summary>
 	<br>
   	<p>
-   		:white_check_mark: Fill in the remaining fields and click <strong>Save</strong>.
+   		:white_check_mark: Fill in the remaining fields and click <strong>Save</strong>.<br>
 		:no_entry: Complete the remaining fields and click <strong>Save</strong>.
 	</p>
 </details>
@@ -174,19 +174,20 @@ Search this section for any terminology problem you struggle with. Click on a gi
 </details>
 <br> 
 <details> 
-  <summary> for example, or such as, not i.e. or e.g. </summary>
+  <summary> for example, not i.e. </summary>
 	<br>
   	<p>
-		Don't use "i.e." or "e.g." in documentation, or at least use them correctly. Use the words "for example" or "such as" instead. Don't use "for example" in the middle of the sentence.
+		Don't use "i.e." or "e.g." in documentation, or at least use them correctly. For example, i.e. does not mean "for example. Use the words "for example" or "such as" instead. Don't use "for example" in the middle of the sentence.
 	</p>
 	<p>
-		:white_check_mark: There are many variables in the file. For example, you can configure the host ID. There are some variables that are inherited from the parent process, such as user ID, date, and permissions.<br>
+		:white_check_mark: There are many variables in the file. For example, you can configure the host ID.<br>
+		:white_check_mark: There are some variables that are inherited from the parent process, such as user ID, date, and permissions.<br>
 		:no_entry: There are many variables in the file, for example, user ID, that can be configured.
 	</p>
 </details>
 <br> 
 <details> 
-  <summary> key-value, not key/value or key:value </summary>
+  <summary> key-value, not key/value, nor key:value </summary>
 	<br>
   	<p>
    		:white_check_mark: The Configuration service uses independent key-value pairs to store all configuration information.<br>
@@ -195,19 +196,22 @@ Search this section for any terminology problem you struggle with. Click on a gi
 </details>
 <br> 
 <details> 
-  <summary> can or cannot, not it is possible, or it is not possible </summary>
+  <summary> can, not it is possible </summary>
 	<br>
   	<p>
+		Use "can" or "cannot" instead of "it is possible" or "it is not possible."
+	</p>
+	<p>
    		:white_check_mark: You cannot enter more than eight characters.<br>
 		:no_entry: It is not possible to enter more than eight characters.
   	</p>
 </details>
 <br> 
 <details> 
-  <summary> must, not should nor have to </summary>
+  <summary> must, not should </summary>
 	<br>
   	<p>
-		Don't use "should", it creates uncertainty. Don't use the phrase "have to". Use "must" only to describe something that is required, but most times it can be ommitted. Use "may" when an action is optional.
+		Don't use "should" because it creates uncertainty. Don't use the phrase "have to" either. Use "must" only to describe something that is required, or reword it to omit it entirely.
 	</p>
 	<p>
 		:white_check_mark: Your computer must have at least 128 MB of RAM to run this program.<br>
@@ -227,7 +231,7 @@ Search this section for any terminology problem you struggle with. Click on a gi
 </details>
 <br> 
 <details> 
-  <summary> section, not topic </summary>
+  <summary> section, not topic in cross references </summary>
 	<br>
   	<p>
    		:white_check_mark: For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> section.<br>
@@ -248,7 +252,8 @@ Search this section for any terminology problem you struggle with. Click on a gi
   <summary>Using, not via </summary>
 	<br>
   	<p>
-   		Do not use "via." Instead, write "through," "in," "using," "with," "by," or another appropriate American English term.		</p>
+   		Don't use "via." Instead, use "through," "in," "using," "with," "by," or another appropriate term.
+	</p>
 	<p>
 		:white_check_mark: You can also make the request using a command line interface.<br>
 		:no_entry: You can also make the request via a comand line interface.
