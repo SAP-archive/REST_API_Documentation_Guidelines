@@ -259,7 +259,6 @@ Here is some terminology that people often struggle with, and guidelines that su
 		:no_entry: You can also make the request via a comand line interface.
   	</p>
 </details>
-<br> 
 
 #### Voice and tone
 
