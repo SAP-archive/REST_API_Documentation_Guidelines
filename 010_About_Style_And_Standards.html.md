@@ -144,7 +144,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> "email," not e-mail </summary>
+  <summary> "email," not "e-mail" </summary>
 	<br>
   	<p>
 		:white_check_mark: You can send an email using the template.<br>
