@@ -97,7 +97,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> application, not app </summary>
+  <summary> "application," not "app" </summary>
 	<br>
 	<p>
 	  	:white_check_mark: Create a new application with the name of your choice.<br>
@@ -106,7 +106,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> as shown in the example, not as shown below </summary>
+  <summary> "as shown in the example," not "as shown below" </summary>
 	<br>
   	<p>
 	  	Don't use "above" or "below" to indicate a direction. Omit them, or use "the following" or "the preceding" if necessary.
@@ -119,7 +119,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br>
 <details> 
-  <summary> back end or back-end, not backend </summary>
+  <summary> "back end" or "back-end," not "backend" </summary>
 	<br>
   	<p>
 	  	Use a more specific term when possible, such as a server, operating system, database, or network. If not, use "back end" as a noun, or "back-end" as an adjective.
@@ -132,7 +132,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br>  
 <details> 
-	<summary> Click <strong>Add</strong> or Click the <strong>Add</strong> button. </summary>
+	<summary> "Click <strong>Add</strong>" or "Click the <strong>Add</strong> button." </summary>
 	<br>
   	<p>
   		If the button has a label with text, use the label name without the word "button." If the button or icon does not have a text label, use a descriptive name with the word "button" or "icon". Use bold for the label, button, or icon name.
@@ -144,7 +144,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> email, not e-mail </summary>
+  <summary> "email," not e-mail </summary>
 	<br>
   	<p>
 		:white_check_mark: You can send an email using the template.<br>
@@ -153,7 +153,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br>
 <details> 
-  <summary> fill in, not complete </summary>
+  <summary> "fill in," not "complete" </summary>
 	<br>
   	<p>
    		:white_check_mark: Fill in the remaining fields and click <strong>Save</strong>.<br>
@@ -162,7 +162,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> ID and id </summary>
+  <summary> "ID" and "id" </summary>
 	<br>
   	<p>
    		Use "ID" as the abbreviation for identification in paragraph text. "Id" or "id," is appropriate when documenting code.
@@ -174,7 +174,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> for example, not i.e. </summary>
+  <summary> "for example," not "i.e." </summary>
 	<br>
   	<p>
 		Don't use "i.e." or "e.g." in documentation, or at least use them correctly. For example, i.e. does not mean "for example. Use the words "for example" or "such as" instead. Don't use "for example" in the middle of the sentence.
@@ -187,7 +187,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> key-value, not key/value, nor key:value </summary>
+  <summary> "key-value," not "key/value," nor "key:value" </summary>
 	<br>
   	<p>
    		:white_check_mark: The Configuration service uses independent key-value pairs to store all configuration information.<br>
@@ -196,7 +196,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> can, not it is possible </summary>
+  <summary> "can," not "it is possible" </summary>
 	<br>
   	<p>
 		Use "can" or "cannot" instead of "it is possible" or "it is not possible."
@@ -208,7 +208,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> must, not should </summary>
+  <summary> "must," not "should" </summary>
 	<br>
   	<p>
 		Don't use "should" because it creates uncertainty. Don't use the phrase "have to" either. Use "must" only to describe something that is required, or reword it to omit it entirely.
@@ -222,7 +222,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> single sign on (SSO), not single sign-on </summary>
+  <summary> "single sign on (SSO)," not "single sign-on" </summary>
 	<br>
   	<p>
   		:white_check_mark: The platform has single sign on (SSO) to make it easier to use related applications.<br>
@@ -231,7 +231,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> section, not topic in cross references </summary>
+  <summary> "section," not "topic" in cross references </summary>
 	<br>
   	<p>
    		:white_check_mark: For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> section.<br>
@@ -240,7 +240,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary> typically, not usually </summary>
+  <summary> "typically," not "usually" </summary>
 	<br>
   	<p>
    		:white_check_mark: Typically, the access is granted.<br>
@@ -249,7 +249,7 @@ Here is some terminology that people often struggle with, and guidelines that su
 </details>
 <br> 
 <details> 
-  <summary>Using, not via </summary>
+  <summary>"Using," not "via" </summary>
 	<br>
   	<p>
    		Don't use "via." Instead, use "through," "in," "using," "with," "by," or another appropriate term.
