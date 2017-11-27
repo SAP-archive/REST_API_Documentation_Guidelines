@@ -85,381 +85,180 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 For more information, see the [Articles in English Grammar](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki//005-Articles-in-English-Grammar) blog post.
 
 ##### Terminology
+Here is some terminology that people often struggle with, and guidelines that surround each topic. Click on them for more details and examples.<br>
 
-<table class="table table-striped table-glossary techne-table">
-<thead>
-
-  <tr>
-   <th>
-   Item
-   </th>
-   <th>
-   Standard
-   </th>
-      <th>
-   Example
-   </th>
-  </tr>
-</thead>
-
- <tr>
-  <td>
-  <p><a id="americanEnglish"></a>American English vs. British English</p>
-  </td>
-  <td>
-  <p>Use American English. Do not use British spelling in the documentation.</p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>The color of the message changes from blue to red if there are errors.</li>
-  	</ul>
-	</td>
- </tr>
-
-<tr>
-  <td>
-  <p><a id="app"></a>app vs. application</p>
-  </td>
-  <td>
-  <p>Use &quot;application.&quot;</p>
-  </td>
-  	<td>
-    <ul>
-    	<li>
-	You can create a new application with the name of your choice.
-    	</li>
-    </ul>
-	</td>
- </tr>
-
-  <tr>
-  <td>
-  <p><a id="asShownBelow"></a>as shown below</p>
-  </td>
-  <td>
-  <p>Use &quot;as shown in the example&quot; instead of indicating direction, such as &quot;above&quot; or &quot;below&quot;, whenever possible. This helps to ensure that there are no issues if the text is modified, rewritten, or reorganized. You can also write &quot;the following&quot; or &quot;the preceding.&quot;</p>
-  </td>
-  	<td>
-  	<ul>
-  	<li>In your request, supply the values for the following parameters:</li>
-	</ul>
-	</td>
- </tr>
-
-<tr>
-  <td>
-  <p><a id="backend"></a>back end vs. backend vs. back-end</p>
-  </td>
-  <td>
-  <p>Per the MMoS, use a more specific term when possible, such as server, operating system, database, or network. However, if you must use this term, use back end, two words, no hyphen, as a noun. Use back-end, hyphenated, as an adjective to modify a noun. Do not use &quot;backend.&quot;</p>
-  </td>
-  	<td>
-  		<ul>
-  			<li>Set up accounts in your back-end system with command line requests.</li>
-  			<li>Configure the application on the back end.</li>
-  		</ul>
-	</td>
-
- </tr>
-
-<tr>
-  <td>
-  <p><a id="using"></a>by using vs. using</p>
-  </td>
-  <td>
-  <p>To avoid ambiguity for worldwide audiences, use &quot;by using&quot; instead of &quot;using&quot; by itself, even if the preposition seems unnecessary. </p>
-  <p>However, in most cases, you can rewrite the sentence more directly, by highlighting the action verb in the sentence, as shown in the example.</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-	Schedule regular backups with the backup utility to avoid data loss.
-    	</li>
-    </ul>
-	</td>
- </tr>
-
-  <tr>
-  <td>
-  <p><a id="click"></a>&quot;Click <b>Add</b>&quot; vs. &quot;Click the <b>Add</b> button.&quot;</p>
-  </td>
-  <td>
-  <p>If the button has a label with text, use the label name without the word &quot;button.&quot;</p>
- <p> If the button or icon does not have a text label, use a descriptive name with the word &quot;button.&quot;
-  Bold the label or icon name in both cases.</p>
-  </td>
-  	<td>
-	<ul>
-  		<li>Click <b>Add</b>.</li>
-  		<li>Click the <b>Maximize</b> icon.</li>
-  	</ul>
-	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="email"></a>e-mail vs. email</p>
-  </td>
-  <td>
-  <p>Use &quot;email&quot; as a noun, not as a verb. For a verb form, use &quot;send&quot; instead. Do not write &quot;e-mail&quot; with a hyphen.</p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>You can send an email using Outlook.</li>
-  	</ul>
-	</td>
- </tr>
-
-<tr>
-  <td>
-  <p><a id="fillIn"></a>fill in vs. complete</p>
-  </td>
-  <td>
-  <p>Use &quot;fill in.&quot;</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-Fill in the remaining fields and click <b>Save</b>.
-    	</li>
-    </ul>
-	</td>
- </tr>
-
-  <tr>
-  <td>
-  <p><a id="id"></a>id vs. ID</p>
-  </td>
-  <td>
-  <p>Use &quot;ID,&quot; capitalized, as the abbreviation for &quot;identification.&quot; &quot;Id,&quot; or &quot;id,&quot; has a <a href="https://en.wikipedia.org/wiki/Id,_ego_and_super-ego" target="_blank">different meaning</a> in English. &quot;id&quot; is only appropriate when you are documenting code, as shown in the second example. </p>
-  </td>
-  	<td>
-  	<ul>
-  	<li>Enter your user ID in the provided field.</li>
-  	<li>Provide a value for the <b>id</b> parameter.</li>
-	</ul>
-	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="forExample"></a>i.e. vs. e.g. vs. for example</p>
-  </td>
-  <td>
-  <p>Do not use i.e. or e.g. Use &quot;that is&quot; or &quot;for example&quot; instead. Depending on the context, &quot;such as&quot; may be appropriate, as well.</p>
-	<p>Do not use &quot;for example&quot; in the middle of a sentence. Instead of &quot;This smartphone has many uses, for example making calls, sending text messages, and taking pictures,&quot; provide the information in two sentences: &quot;This smartphone has many uses. For example, it can make calls, send text messages, and take pictures.&quot;</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	There are many reasons to visit Colorado. For example, there are 300 days of sunshine per year. You can enjoy a variety of activities in Colorado, such as skiing, hiking, and visiting museums and breweries.
-    	</li>
-    </ul>
-	</td>
- </tr>
-
-<tr>
-  <td>
-  <p><a id="whenever"></a>whenever</p>
-  </td>
-  <td>
-  <p>Try to avoid the word &quot;whenever.&quot; You can typically use &quot;when&quot; instead of &quot;whenever.&quot;</p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>When you click <b>OK</b>, a new window opens.</li>
-	</ul>
-	</td>
- </tr>
-
-  <tr>
-  <td>
-  <p><a id="keyValue"></a>key-value pairs</p>
-  </td>
-  <td>
-  <p>Use &quot;key-value pairs.&quot; Do not write key/value, key value, or key:value.</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	The Configuration service uses independent key-value pairs to store all configuration information.
-    	</li>
-    </ul>
-	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="kindType"></a>kind vs. type</p>
-  </td>
-  <td>
-  <p>Use &quot;type.&quot;</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	There are three types of files in this folder.
-    	</li>
-    </ul>
-	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="login"></a>sign in, sign out, and register</p>
-  </td>
-  <td>
-  <p>Use only &quot;sign in,&quot; &quot;sign out,&quot; and &quot;register.&quot;</p>
- </td>
-  	<td>
-  	<ul>
-  		<li>Sign in to your account.</li>
-  	</ul>
-	</td>
- </tr>
-
-  <tr>
-  <td>
-  <p><a id="possible"></a>possible vs. can or cannot</p>
-  </td>
-  <td>
-  <p>Use &quot;can&quot; and &quot;cannot.&quot; Do not write &quot;it is possible&quot; or &quot;it is not possible.&quot;
- </p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>You cannot enter more than eight characters.</li>
-  	</ul>
-	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="replace"></a>replace by vs. replace with</p>
-  </td>
-  <td>
-  <p>Use &quot;replaces&quot; or &quot;replace with.&quot; Do not use &quot;replace&quot; as a noun.</p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>Replace the selected text with the new text.</li>
-	</ul>
-	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="should"></a>should vs. must vs. have to</p>
-  </td>
-  <td>
-<p>While the MMoS advises using &quot;should&quot; only to describe a recommended, but optional, user action, &quot;should&quot; is ambiguous. When you write &quot;should&quot;, it is not always clear whether the reader needs to perform an action. If it is recommended to back up files regularly, you can just say &quot;Back up your files regularly.&quot; Then explain the potential danger of not backing up files.</p>
-  	<ul>
-		<li>Use &quot;must&quot; only to describe a user action that is required.</li>
-		<li>Do not use the phrase &quot;have to.&quot; Use &quot;must&quot; instead.</li>
-		<li>Do not use &quot;should&quot; to indicate probability. Wherever possible, express certainty. When that is not possible, use &quot;may&quot; or rephrase.</li>
-	</ul>
-  </td>
-  	<td>
-  	<ul>
-  		<li>Your computer must have at least 128 MB of RAM to run this program.</li>
-  	</ul>
-	</td>
- </tr>
-
- <tr>
-  <td>
-  <p><a id="singleSignOn"></a>single sign-on vs. single sign on</p>
-  </td>
-  <td>
-  	<p>Use single sign on (SSO) to refer to authentication that allows a user to sign into multiple applications with one set of credentials. When referring to the act of signing in, write &quot;sign in.&quot;</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>The platform has single sign on (SSO) to make it easier to use related applications.</li>
-    </ul>
-	</td>
- </tr>
-
-
-  <tr>
-  <td>
-  <p><a id="thirdParty"></a>Third-party names and acronyms</p>
-  </td>
-  <td>
-  <p>Refer to the originator's official documentation for the correct spelling and capitalization of third-party tools such as JavaScript, Enterprise JavaBeans (EJB), and cron.</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>Enterprise JavaBeans (EJB), is a managed, server-side component architecture for modular construction of enterprise applications.</li>
-    		</ul>
-	</td>
- </tr>
-
-  <tr>
-  <td>
-  <p><a id="topic"></a>topic vs. section in cross-references</p>
-  </td>
-  <td>
-  <p>Use &quot;section.&quot;</p>
-  </td>
-  	<td>
-  	    <ul>
-    	<li>
-  	For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> section.
-    	</li>
-    </ul>
-	</td>
- </tr>
-
-<tr>
-  <td>
-  <p><a id="typically"></a>typically vs. usually</p>
-  </td>
-  <td>
-  <p>Use &quot;typically.&quot;</p>
-  <ul>
-		<li>If you use &quot;typically&quot; at the beginning of a sentence, use a comma after, as shown in the example.</li>
-		<li>Do not use a comma before or after &quot;typically&quot; in the middle of a sentence.</li>
-		<li>Avoid using &quot;typically&quot; at the end of a sentence.</li>
-	</ul>
-  </td>
-  	<td>
-  	<ul>
-  		<li>Typically, the winter is very cold.</li>
-  	</ul>
-	</td>
- </tr>
-
-<tr>
-  <td>
-  <p><a id="via"></a>via</p>
-  </td>
-  <td>
-  <p>Do not use &quot;via.&quot; Instead, write &quot;through,&quot; &quot;in,&quot; &quot;using,&quot; &quot;with,&quot; &quot;by,&quot; or another appropriate American English term. </p>
-  </td>
-  	<td>
-  	<ul>
-  		<li>You can also make the request through a command line interface.</li>
-  	</ul>
-	</td>
- </tr>
-
-   <tr>
-   <td>
-   <p><a id="weUsLetsOur"></a>we, us, let's, or our</p>
-   </td>
-   <td>
-   <p>Do not use &quot;we,&quot; &quot;us,&quot; &quot;let's,&quot; or &quot;our.&quot; Instead of &quot;We released a new feature for the Email service,&quot; write &quot;A new feature is available for the Email service.&quot;</p>
-   </td>
-   	<td>
-   	    <ul>
-		    <li>An issue in the PubSub service is now resolved.</li>
-		</ul>
-	</td>
-  </tr>
-
-</table>
-
+<details> 
+  <summary> American English spelling, not British English spelling </summary>
+	<br>
+	<p>
+		:white_check_mark: The color of the message changes from blue to red if there are errors.<br>
+	 	:no_entry: The colour of the message changes from blue to red if there are errors.
+	</p>
+</details>
+<br> 
+<details> 
+  <summary> "application," not "app" </summary>
+	<br>
+	<p>
+	  	:white_check_mark: Create a new application with the name of your choice.<br>
+	  	:no_entry: Create a new app with the name of your choice.
+  	</p>
+</details>
+<br> 
+<details> 
+  <summary> "as shown in the example," not "as shown below" </summary>
+	<br>
+  	<p>
+	  	Don't use "above" or "below" to indicate a direction. Omit them, or use "the following" or "the preceding" if necessary.
+	</p>
+	<p>
+		:white_check_mark: In your request, supply the values as shown in the example:<br>
+		:white_check_mark: In your request, supply the values for the following parameters:<br>
+		:no_entry: In your request, supply the values as shown below:
+ 	 </p>
+</details>
+<br>
+<details> 
+  <summary> "back end" or "back-end," not "backend" </summary>
+	<br>
+  	<p>
+	  	Use a more specific term when possible, such as a server, operating system, database, or network. If not, use "back end" as a noun, or "back-end" as an adjective.
+	</p>
+	<p>
+	  	:white_check_mark: Set up accounts in your back-end system with command line requests.<br>
+	  	:white_check_mark: Configure the application on the back end.<br>
+	 	 :no_entry: Configue the application on the backend.
+  	</p>
+</details>
+<br>  
+<details> 
+	<summary> "Click <strong>Add</strong>" or "Click the <strong>Add</strong> button." </summary>
+	<br>
+  	<p>
+  		If the button has a label with text, use the label name without the word "button." If the button or icon does not have a text label, use a descriptive name with the word "button" or "icon". Use bold for the label, button, or icon name.
+	</p>
+	<p>
+		:white_check_mark: Click <strong>Add</strong>.<br>
+		:white_check_mark: Click the <strong>Maximize</strong> icon.
+  	</p>
+</details>
+<br> 
+<details> 
+  <summary> "email," not "e-mail" </summary>
+	<br>
+  	<p>
+		:white_check_mark: You can send an email using the template.<br>
+		:no_entry: You can send an e-mail using the template.
+  	</p>
+</details>
+<br>
+<details> 
+  <summary> "fill in," not "complete" </summary>
+	<br>
+  	<p>
+   		:white_check_mark: Fill in the remaining fields and click <strong>Save</strong>.<br>
+		:no_entry: Complete the remaining fields and click <strong>Save</strong>.
+	</p>
+</details>
+<br> 
+<details> 
+  <summary> "ID" and "id" </summary>
+	<br>
+  	<p>
+   		Use "ID" as the abbreviation for identification in paragraph text. "Id" or "id," is appropriate when documenting code.
+	</p>
+	<p>
+		:white_check_mark: Enter your user ID in the provided field.<br>
+		:no_entry: Enter your user id in the provided field.
+  	</p>
+</details>
+<br> 
+<details> 
+  <summary> "for example," not "i.e." </summary>
+	<br>
+  	<p>
+		Don't use "i.e." or "e.g." in documentation, or at least use them correctly. For example, i.e. does not mean "for example. Use the words "for example" or "such as" instead. Don't use "for example" in the middle of the sentence.
+	</p>
+	<p>
+		:white_check_mark: There are many variables in the file. For example, you can configure the host ID.<br>
+		:white_check_mark: There are some variables that are inherited from the parent process, such as user ID, date, and permissions.<br>
+		:no_entry: There are many variables in the file, for example, user ID, that can be configured.
+	</p>
+</details>
+<br> 
+<details> 
+  <summary> "key-value," not "key/value," nor "key:value" </summary>
+	<br>
+  	<p>
+   		:white_check_mark: The Configuration service uses independent key-value pairs to store all configuration information.<br>
+		:no_entry: The Configuration service uses independent key/value pairs to store all configuration information
+  	</p>
+</details>
+<br> 
+<details> 
+  <summary> "can," not "it is possible" </summary>
+	<br>
+  	<p>
+		Use "can" or "cannot" instead of "it is possible" or "it is not possible."
+	</p>
+	<p>
+   		:white_check_mark: You cannot enter more than eight characters.<br>
+		:no_entry: It is not possible to enter more than eight characters.
+  	</p>
+</details>
+<br> 
+<details> 
+  <summary> "must," not "should" </summary>
+	<br>
+  	<p>
+		Don't use "should" because it creates uncertainty. Don't use the phrase "have to" either. Use "must" only to describe something that is required, or reword it to omit it entirely.
+	</p>
+	<p>
+		:white_check_mark: Your computer must have at least 128 MB of RAM to run this program.<br>
+		:white_check_mark: Verify your computer has at least 128 MB of RAM to run this program.<br>
+		:no_entry: Your computer should have at least 128 MB of RAM to run this program.<br>
+		:no_entry: You have to have at least 128 MB of RAM to run this program.<br>
+	</p>
+</details>
+<br> 
+<details> 
+  <summary> "single sign on (SSO)," not "single sign-on" </summary>
+	<br>
+  	<p>
+  		:white_check_mark: The platform has single sign on (SSO) to make it easier to use related applications.<br>
+		:no_entry: The platform has single sign-on to make it easier to use related applications.
+ 	</p>
+</details>
+<br> 
+<details> 
+  <summary> "section," not "topic" in cross references </summary>
+	<br>
+  	<p>
+   		:white_check_mark: For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> section.<br>
+		:no_entry: For more information about creating email templates, see the <a href="https://devportal.yaas.io/services/email/latest/">Email</a> topic.
+	</p>
+</details>
+<br> 
+<details> 
+  <summary> "typically," not "usually" </summary>
+	<br>
+  	<p>
+   		:white_check_mark: Typically, the access is granted.<br>
+		:no_entry: Usually, the access is granted.
+  	</p>
+</details>
+<br> 
+<details> 
+  <summary>"Using," not "via" </summary>
+	<br>
+  	<p>
+   		Don't use "via." Instead, use "through," "in," "using," "with," "by," or another appropriate term.
+	</p>
+	<p>
+		:white_check_mark: You can also make the request using a command line interface.<br>
+		:no_entry: You can also make the request via a comand line interface.
+  	</p>
+</details>
 
 #### Voice and tone
 
