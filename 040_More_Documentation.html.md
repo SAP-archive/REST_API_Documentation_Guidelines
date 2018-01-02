@@ -16,30 +16,28 @@ For an example of unique solution documentation, see the <a href="https://devpor
 
 ### README files
 
-README files describe other files in a given directory.
-
-When creating external README files, use this template:
+RREADME files describe other files in a given directory. Use this template to create external README files:
 
 ````
 ```
-Project Title converted to ASCII art using an ASCII generator. For example, http://patorjk.com/software/taag/#p=display&f=Big&t=Project%20Title%0A. Use the following font: Big.
+Convert the Project Title to ASCII art using an ASCII generator, and use the Big font. For example, http://patorjk.com/software/taag/#p=display&f=Big&t=Project%20Title%0A.
+
 ```
 
 ## Overview
 
-A short description of the functionality that the project or chart provides.
+Provide a short description about the project or chart's functionality.
 
 ## Prerequisites
 
 A list of requirements to run the project or chart.
 
 ## Details
-
-Detailed information about the functionality that the project or chart provides. For example, a further description, an installation or configuration guide, operating instructions, examples. Add subsections for better readability.
+Provide detailed information about the project or chart's functionality. For example, a further description, an installation or configuration guide, operating instructions, or examples. Add subsections for better readability.
 
 ## Troubleshooting
 
-A list of potential issues and tips on how to avoid or solve those issues.
+List potential issues, and tips on how to avoid or solve these issues.
 ````
 <br><br>
 [< PREV](030_REST_API_Documents.html.md)
