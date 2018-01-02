@@ -30,7 +30,7 @@ Provide a short description about the project or chart's functionality.
 
 ## Prerequisites
 
-A list of requirements to run the project or chart.
+List the requirements to run the project or chart.
 
 ## Details
 Provide detailed information about the project or chart's functionality. For example, a further description, an installation or configuration guide, operating instructions, or examples. Add subsections for better readability.
