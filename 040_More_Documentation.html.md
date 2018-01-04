@@ -19,8 +19,7 @@ For an example of unique solution documentation, see the <a href="https://devpor
 RREADME files describe other files in a given directory. Use this template to create external README files:
 
 ```
-Convert the Project Title to ASCII art using an ASCII generator, and use the Big font.
-For example, http://patorjk.com/software/taag/#p=display&f=Big&t=Project%20Title%0A.
+
 
 ## Overview
 
