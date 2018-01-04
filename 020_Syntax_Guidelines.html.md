@@ -11,8 +11,6 @@ Items       | Examples
 ----------- | ----------------------------------------------------------------------
 Parameters  | The **partial** attribute is optional.
 Events      | The service publishes a **password-reset-requested** event.
-File names  | Open the **pom.xml** file.
-Path names  | Save the file in the **\services\repository** folder.
 Scopes      | Use the **hybris.profile_graph_view** scope to view data in the graph.
 UI elements | Click on **Subscribe**.
 Variables   | Click **Project** > **{Your Project Name}**. Variables are also enclosed in single curly braces.
@@ -24,6 +22,9 @@ Items                     | Examples
 Code examples             | Verify the installation with the `mvn help:system` command.
 Values                    | Set the partial attribute to `true` to perform a partial replacement. 
 Endpoints                 | Send a POST request to the `/{tenant}/categories/{categoryId}/media/{mediaId}/commit` endpoint.
+File names                | Open the `pom.xml` file.
+Path names                | Save the file in the `\services\repository` folder.
+Repository names          | The file is located in the `Service-Factory` repository.
 Status and error codes    | A successful response includes a status code of `200 OK`.
 Parameter and value pairs | To perform a partial replacement, include `partial=true` in your request.
 
