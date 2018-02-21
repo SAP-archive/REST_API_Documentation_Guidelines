@@ -15,7 +15,7 @@ Review documentatoin before publishing to ensure the content meets the requireme
 
 ### Style and standards
 
-The Style and Standards topic describes the grammar and preferred word choices, and ensures that your content meets the requirements for publication. Because this guide relies on the <a href="http://www.amazon.com/Microsoft-Manual-Style-4th-Edition/dp/0735648719">Microsoft Manual of Style - 4th Edition</a> (MMoS), this page documents only those standards that are applied differently, or that the MMoS does not address. Search this page for any term to read about the standard.
+The Style and Standards topic describes the grammar and preferred word choices, and ensures that your content meets the requirements for publication. Since this guide is based on the <a href="https://docs.microsoft.com/en-us/style-guide/">Microsoft Writing Style Guide</a>, this page documents only those standards that are applied differently, or that the Microsoft Writing Style Guide does not address.
 
 #### Grammar
 
