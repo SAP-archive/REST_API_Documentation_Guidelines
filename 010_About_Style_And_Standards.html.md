@@ -19,7 +19,7 @@ The Style and Standards topic describes the grammar and preferred word choices, 
 
 #### Grammar
 
-[Active voice](010_About_Style_And_Standards.html.md#active-voice) | [Tenses](010_About_Style_And_Standards.html.md#tenses) | [Imperative Mood](010_About_Style_And_Standards.html.md#imperative-mood) | [Pronouns](010_About_Style_And_Standards.html.md#pronouns) | [Serial commas](010_About_Style_And_Standards.html.md#serial-commas) | [Colon vs. semicolon](010_About_Style_And_Standards.html.md#colon-vs-semicolon) | [Articles](010_About_Style_And_Standards.html.md#articles) | [Terminology](010_About_Style_And_Standards.html.md#terminology)
+[Active voice](010_About_Style_And_Standards.html.md#active-voice) | [Tenses](010_About_Style_And_Standards.html.md#tenses) | [Imperative mood](010_About_Style_And_Standards.html.md#imperative-mood) | [Pronouns](010_About_Style_And_Standards.html.md#pronouns) | [Serial commas](010_About_Style_And_Standards.html.md#serial-commas) | [Colon vs. semicolon](010_About_Style_And_Standards.html.md#colon-vs-semicolon) | [Articles](010_About_Style_And_Standards.html.md#articles) | [Contractions](010_About_Style_And_Standards.html.md#contractions) |  [Terminology](010_About_Style_And_Standards.html.md#terminology)
 
 ##### Active voice
 Active voice is clear and concise, and avoids misinterpretation. It's also easier for non-native speakers to understand. Passive voice is weak and indirect, uses more words, and can lead to misinterpretation because it reverses the logical order of events. The proper order for sentence structure is subject, verb, and sometimes mentions an object. Passive voice uses object, passive verb, and sometimes the subject. Also, active voice uses the present tense of verbs which is more desirable than using past tense.
@@ -38,7 +38,7 @@ The more concise and straightforward you can be, the better.
 :white_check_mark: If the information does not match, an error message appears.<br>
 :no_entry: If the information does not match, an error will appear.
 
-##### Imperative Mood
+##### Imperative mood
 
 Use the imperative mood to write instructional documentation such as procedures and tutorials. The imperative mood tells the reader, directly, to do something. Other moods can imply optional behavior when you might not intend to present an action as optional.
 
@@ -83,6 +83,14 @@ Always verify the use of the articles "a", "an", and "the" where appropriate. Us
 :no_entry: Use the service to remove an item from a cart. In this tutorial, create a cart item and then delete an item from a cart.
 
 For more information, see the [Articles in English Grammar](https://github.com/YaaS/REST_API_Documentation_Guidelines/wiki//005-Articles-in-English-Grammar) blog post.
+
+##### Contractions
+
+It is okay to use contractions for a people-centric approach, but avoid using contractions that may be difficult for non-native English speakers to understand. Specifically, do not use the following:
+:no_entry: Any will contractions, such as you’ll or we’ll.
+:no_entry: Any would contractions, such as we’d or you’d.
+:no_entry: Any contractions that sound like other words, such as they’re (there), it’s (its), or you’re (your).
+:no_entry: Avoid using contractions for negative imperatives such as don’t. Instead, use do not, which has more power.
 
 ##### Terminology
 Here is some terminology that people often struggle with, and guidelines that surround each topic. Click on them for more details and examples.<br>
