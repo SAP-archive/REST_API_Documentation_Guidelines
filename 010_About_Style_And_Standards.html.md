@@ -86,7 +86,7 @@ For more information, see the [Articles in English Grammar](https://github.com/Y
 
 ##### Contractions
 
-It is okay to use contractions for a people-centric approach, but avoid using contractions that may be difficult for non-native English speakers to understand. Specifically, do not use the following:
+It is okay to use contractions for a people-centric approach, but avoid using ones that may be difficult for non-native English speakers to understand. Specifically, do not use the following:
 
 :no_entry: Any will contractions, such as you’ll or we’ll.<br>
 :no_entry: Any would contractions, such as we’d or you’d.<br>
