@@ -10,6 +10,7 @@
     * [Serial commas](010_About_Style_And_Standards.html.md#serial-commas)
     * [Colon vs. semicolon](010_About_Style_And_Standards.html.md#colon-vs-semicolon)
     * [Articles](010_About_Style_And_Standards.html.md#articles)
+    * [Contractions](010_About_Style_And_Standards.html.md#contractions)
     * [Terminology](010_About_Style_And_Standards.html.md#terminology)
     * [Voice and tone](010_About_Style_And_Standards.html.md#voice-and-tone)
 * [Syntax Guidelines](020_Syntax_Guidelines.html.md)
