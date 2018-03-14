@@ -88,10 +88,10 @@ For more information, see the [Articles in English Grammar](https://github.com/Y
 
 It is okay to use contractions for a people-centric approach, but avoid using ones that may be difficult for non-native English speakers to understand. Specifically, do not use the following:
 
-:no_entry: Any will contractions, such as you’ll or we’ll.<br>
-:no_entry: Any would contractions, such as we’d or you’d.<br>
-:no_entry: Any contractions that sound like other words, such as they’re (there), it’s (its), or you’re (your).<br>
-:no_entry: Avoid using contractions for negative imperatives such as don’t. Instead, use do not, which has more power.
+:no_entry: Any "will" contractions, such as "you’ll" or "we’ll".<br>
+:no_entry: Any "would" contractions, such as "we’d" or "you’d".<br>
+:no_entry: Any contractions that sound like other words, such as "they’re" (there), "it’s" (its), or "you’re" (your).<br>
+:no_entry: Avoid using contractions for negative imperatives such as "don’t". Instead, use "do not", which has more power.
 
 ##### Terminology
 Here is some terminology that people often struggle with, and guidelines that surround each topic. Click on them for more details and examples.<br>
