@@ -16,6 +16,7 @@
 * [Syntax Guidelines](020_Syntax_Guidelines.html.md)
   * [Code formatting](020_Syntax_Guidelines.html.md#code-formatting)
   * [Content formatting](020_Syntax_Guidelines.html.md#content-formatting)
+    * [Notes](020_Syntax_Guidelines.html.md#notes)
     * [Ordered and unordered lists](020_Syntax_Guidelines.html.md#ordered-and-unordered-lists)
     * [Tables](020_Syntax_Guidelines.html.md#tables)
     * [Headings](020_Syntax_Guidelines.html.md#headings)
