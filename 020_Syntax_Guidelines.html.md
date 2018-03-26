@@ -32,8 +32,8 @@ Parameter and value pairs | To perform a partial replacement, include `partial=t
 Format the content in an attention-grabbing way. In general, content is easier to read when it is in chunks. Consider breaking up endless paragraphs by using a list or table. Use action verbs and present tense for headings to engage the reader, and also follow the guidelines for the best way to include links and images.
 
 #### Notes
-To call attention to a specific note, such as a word of caution, or a tip, use this format:
->**Note:**
+To call attention to a specific note, such as a word of caution, or a tip, use this format: `>**Note:**` For example:
+>**Note:** Provision a Public IP for Ingress and a DNS record before you start the installation.
 
 #### Ordered and unordered lists
 As you write about your topic, use lists to create visual clarity within your content. List items in a category, or list items in a sequence. Use an ordered, or numbered, list for sequential, instructional steps. Unordered lists are appropriate for items that have no sequential order, such as a list of valid file types. Follow these guidelines:
