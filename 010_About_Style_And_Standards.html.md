@@ -42,10 +42,9 @@ The more concise and straightforward you can be, the better.
 
 Use the imperative mood to write instructional documentation such as procedures and tutorials. The imperative mood tells the reader, directly, to do something. Other moods can imply optional behavior when you might not intend to present an action as optional.
 
-For example, in instructions for uploading documents, clicking Upload is not a suggested, optional action. If the document provides instructions for how to upload documents, assume the readers wants to perform that action. Do not use language such as, "If you want to upload a document, you can click Upload" or, "By clicking Upload, you can choose how many documents you want to upload." Instead write, "Click Upload and select one or more documents."
-
-:white_check_mark: Click **Run** to execute the program.<br>
-:no_entry: The user should click **Run** to execute the program.
+:white_check_mark: Click **Upload** and select one or more documents.<br>
+:no_entry: If you want to upload a document, you can click **Upload**.<br>
+:no_entry: By clicking **Upload**, you can choose how many documents you want to upload.
 
 ##### Pronouns
 
